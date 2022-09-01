@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00f4" style="@style/0_resource_name_obfuscated_res_0x7f1501c4">
+    <RelativeLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00fd" style="@style/0_resource_name_obfuscated_res_0x7f1501cb">
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0100" style="@style/0_resource_name_obfuscated_res_0x7f1501ce">
+            <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00ff" style="@style/0_resource_name_obfuscated_res_0x7f1501cd"/>
+        </FrameLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toEndOf="@+id/0_resource_name_obfuscated_res_0x7f0b0100">
+            <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00fe" style="@style/0_resource_name_obfuscated_res_0x7f1501cc"/>
+            <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00f5" style="@style/0_resource_name_obfuscated_res_0x7f1501ca"/>
+        </LinearLayout>
+    </RelativeLayout>
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00fc" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:foreground="?android:attr/selectableItemBackground">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00fa" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/0_resource_name_obfuscated_res_0x7f1501c8"/>
+            <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00fb" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintDimensionRatio="1:1" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/0_resource_name_obfuscated_res_0x7f1501c9"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00f7" style="@style/0_resource_name_obfuscated_res_0x7f1501c5">
+        <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00f8" android:tag=".icon.clipboard-item-selector" android:src="@drawable/0_resource_name_obfuscated_res_0x7f08035e" style="@style/0_resource_name_obfuscated_res_0x7f1501c7"/>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0041"/>
+        <CheckBox android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00f6" style="@style/0_resource_name_obfuscated_res_0x7f1501c6"/>
+    </FrameLayout>
+</FrameLayout>

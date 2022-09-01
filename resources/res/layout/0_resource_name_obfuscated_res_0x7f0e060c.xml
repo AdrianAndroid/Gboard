@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto" android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:fadeScrollbars="false">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:paddingLeft="?attr/0_resource_name_obfuscated_res_0x7f0403b5" android:paddingTop="?attr/0_resource_name_obfuscated_res_0x7f0403b5" android:paddingRight="?attr/0_resource_name_obfuscated_res_0x7f0403b5" android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f07074a" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080316" android:importantForAccessibility="no"/>
+        <com.google.android.material.textview.MaterialTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21fd" android:text="@string/0_resource_name_obfuscated_res_0x7f14118d" style="@style/0_resource_name_obfuscated_res_0x7f1507ea"/>
+        <com.caverock.androidsvg.SVGImageView android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f070749" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070749" android:scaleType="centerInside" finsky:svg="@raw/0_resource_name_obfuscated_res_0x7f13006b"/>
+        <com.google.android.material.textview.MaterialTextView android:gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21fc" android:layout_marginLeft="24dp" android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f07074c" android:layout_marginRight="24dp" android:text="@string/0_resource_name_obfuscated_res_0x7f14118c" style="@style/0_resource_name_obfuscated_res_0x7f1507e8"/>
+    </LinearLayout>
+</ScrollView>

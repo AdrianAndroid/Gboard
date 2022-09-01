@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="@dimen/0_resource_name_obfuscated_res_0x7f070571" android:width="@dimen/0_resource_name_obfuscated_res_0x7f070572" android:viewportWidth="@integer/0_resource_name_obfuscated_res_0x7f0c00d3" android:viewportHeight="@integer/0_resource_name_obfuscated_res_0x7f0c00d2">
+    <path android:name="outline" android:pathData="@string/0_resource_name_obfuscated_res_0x7f14054a" android:strokeColor="?attr/0_resource_name_obfuscated_res_0x7f04033f" android:strokeWidth="2"/>
+</vector>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1cbd" long_press_data=":,·" press_data=";"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0cf1" long_press_data=";,·" press_data=":"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12dd" long_press_data="ύ,ϋ,ΰ" merge_index="1" press_data="υ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12c1" long_press_data="Ύ,Ϋ" merge_index="1" press_data="Υ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ca" long_press_data="έ" merge_index="1" press_data="ε"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b0" long_press_data="Έ" merge_index="1" press_data="Ε"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12cc" press_data="ς"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ce" long_press_data="ί,ϊ,ΐ" merge_index="1" press_data="ι"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b3" long_press_data="Ί,Ϊ" merge_index="1" press_data="Ι"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d4" long_press_data="ό,ο̈" merge_index="1" press_data="ο"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b9" long_press_data="Ό,Ο̈" merge_index="1" press_data="Ο"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12c5" long_press_data="ά,α̈" press_data="α"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ac" long_press_data="Ά,Α̈" press_data="Α"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12cb" long_press_data="ή" press_data="η"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b1" long_press_data="Ή" press_data="Η"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d3" long_press_data="ώ" press_data="ω"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b8" long_press_data="Ώ" press_data="Ω"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d9" long_press_data="σ̌" press_data="σ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12be" long_press_data="Σ̌" press_data="Σ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12de" long_press_data="ξ̌" press_data="ξ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12c2" long_press_data="Ξ̌" press_data="Ξ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12df" long_press_data="ζ̌" press_data="ζ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12c3" long_press_data="Ζ̌" press_data="Ζ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d7" long_press_data="ψ̌" press_data="ψ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12bc" long_press_data="Ψ̌" press_data="Ψ"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f03">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d8" press_data="ρ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12bd" press_data="Ρ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12da" press_data="τ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12bf" press_data="Τ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12db" press_data="θ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12c0" press_data="Θ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d6" press_data="π"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12bb" press_data="Π"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12c9" press_data="δ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12af" press_data="Δ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d5" press_data="φ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ba" press_data="Φ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12cd" press_data="γ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b2" press_data="Γ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12cf" press_data="κ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b4" press_data="Κ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d0" press_data="λ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b5" press_data="Λ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12c7" press_data="χ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ae" press_data="Χ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12c6" press_data="β"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ad" press_data="Β"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d2" press_data="ν"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b7" press_data="Ν"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12d1" press_data="μ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12b6" press_data="Μ"/>
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0219" android:tag=".icon.for-floating-handle" android:background="@drawable/0_resource_name_obfuscated_res_0x7f0801ec" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140519"/>

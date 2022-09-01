@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/0_resource_name_obfuscated_res_0x7f14087a">
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407c9" android:key="@string/0_resource_name_obfuscated_res_0x7f140668" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407cb">
+        <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+    </SwitchPreference>
+</PreferenceScreen>

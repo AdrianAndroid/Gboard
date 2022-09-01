@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@+id/0_resource_name_obfuscated_res_0x7f0b1ecd" layout="@layout/0_resource_name_obfuscated_res_0x7f0e057f" multi_touch="false">
+            <action data="$param_data$" keycode="KEYCODE_SOFT_LEFT" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$param_data$"/>
+        </softkey_template>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ecd">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f14" param_data="0" param_keycode="KEYCODE_0"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f15" param_data="1" param_keycode="KEYCODE_1"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f16" param_data="2" param_keycode="KEYCODE_2"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f17" param_data="3" param_keycode="KEYCODE_3"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f18" param_data="4" param_keycode="KEYCODE_4"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f19" param_data="5" param_keycode="KEYCODE_5"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f1a" param_data="6" param_keycode="KEYCODE_6"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f1b" param_data="7" param_keycode="KEYCODE_7"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f1c" param_data="8" param_keycode="KEYCODE_8"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f1d" param_data="9" param_keycode="KEYCODE_9"/>
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard candidate_text_size_ratio="1" class=".latin.keyboard.LatinPrimeKeyboard" popup="@attr/0_resource_name_obfuscated_res_0x7f040185" session_states="CAPS_LOCK">
+        <view always_show="false" layout="@layout/0_resource_name_obfuscated_res_0x7f0e013f" scalable="false" touchable="false" type="floating_candidates"/>
+        <if enable_more_candidates_view_for_multilingual="true" enable_multilingual_typing="true">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03ed" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c16"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a9f"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa0"/>
+            </view>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03e7" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c16"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a9f"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa0"/>
+            </view>
+        </else>
+        <view type="body">
+            <motion_event_handler class=".libs.latin5.handler.LatinMotionEventHandler"/>
+            <if enable_preemptive_decode="true">
+                <motion_event_handler class=".libs.latin5.handler.LatinPreemptiveDecodeHandler"/>
+            </if>
+            <motion_event_handler class=".libs.latin5.handler.LatinGestureMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140674" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <if enable_inline_suggestions_on_client_side="true">
+                <motion_event_handler class=".inlinesuggestion.InlineSuggestionScrubSpaceMotionEventHandler"/>
+            </if>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <motion_event_handler class=".libs.latin5.handler.LatinKeyboardLayoutHandler"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c0a"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f17"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f18"/>
+            <if device="tablet" keyboard_mode="normal">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bfe"/>
+            </if>
+            <else>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bfd"/>
+            </else>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a83"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a89"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a76"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a7f"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170b45"/>
+            <if enable_more_candidates_view_for_multilingual="true" enable_multilingual_typing="true">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bf7"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f1709bd"/>
+            </if>
+        </view>
+    </keyboard>
+    <if device="tablet" keyboard_mode="normal">
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f17071e"/>
+    </if>
+</framework>

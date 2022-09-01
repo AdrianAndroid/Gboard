@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:tag=".background-icon.nga-button" style="@style/0_resource_name_obfuscated_res_0x7f1501be"/>
+    <View android:tag=".background-icon.nga-button-ripple" style="@style/0_resource_name_obfuscated_res_0x7f1501c0"/>
+</merge>

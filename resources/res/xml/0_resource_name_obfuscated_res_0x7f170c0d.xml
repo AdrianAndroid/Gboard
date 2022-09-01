@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14020d" id="@+id/0_resource_name_obfuscated_res_0x7f0b0923" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0556" multi_touch="false">
+            <action keycode="KEYCODE_UNKNOWN" type="radial"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@attr/0_resource_name_obfuscated_res_0x7f0400dd"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0267" value="@drawable/0_resource_name_obfuscated_res_0x7f0801a4"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140194" id="@+id/0_resource_name_obfuscated_res_0x7f0b0924" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0555" multi_touch="false">
+            <action keycode="KEYCODE_SOFT_RIGHT" type="radial"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@attr/0_resource_name_obfuscated_res_0x7f0400de"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0267" value="@drawable/0_resource_name_obfuscated_res_0x7f0801a3"/>
+        </softkey>
+    </softkeys>
+</framework>

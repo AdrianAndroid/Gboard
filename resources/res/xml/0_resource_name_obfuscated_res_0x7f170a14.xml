@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b2069" view_id="@+id/key_pos_undo"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1843" view_id="@+id/key_pos_left_arrow"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d57" view_id="@+id/key_pos_switch_to_smiley"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0e06" view_id="@+id/key_pos_del"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c63" view_id="@+id/key_pos_right_arrow"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d0c" view_id="@+id/key_pos_space"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ccd" view_id="@+id/key_pos_more_candidates_foreground"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1996" view_id="@+id/key_pos_more_candidates_background"/>
+        <if japanese_use_tri_state_mode="false">
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14cd" view_id="@+id/key_pos_switch_to_symbol"/>
+        </if>
+    </key_mapping>
+    <key_mapping state="SHOW_EMOJI_SWITCH_KEY">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d57" view_id="@+id/key_pos_switch_to_smiley"/>
+    </key_mapping>
+    <key_mapping state="EMOJI_AVAILABLE">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d55" view_id="@+id/key_pos_switch_to_smiley"/>
+    </key_mapping>
+    <key_mapping state="MORE_CANDIDATES_SHOWN">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1414" view_id="@+id/key_pos_more_candidates_foreground"/>
+    </key_mapping>
+    <key_mapping state="FIRST_PAGE">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1995" view_id="@+id/key_pos_more_candidates_background"/>
+    </key_mapping>
+</framework>

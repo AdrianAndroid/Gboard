@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f1709bf"/>
+    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0fd8" view_id="@+id/key_pos_candidates_ime_action"/>
+    </key_mapping>
+    <key_mapping state="IME_ACTION_GO">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0926" view_id="@+id/key_pos_candidates_ime_action"/>
+    </key_mapping>
+    <key_mapping state="IME_ACTION_SEARCH">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0929" view_id="@+id/key_pos_candidates_ime_action"/>
+    </key_mapping>
+    <key_mapping state="IME_ACTION_SEND">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b092a" view_id="@+id/key_pos_candidates_ime_action"/>
+    </key_mapping>
+    <key_mapping state="IME_ACTION_NEXT">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0927" view_id="@+id/key_pos_candidates_ime_action"/>
+    </key_mapping>
+    <key_mapping state="IME_ACTION_PREVIOUS">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0928" view_id="@+id/key_pos_candidates_ime_action"/>
+    </key_mapping>
+    <key_mapping state="IME_ACTION_DONE">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0925" view_id="@+id/key_pos_candidates_ime_action"/>
+    </key_mapping>
+    <if language="zh|ja">
+        <key_mapping state="COMPOSING">
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0fd8" view_id="@+id/key_pos_candidates_ime_action"/>
+        </key_mapping>
+    </if>
+</framework>

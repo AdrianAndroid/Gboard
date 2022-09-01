@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/0_resource_name_obfuscated_res_0x7f1407b7">
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407c7" android:key="@string/0_resource_name_obfuscated_res_0x7f140661"/>
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407d3" android:key="@string/0_resource_name_obfuscated_res_0x7f140670">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_clipboard_entity_extraction=false"/>
+    </SwitchPreference>
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407dc" android:key="@string/0_resource_name_obfuscated_res_0x7f140682">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_clipboard_screenshot_paste=false"/>
+    </SwitchPreference>
+</PreferenceScreen>

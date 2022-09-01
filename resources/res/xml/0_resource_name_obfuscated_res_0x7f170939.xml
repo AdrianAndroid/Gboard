@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.gif.keyboard.GifSearchKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b06ab">
+        <view direction="bottom_to_top" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0124" scalable="false" type="header">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f20"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170b7b"/>
+        </view>
+        <view id="@+id/0_resource_name_obfuscated_res_0x7f0b0857" layout="@layout/0_resource_name_obfuscated_res_0x7f0e04e9"/>
+    </keyboard>
+</framework>

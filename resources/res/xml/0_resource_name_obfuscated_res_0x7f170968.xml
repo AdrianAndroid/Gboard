@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.universalmedia.UniversalMediaKeyboardM2" id="@+id/0_resource_name_obfuscated_res_0x7f0b0710" recent_key_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0580" recent_key_popup_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04c7" recent_key_type="smiley" remember_recent_key="ALL_ACTIONS">
+        <if enable_nav_redesign="true">
+            <view direction="bottom_to_top" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0115" scalable="false" type="header"/>
+        </if>
+        <else>
+            <view direction="bottom_to_top" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0114" scalable="false" type="header"/>
+        </else>
+        <view direction="bottom_to_top" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0411" type="body">
+            <motion_event_handler class=".libs.search.emoji.picker.EmojiPickerMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c13"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709fb"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f29" id="@+id/0_resource_name_obfuscated_res_0x7f0b20fe"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bb7"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0e"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bfa"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a07"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bf6"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a47"/>
+        </view>
+    </keyboard>
+</framework>

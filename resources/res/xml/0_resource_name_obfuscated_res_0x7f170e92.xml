@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <if device="tablet" device_size="large">
+        <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c91"/>
+    </if>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f00">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e5c" long_press_data="்‌‌‌,ஂ" press_data="அ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e5d" long_press_data="ா" press_data="ஆ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e64" long_press_data="ி" press_data="இ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e65" long_press_data="ீ" press_data="ஈ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e7b" long_press_data="ு" press_data="உ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e7c" long_press_data="ூ" press_data="ஊ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e61" long_press_data="ெ" press_data="எ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e62" long_press_data="ே" press_data="ஏ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e5e" long_press_data="ை" press_data="ஐ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e72" long_press_data="ொ,ௐ" press_data="ஒ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e73" long_press_data="ோ" press_data="ஓ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e5f" long_press_data="ௌ,ௗ" press_data="ஔ"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e67" long_press_data="க்,க்க,க்கி,க்கு" press_data="க"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e6e" long_press_data="ங்,ங்க,ங்கு" press_data="ங"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e60" long_press_data="ச்,ச்ச" press_data="ச"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e71" long_press_data="ஞ்,ஞ்ச" press_data="ஞ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e7a" long_press_data="ட்,ட்ட,ட்ச" press_data="ட"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e6f" long_press_data="ண்,ண்ண,ண்ட" press_data="ண"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e79" long_press_data="த்,த்த,த்து,த்தி" press_data="த"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e6d" long_press_data="ந்,ந்த,ந்து" press_data="ந"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e74" long_press_data="ப்,ப்ப,ப்பா" press_data="ப"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e6c" long_press_data="ம்,ம்ம,ம்ப,ம்பு" press_data="ம"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e7e" long_press_data="ய்,ய்ய,ய்யா" press_data="ய"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e75" long_press_data="ர்" press_data="ர"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e69" long_press_data="ல்,ல்ல,ல்லு" press_data="ல"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e7d" long_press_data="வ்,வ்வ" press_data="வ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e6b" long_press_data="ழ்" press_data="ழ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e6a" long_press_data="ள்,ள்ள,ள்ளி" press_data="ள"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e76" long_press_data="ற்,ற்ற,ற்றி" press_data="ற"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e70" long_press_data="ன்,ன்ன,ன்ற" press_data="ன"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e78" long_press_data="ஷ்,ஷ்ஷ,ஷ்வ,ஷ்ர" press_data="ஷ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e77" long_press_data="ஸ்,ஸ்ஸ,ஸ்வ,ஶ" press_data="ஸ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e66" long_press_data="ஜ்,ஜ்ஜி" press_data="ஜ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e63" long_press_data="ஹ்,ஹ்ர" press_data="ஹ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e68" press_data="க்ஷ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e7f" press_data="ஃ"/>
+        </softkey_list>
+    </softkeys>
+</framework>

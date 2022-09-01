@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13ec" long_press_data="״,&apos;,&quot;" press_data="׳"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b140b" long_press_data="-" press_data="־"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1421" long_press_data="־" press_data="-"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b190a" long_press_data="׳,״,&apos;,&quot;" press_data="_"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1400" press_data="ק"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1401" press_data="ר"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13ef" long_press_data="אַ,אָ" press_data="א"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1405" press_data="ט"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1407" long_press_data="ױ,װ,וּ,וֹ" press_data="ו"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f5" press_data="ן"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f4" press_data="ם"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13ff" long_press_data="פּ,פֿ" press_data="פ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1403" long_press_data="שׂ,שׁ" press_data="ש"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f2" press_data="ד"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f8" press_data="ג"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13fb" long_press_data="כּ" press_data="כ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f0" press_data="ע"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1408" long_press_data="ײ,ײַ,יִ" press_data="י"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13fa" press_data="ח"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13fc" press_data="ל"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f3" press_data="ך"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f6" press_data="ף"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1409" press_data="ז"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1402" press_data="ס"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f1" long_press_data="בּ,בֿ" press_data="ב"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f9" press_data="ה"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13fe" press_data="נ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13fd" press_data="מ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1406" press_data="צ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1404" long_press_data="תּ" press_data="ת"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b13f7" press_data="ץ"/>
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="ru" string_id="ime_russian" supports_inline_suggestion="true">
+        <keyboard_group supports_split_mode="true" variant="russian" variant_label="@string/0_resource_name_obfuscated_res_0x7f1410f1">
+            <if enable_number_row="true">
+                <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+            </if>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170920" type="prime">
+                <if enable_number_row="true">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707fc"/>
+                </if>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+        </keyboard_group>
+        <keyboard_group supports_split_mode="true" variant="russian_student" variant_label="@string/0_resource_name_obfuscated_res_0x7f1410f3">
+            <if enable_number_row="true">
+                <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+            </if>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170927" type="prime">
+                <if enable_number_row="true">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707fc"/>
+                </if>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+        </keyboard_group>
+        <keyboard_group supports_split_mode="true" variant="russian_yawert" variant_label="@string/0_resource_name_obfuscated_res_0x7f1410f4">
+            <if enable_number_row="true">
+                <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+            </if>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170928" type="prime">
+                <if enable_number_row="true">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707fc"/>
+                </if>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+        </keyboard_group>
+        <keyboard_group supports_split_mode="true" variant="russian_yazhert" variant_label="@string/0_resource_name_obfuscated_res_0x7f1410f5">
+            <if enable_number_row="true">
+                <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+            </if>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170929" type="prime">
+                <if enable_number_row="true">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707fc"/>
+                </if>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+        </keyboard_group>
+    </ime>
+</framework>

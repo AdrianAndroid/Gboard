@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f150287">
+    <FrameLayout style="@style/0_resource_name_obfuscated_res_0x7f15053f">
+        <ImageView style="@style/0_resource_name_obfuscated_res_0x7f1502d2"/>
+        <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.ReadingTextCandidateHolderView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b1416" default_sub_view_count="4" style="@style/0_resource_name_obfuscated_res_0x7f1501fb"/>
+    </FrameLayout>
+    <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2150" android:layout_width="0dp" android:weightSum="3" android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c0065" style="@style/0_resource_name_obfuscated_res_0x7f1501fc">
+        <LinearLayout android:weightSum="@integer/0_resource_name_obfuscated_res_0x7f0c0065" android:layout_weight="1" style="@style/0_resource_name_obfuscated_res_0x7f15034e">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_9key_1" android:layout_weight="234" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_9key_2" android:layout_weight="234" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_9key_3" android:layout_weight="234" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+        </LinearLayout>
+        <LinearLayout android:weightSum="@integer/0_resource_name_obfuscated_res_0x7f0c0065" android:layout_weight="1" style="@style/0_resource_name_obfuscated_res_0x7f15034e">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_9key_4" android:layout_weight="234" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_9key_5" android:layout_weight="234" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_9key_6" android:layout_weight="234" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+        </LinearLayout>
+        <LinearLayout android:weightSum="@integer/0_resource_name_obfuscated_res_0x7f0c0065" android:layout_weight="1" style="@style/0_resource_name_obfuscated_res_0x7f15034e">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_9key_7" android:layout_weight="234" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_9key_8" android:layout_weight="234" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_9key_9" android:layout_weight="234" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout style="@style/0_resource_name_obfuscated_res_0x7f150541">
+        <ImageView style="@style/0_resource_name_obfuscated_res_0x7f1502d1"/>
+        <LinearLayout android:weightSum="3" style="@style/0_resource_name_obfuscated_res_0x7f150351">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_del" android:layout_weight="1" style="@style/0_resource_name_obfuscated_res_0x7f1504f0"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ime_action" android:layout_weight="1" style="@style/0_resource_name_obfuscated_res_0x7f1504f0"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_shift" android:layout_weight="1" style="@style/0_resource_name_obfuscated_res_0x7f1504f0"/>
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

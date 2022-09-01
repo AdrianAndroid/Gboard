@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="0_resource_name_obfuscated_res_0x7f140061">Idinagdag sa mga paborito</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140062">Inalis sa mga paborito</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140073">Kailangan ng pahintulot sa camera para gumawa ng mga mini.</string>
+    <string name="avatar_customizer_label">I-customize ang iyong mga mini</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14008c">Walang koneksyon sa internet</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c4">I-customize ang %1$s pack</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c5">I-delete ang %1$s pack.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c6">Markahan ang %1$s pack bilang paborito</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c7">I-unmark ang %1$s pack bilang paborito</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c8">Mag-navigate pabalik</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140501">Artist: %1$s</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140502">Gawin</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140503">Mga mini na batay sa iyo</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140504">I-customize</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140505">Kanselahin</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140506">I-delete</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140507">Buburahin mo ang lahat ng content sa pack na %1$s.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140508">I-delete ang pack na ito?</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140509">Ibahagi ang sticker gamit ang</string>
+    <string name="megamode_title_label">Iyong mga mini</string>
+</resources>

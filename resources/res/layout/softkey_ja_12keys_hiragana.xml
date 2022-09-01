@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0266" style="@style/0_resource_name_obfuscated_res_0x7f150291">
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0745" style="@style/0_resource_name_obfuscated_res_0x7f1502f7"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b074c" android:layout_marginRight="?attr/0_resource_name_obfuscated_res_0x7f040147" style="@style/0_resource_name_obfuscated_res_0x7f1502f9"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0752" android:layout_marginBottom="?attr/0_resource_name_obfuscated_res_0x7f040148" style="@style/0_resource_name_obfuscated_res_0x7f1502f9"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0750" android:layout_marginLeft="?attr/0_resource_name_obfuscated_res_0x7f040147" style="@style/0_resource_name_obfuscated_res_0x7f1502f9"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0746" android:layout_marginTop="?attr/0_resource_name_obfuscated_res_0x7f040148" style="@style/0_resource_name_obfuscated_res_0x7f1502f9"/>
+</FrameLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keygroup_mapping group_view_id="@+id/0_resource_name_obfuscated_res_0x7f0b141c">
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c39"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1023"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0f9a"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b209f"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0cf4"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cbf"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0a4d"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d00"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c3b"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c0f"/>
+    </keygroup_mapping>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b2067" view_id="@+id/key_pos_function_key_on_candidates_view"/>
+    </key_mapping>
+    <key_mapping state="SINGLE_CHARACTER_CANDIDATE">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b2065" view_id="@+id/key_pos_function_key_on_candidates_view"/>
+    </key_mapping>
+</framework>

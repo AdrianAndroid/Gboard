@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.popup.SilkRectangularPopupView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0849" app:PopupBubbleHeight="?attr/0_resource_name_obfuscated_res_0x7f0401a0" app:PopupBubbleWidth="?attr/0_resource_name_obfuscated_res_0x7f0401a0" app:PopupDistance="@dimen/0_resource_name_obfuscated_res_0x7f070356" balanced_placement="false" first_key_as_default="true" hide_animation="@animator/0_resource_name_obfuscated_res_0x7f020027" image_view="@layout/0_resource_name_obfuscated_res_0x7f0e04d7" max_item_per_row="5" show_animation="@animator/0_resource_name_obfuscated_res_0x7f020045" style="@style/0_resource_name_obfuscated_res_0x7f1504a2" text_view="@layout/0_resource_name_obfuscated_res_0x7f0e04e0">
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b084b" style="@style/0_resource_name_obfuscated_res_0x7f1504a4">
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b084e" style="@style/0_resource_name_obfuscated_res_0x7f15049a"/>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b084a" style="@style/0_resource_name_obfuscated_res_0x7f1504a3"/>
+    </FrameLayout>
+</com.google.android.libraries.inputmethod.popup.SilkRectangularPopupView>

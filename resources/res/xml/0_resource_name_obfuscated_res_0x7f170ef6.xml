@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <if japanese_use_tri_state_mode="true">
+            <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f1401c9" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d55" layout="@layout/0_resource_name_obfuscated_res_0x7f0e056f">
+                <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="KEYCODE_UNKNOWN" type="radial"/>
+                <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080243"/>
+            </softkey>
+            <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f1401c9" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d57" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0570">
+                <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080243"/>
+            </softkey>
+        </if>
+    </softkeys>
+</framework>

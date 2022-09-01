@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:layoutDirection="inherit" style="@style/0_resource_name_obfuscated_res_0x7f1507c0">
+        <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21a9" android:layout_weight="1" style="@style/0_resource_name_obfuscated_res_0x7f1507bd"/>
+        <com.google.android.material.button.MaterialButton android:textSize="?attr/0_resource_name_obfuscated_res_0x7f0401fe" android:layout_gravity="center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21a8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="0" android:lineHeight="@dimen/0_resource_name_obfuscated_res_0x7f070715" style="?attr/0_resource_name_obfuscated_res_0x7f04028a"/>
+    </LinearLayout>
+</FrameLayout>

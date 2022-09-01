@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout style="@style/0_resource_name_obfuscated_res_0x7f15051b">
+    <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150515"/>
+    <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150517"/>
+    <View style="@style/0_resource_name_obfuscated_res_0x7f150518"/>
+    <com.google.android.libraries.inputmethod.widgets.TransformationTextView style="@style/0_resource_name_obfuscated_res_0x7f150519"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

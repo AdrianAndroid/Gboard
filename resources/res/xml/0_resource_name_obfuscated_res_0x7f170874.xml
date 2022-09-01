@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinDialKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b05c2">
+        <if show_suggestions="true">
+            <view always_show="false" direction="bottom_to_top|right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e03f5" scalable="false" type="header"/>
+        </if>
+        <if device="tablet">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0441" type="sweep">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f08"/>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170afe"/>
+            </view>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e043e" type="sweep">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f06"/>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170afd"/>
+            </view>
+        </else>
+    </keyboard>
+</framework>

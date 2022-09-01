@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f1406c6" reverse_preference="true"/>
+    <motion_event_handler class=".motioneventhandler.SpatialModelMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f1406c6" reverse_preference="false"/>
+</framework>

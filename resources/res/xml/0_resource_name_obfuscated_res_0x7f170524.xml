@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.impl.Keyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b0608">
+        <view id="@+id/0_resource_name_obfuscated_res_0x7f0b0847" layout="@layout/0_resource_name_obfuscated_res_0x7f0e04d9" type="radial"/>
+        <view id="@+id/0_resource_name_obfuscated_res_0x7f0b0848" layout="@layout/0_resource_name_obfuscated_res_0x7f0e04da" type="radial"/>
+    </keyboard>
+</framework>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f07070c" style="@style/0_resource_name_obfuscated_res_0x7f150709">
+        <Switch style="@style/0_resource_name_obfuscated_res_0x7f150708"/>
+        <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1"/>
+        <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150704"/>
+        <Space android:layout_width="12dp" android:layout_height="wrap_content"/>
+        <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150703"/>
+    </LinearLayout>
+    <FrameLayout style="@style/0_resource_name_obfuscated_res_0x7f150701">
+        <Button style="@style/0_resource_name_obfuscated_res_0x7f150700"/>
+    </FrameLayout>
+</merge>

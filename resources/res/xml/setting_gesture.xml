@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/0_resource_name_obfuscated_res_0x7f1407fc">
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140802" android:key="@string/0_resource_name_obfuscated_res_0x7f140674" android:summary="@string/0_resource_name_obfuscated_res_0x7f140801">
+        <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+    </SwitchPreference>
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140803" android:key="@string/0_resource_name_obfuscated_res_0x7f1406ab" android:dependency="@string/0_resource_name_obfuscated_res_0x7f140674">
+        <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+    </SwitchPreference>
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140877" android:key="@string/0_resource_name_obfuscated_res_0x7f140683" android:summary="@string/0_resource_name_obfuscated_res_0x7f140876">
+        <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+    </SwitchPreference>
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140879" android:key="@string/0_resource_name_obfuscated_res_0x7f140684" android:summary="@string/0_resource_name_obfuscated_res_0x7f140878">
+        <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+    </SwitchPreference>
+</PreferenceScreen>

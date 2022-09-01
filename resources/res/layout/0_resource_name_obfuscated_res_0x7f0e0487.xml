@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:tag=".nga-language-picker-entry-primary-background" android:background="#ffff" android:layout_width="match_parent" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0705a4" android:baselineAligned="false">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <android.support.v7.widget.AppCompatTextView android:layout_gravity="left" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07db" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/0_resource_name_obfuscated_res_0x7f1503ad"/>
+        <android.support.v7.widget.AppCompatTextView android:layout_gravity="left" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07da" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f14057e" style="@style/0_resource_name_obfuscated_res_0x7f1503ac"/>
+    </LinearLayout>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0485"/>
+</LinearLayout>

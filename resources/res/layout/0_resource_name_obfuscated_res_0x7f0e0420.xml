@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" style="@style/0_resource_name_obfuscated_res_0x7f15029d">
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00d0" style="@style/0_resource_name_obfuscated_res_0x7f15050a"/>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.google.android.libraries.inputmethod.widgets.AutoScaleXTextView android:textSize="?attr/0_resource_name_obfuscated_res_0x7f04008b" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0745" android:layout_height="wrap_content" android:fontFamily="sans-serif-medium" app:enableRelayout="false" app:minimumScale="?attr/0_resource_name_obfuscated_res_0x7f04008a" style="@style/0_resource_name_obfuscated_res_0x7f1502e1"/>
+        <com.google.android.libraries.inputmethod.widgets.AutoScaleXTextView android:textSize="?attr/0_resource_name_obfuscated_res_0x7f040089" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0747" android:layout_height="wrap_content" app:enableRelayout="false" app:minimumScale="?attr/0_resource_name_obfuscated_res_0x7f04008a" style="@style/0_resource_name_obfuscated_res_0x7f1502e1"/>
+    </LinearLayout>
+</FrameLayout>

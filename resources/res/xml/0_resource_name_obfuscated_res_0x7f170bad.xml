@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b205a" view_id="@+id/0_resource_name_obfuscated_res_0x7f0b21cd"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b205b" view_id="@+id/0_resource_name_obfuscated_res_0x7f0b21ce"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b205e" view_id="@+id/0_resource_name_obfuscated_res_0x7f0b21d1"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b205f" view_id="@+id/0_resource_name_obfuscated_res_0x7f0b21d2"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b205d" view_id="@+id/0_resource_name_obfuscated_res_0x7f0b21d0"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b205c" view_id="@+id/0_resource_name_obfuscated_res_0x7f0b21cf"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b2060" view_id="@+id/0_resource_name_obfuscated_res_0x7f0b21d3"/>
+        <if enable_nav_redesign="true">
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b2059" view_id="@+id/key_pos_translate_back"/>
+        </if>
+    </key_mapping>
+</framework>

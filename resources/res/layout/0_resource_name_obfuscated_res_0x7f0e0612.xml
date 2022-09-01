@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" style="@style/0_resource_name_obfuscated_res_0x7f1507ec">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0611"/>
+    <FrameLayout android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2203" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <FrameLayout android:layout_gravity="start|center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2202" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="10dp"/>
+    <android.support.v7.widget.AppCompatTextView android:textSize="?attr/0_resource_name_obfuscated_res_0x7f0401e0" android:textColor="?attr/0_resource_name_obfuscated_res_0x7f040066" android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2218" android:tag=".label.for-candidate-key" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no"/>
+    <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:layout_gravity="start" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2219" android:visibility="gone" android:paddingStart="10dp" style="@style/0_resource_name_obfuscated_res_0x7f1502ec"/>
+</FrameLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170e90"/>
+    <softkeys>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14059c" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d1d">
+            <action data="RECENTS" keycode="KEYCODE_2" type="PRESS"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140c37" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d1c">
+            <action data="GENERAL" keycode="KEYCODE_2" type="PRESS"/>
+        </softkey>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170e8c"/>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140c36" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d1c">
+            <action data="BRACKETS" keycode="KEYCODE_2" type="PRESS"/>
+        </softkey>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170e89"/>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140c32" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d1c">
+            <action data="ARROWS" keycode="KEYCODE_2" type="PRESS"/>
+        </softkey>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170e88"/>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140c38" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d1c">
+            <action data="MATHEMATICS" keycode="KEYCODE_2" type="PRESS"/>
+        </softkey>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170e8d"/>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140c39" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d1c">
+            <action data="NUMBERS" keycode="KEYCODE_2" type="PRESS"/>
+        </softkey>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170e8e"/>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140c3a" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d1c">
+            <action data="SHAPES" keycode="KEYCODE_2" type="PRESS"/>
+        </softkey>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170e8f"/>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140c33" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d1c">
+            <action data="FULL_WIDTH" keycode="KEYCODE_2" type="PRESS"/>
+        </softkey>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170e8b"/>
+    </softkeys>
+</framework>

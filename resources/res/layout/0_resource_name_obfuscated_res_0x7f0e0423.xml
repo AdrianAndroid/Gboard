@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_gravity="center" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="wrap_content" android:layout_height="match_parent">
+    <ImageView android:tag=".background-icon.spellchecker-suggestion" style="@style/0_resource_name_obfuscated_res_0x7f1501be"/>
+    <ImageView android:tag=".background-icon.spellchecker-suggestion-border" style="@style/0_resource_name_obfuscated_res_0x7f1501bf"/>
+    <View android:tag=".background-icon.spellchecker-suggestion-ripple" style="@style/0_resource_name_obfuscated_res_0x7f1501c0"/>
+    <com.google.android.libraries.inputmethod.widgets.AutoScaleXTextView android:textSize="14dp" android:textColor="@color/0_resource_name_obfuscated_res_0x7f060490" android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0745" android:tag=".keyboard-spellchecker-text" android:minWidth="52dp" android:fontFamily="@font/0_resource_name_obfuscated_res_0x7f09000c" android:layout_marginStart="5dp" android:layout_marginEnd="5dp" app:enableRelayout="true" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" app:minimumScale="0.7" style="@style/0_resource_name_obfuscated_res_0x7f1502e1"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

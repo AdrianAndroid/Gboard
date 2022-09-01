@@ -1,0 +1,57 @@
+package defpackage;
+
+/* compiled from: PG */
+/* renamed from: ghl  reason: default package */
+/* loaded from: classes.dex */
+public final class ghl extends nfm implements nha {
+    public static final ghl f;
+    private static volatile nhf g;
+    public int a;
+    public int c;
+    public float e;
+    public String b = "";
+    public nfs d = nfn.b;
+
+    static {
+        ghl ghlVar = new ghl();
+        f = ghlVar;
+        nfm.L(ghl.class, ghlVar);
+    }
+
+    private ghl() {
+    }
+
+    @Override // defpackage.nfm
+    protected final Object a(int i, Object obj) {
+        int i2 = i - 1;
+        if (i2 != 0) {
+            if (i2 == 2) {
+                return K(f, "\u0001\u0004\u0000\u0001\u0001\u0004\u0004\u0000\u0001\u0000\u0001ဈ\u0000\u0002င\u0001\u0003ခ\u0002\u0004\u0016", new Object[]{"a", "b", "c", "e", "d"});
+            }
+            if (i2 == 3) {
+                return new ghl();
+            }
+            if (i2 == 4) {
+                return new nfh(f);
+            }
+            if (i2 == 5) {
+                return f;
+            }
+            if (i2 != 6) {
+                return null;
+            }
+            nhf nhfVar = g;
+            if (nhfVar == null) {
+                synchronized (ghl.class) {
+                    nhfVar = g;
+                    if (nhfVar == null) {
+                        nhfVar = new nfi(f);
+                        g = nhfVar;
+                    }
+                }
+            }
+            return nhfVar;
+        }
+        return (byte) 1;
+    }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f15028a">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_morse_buffer" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="175"/>
+    <LinearLayout android:layout_weight="300" style="@style/0_resource_name_obfuscated_res_0x7f15034e">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_0_0" android:layout_weight="500" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150399"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_0_1" android:layout_weight="500" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+    </LinearLayout>
+</LinearLayout>

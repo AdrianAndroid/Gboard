@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="24dp" android:layout_marginEnd="42dp">
+            <android.support.v7.widget.AppCompatTextView android:layout_gravity="start" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07eb" style="@style/0_resource_name_obfuscated_res_0x7f1503b5"/>
+            <android.support.v7.widget.AppCompatTextView android:layout_gravity="start" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07f1" style="@style/0_resource_name_obfuscated_res_0x7f1503b4"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07e7" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <android.support.v7.widget.AppCompatTextView android:layout_gravity="start" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07e0" android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f0705aa" style="@style/0_resource_name_obfuscated_res_0x7f1503b1"/>
+        </LinearLayout>
+    </ScrollView>
+    <include android:layout_gravity="end|top" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/0_resource_name_obfuscated_res_0x7f0e048a"/>
+</FrameLayout>

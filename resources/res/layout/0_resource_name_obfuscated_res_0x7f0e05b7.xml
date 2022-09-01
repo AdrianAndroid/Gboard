@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:tag=".background.text-editing-selected-key" android:background="?attr/0_resource_name_obfuscated_res_0x7f04004f" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e05b5"/>
+</FrameLayout>

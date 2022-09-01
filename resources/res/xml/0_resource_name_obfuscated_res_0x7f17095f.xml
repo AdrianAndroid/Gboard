@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.translate.TranslateKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b06fc">
+        <view layout="@attr/0_resource_name_obfuscated_res_0x7f040201" type="header"/>
+        <view direction="bottom_to_top" scalable="false" type="header">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f28"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bad"/>
+        </view>
+    </keyboard>
+</framework>

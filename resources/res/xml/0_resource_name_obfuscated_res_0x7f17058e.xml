@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+    <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b048f">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0388" override="motion_event_handler" type="body">
+            <motion_event_handler class=".libs.latin5.handler.LatinMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <motion_event_handler class=".libs.latin5.handler.LatinKeyboardLayoutHandler"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c88"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a0d"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+        </view>
+        <if device="tablet" keyboard_mode="normal">
+            <if device="tablet" device_size="large">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0393" type="body"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0392" type="body"/>
+            </else>
+        </if>
+    </keyboard>
+</framework>

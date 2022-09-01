@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150351">
+        <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0265" android:layout_weight="600" style="@style/0_resource_name_obfuscated_res_0x7f15026c"/>
+    </LinearLayout>
+    <com.google.android.libraries.inputmethod.widgets.AutoCenteredLabelView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0746" style="@style/0_resource_name_obfuscated_res_0x7f1502fd"/>
+</merge>

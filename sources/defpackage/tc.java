@@ -1,0 +1,197 @@
+package defpackage;
+
+import java.util.Arrays;
+import java.util.HashMap;
+
+/* compiled from: PG */
+/* renamed from: tc  reason: default package */
+/* loaded from: classes2.dex */
+public final class tc {
+    int a;
+    public final tf b = new tf();
+    public final te c = new te();
+    public final td d = new td();
+    public final tg e = new tg();
+    public HashMap f = new HashMap();
+    tb g;
+
+    public final void a(sy syVar) {
+        td tdVar = this.d;
+        syVar.e = tdVar.j;
+        syVar.f = tdVar.k;
+        syVar.g = tdVar.l;
+        syVar.h = tdVar.m;
+        syVar.i = tdVar.n;
+        syVar.j = tdVar.o;
+        syVar.k = tdVar.p;
+        syVar.l = tdVar.q;
+        syVar.m = tdVar.r;
+        syVar.n = tdVar.s;
+        syVar.o = tdVar.t;
+        syVar.s = tdVar.u;
+        syVar.t = tdVar.v;
+        syVar.u = tdVar.w;
+        syVar.v = tdVar.x;
+        syVar.leftMargin = tdVar.H;
+        syVar.rightMargin = this.d.I;
+        syVar.topMargin = this.d.J;
+        syVar.bottomMargin = this.d.K;
+        td tdVar2 = this.d;
+        syVar.A = tdVar2.T;
+        syVar.B = tdVar2.S;
+        syVar.x = tdVar2.P;
+        syVar.z = tdVar2.R;
+        syVar.E = tdVar2.y;
+        syVar.F = tdVar2.z;
+        syVar.p = tdVar2.B;
+        syVar.q = tdVar2.C;
+        syVar.r = tdVar2.D;
+        syVar.G = tdVar2.A;
+        syVar.T = tdVar2.E;
+        syVar.U = tdVar2.F;
+        syVar.I = tdVar2.V;
+        syVar.H = tdVar2.W;
+        syVar.K = tdVar2.Y;
+        syVar.J = tdVar2.X;
+        syVar.W = tdVar2.an;
+        syVar.X = tdVar2.ao;
+        syVar.L = tdVar2.Z;
+        syVar.M = tdVar2.aa;
+        syVar.P = tdVar2.ab;
+        syVar.Q = tdVar2.ac;
+        syVar.N = tdVar2.ad;
+        syVar.O = tdVar2.ae;
+        syVar.R = tdVar2.af;
+        syVar.S = tdVar2.ag;
+        syVar.V = tdVar2.G;
+        syVar.c = tdVar2.h;
+        syVar.a = tdVar2.f;
+        syVar.b = tdVar2.g;
+        syVar.width = tdVar2.d;
+        syVar.height = this.d.e;
+        td tdVar3 = this.d;
+        String str = tdVar3.am;
+        if (str != null) {
+            syVar.Y = str;
+        }
+        syVar.Z = tdVar3.aq;
+        syVar.setMarginStart(tdVar3.M);
+        syVar.setMarginEnd(this.d.L);
+        syVar.a();
+    }
+
+    public final /* bridge */ /* synthetic */ Object clone() {
+        tc tcVar = new tc();
+        td tdVar = tcVar.d;
+        td tdVar2 = this.d;
+        tdVar.b = tdVar2.b;
+        tdVar.d = tdVar2.d;
+        tdVar.c = tdVar2.c;
+        tdVar.e = tdVar2.e;
+        tdVar.f = tdVar2.f;
+        tdVar.g = tdVar2.g;
+        tdVar.h = tdVar2.h;
+        tdVar.i = tdVar2.i;
+        tdVar.j = tdVar2.j;
+        tdVar.k = tdVar2.k;
+        tdVar.l = tdVar2.l;
+        tdVar.m = tdVar2.m;
+        tdVar.n = tdVar2.n;
+        tdVar.o = tdVar2.o;
+        tdVar.p = tdVar2.p;
+        tdVar.q = tdVar2.q;
+        tdVar.r = tdVar2.r;
+        tdVar.s = tdVar2.s;
+        tdVar.t = tdVar2.t;
+        tdVar.u = tdVar2.u;
+        tdVar.v = tdVar2.v;
+        tdVar.w = tdVar2.w;
+        tdVar.x = tdVar2.x;
+        tdVar.y = tdVar2.y;
+        tdVar.z = tdVar2.z;
+        tdVar.A = tdVar2.A;
+        tdVar.B = tdVar2.B;
+        tdVar.C = tdVar2.C;
+        tdVar.D = tdVar2.D;
+        tdVar.E = tdVar2.E;
+        tdVar.F = tdVar2.F;
+        tdVar.G = tdVar2.G;
+        tdVar.H = tdVar2.H;
+        tdVar.I = tdVar2.I;
+        tdVar.J = tdVar2.J;
+        tdVar.K = tdVar2.K;
+        tdVar.L = tdVar2.L;
+        tdVar.M = tdVar2.M;
+        tdVar.N = tdVar2.N;
+        tdVar.O = tdVar2.O;
+        tdVar.P = tdVar2.P;
+        tdVar.Q = tdVar2.Q;
+        tdVar.R = tdVar2.R;
+        tdVar.S = tdVar2.S;
+        tdVar.T = tdVar2.T;
+        tdVar.U = tdVar2.U;
+        tdVar.V = tdVar2.V;
+        tdVar.W = tdVar2.W;
+        tdVar.X = tdVar2.X;
+        tdVar.Y = tdVar2.Y;
+        tdVar.Z = tdVar2.Z;
+        tdVar.aa = tdVar2.aa;
+        tdVar.ab = tdVar2.ab;
+        tdVar.ac = tdVar2.ac;
+        tdVar.ad = tdVar2.ad;
+        tdVar.ae = tdVar2.ae;
+        tdVar.af = tdVar2.af;
+        tdVar.ag = tdVar2.ag;
+        tdVar.ah = tdVar2.ah;
+        tdVar.ai = tdVar2.ai;
+        tdVar.aj = tdVar2.aj;
+        tdVar.am = tdVar2.am;
+        int[] iArr = tdVar2.ak;
+        if (iArr == null || tdVar2.al != null) {
+            tdVar.ak = null;
+        } else {
+            tdVar.ak = Arrays.copyOf(iArr, iArr.length);
+        }
+        tdVar.al = tdVar2.al;
+        tdVar.an = tdVar2.an;
+        tdVar.ao = tdVar2.ao;
+        tdVar.ap = tdVar2.ap;
+        tdVar.aq = tdVar2.aq;
+        te teVar = tcVar.c;
+        te teVar2 = this.c;
+        teVar.b = teVar2.b;
+        teVar.c = teVar2.c;
+        teVar.e = teVar2.e;
+        teVar.f = teVar2.f;
+        teVar.g = teVar2.g;
+        teVar.j = teVar2.j;
+        teVar.h = teVar2.h;
+        teVar.i = teVar2.i;
+        tf tfVar = tcVar.b;
+        tf tfVar2 = this.b;
+        tfVar.a = tfVar2.a;
+        tfVar.b = tfVar2.b;
+        tfVar.d = tfVar2.d;
+        tfVar.e = tfVar2.e;
+        tfVar.c = tfVar2.c;
+        tg tgVar = tcVar.e;
+        tg tgVar2 = this.e;
+        tgVar.b = tgVar2.b;
+        tgVar.c = tgVar2.c;
+        tgVar.d = tgVar2.d;
+        tgVar.e = tgVar2.e;
+        tgVar.f = tgVar2.f;
+        tgVar.g = tgVar2.g;
+        tgVar.h = tgVar2.h;
+        tgVar.i = tgVar2.i;
+        tgVar.j = tgVar2.j;
+        tgVar.k = tgVar2.k;
+        tgVar.l = tgVar2.l;
+        tgVar.m = tgVar2.m;
+        tgVar.n = tgVar2.n;
+        tgVar.o = tgVar2.o;
+        tcVar.a = this.a;
+        tcVar.g = this.g;
+        return tcVar;
+    }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f150074" parent="@style/0_resource_name_obfuscated_res_0x7f15011a">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150084" parent="@style/0_resource_name_obfuscated_res_0x7f15011c">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15011a" parent="@style/0_resource_name_obfuscated_res_0x7f15010d">
+        <item name="android:navigationBarColor">@color/0_resource_name_obfuscated_res_0x7f0604e6</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15011c" parent="@style/0_resource_name_obfuscated_res_0x7f150111">
+        <item name="android:navigationBarColor">@color/0_resource_name_obfuscated_res_0x7f060272</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="StickerLightTheme" parent="@style/0_resource_name_obfuscated_res_0x7f150687">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:navigationBarColor">@color/0_resource_name_obfuscated_res_0x7f0608fd</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">@color/0_resource_name_obfuscated_res_0x7f0608ff</item>
+    </style>
+</resources>

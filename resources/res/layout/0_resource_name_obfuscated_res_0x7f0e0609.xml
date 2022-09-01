@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21f1" android:visibility="gone" android:layout_width="300dp" android:layout_height="wrap_content">
+    <com.caverock.androidsvg.SVGImageView android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitXY" android:adjustViewBounds="true" app:svg="@raw/0_resource_name_obfuscated_res_0x7f13006a"/>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="top|center_horizontal" android:paddingTop="18dp" android:layout_width="52dp" android:layout_height="52dp" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080316" android:importantForAccessibility="no"/>
+        <android.support.v7.widget.AppCompatTextView android:layout_gravity="center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21f6" android:paddingTop="10dp" android:paddingBottom="20dp" android:text="@string/0_resource_name_obfuscated_res_0x7f141187" android:paddingStart="30dp" android:paddingEnd="30dp" style="@style/0_resource_name_obfuscated_res_0x7f1507e9"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/0_resource_name_obfuscated_res_0x7f080320" android:tint="@color/0_resource_name_obfuscated_res_0x7f0603b8" android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f1507df"/>
+            <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1507e3">
+                <android.support.v7.widget.AppCompatTextView android:text="@string/0_resource_name_obfuscated_res_0x7f141183" style="@style/0_resource_name_obfuscated_res_0x7f1507e5"/>
+                <android.support.v7.widget.AppCompatTextView android:text="@string/0_resource_name_obfuscated_res_0x7f141182" style="@style/0_resource_name_obfuscated_res_0x7f1507e1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/0_resource_name_obfuscated_res_0x7f08035c" android:tint="@color/0_resource_name_obfuscated_res_0x7f0603b8" android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f1507df"/>
+            <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1507e3">
+                <android.support.v7.widget.AppCompatTextView android:text="@string/0_resource_name_obfuscated_res_0x7f14117f" style="@style/0_resource_name_obfuscated_res_0x7f1507e5"/>
+                <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:textColorLink="@color/0_resource_name_obfuscated_res_0x7f06092d" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21f2" android:text="@string/0_resource_name_obfuscated_res_0x7f14117e" style="@style/0_resource_name_obfuscated_res_0x7f1507e1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/0_resource_name_obfuscated_res_0x7f080366" android:tint="@color/0_resource_name_obfuscated_res_0x7f0603b8" android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f1507df"/>
+            <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1507e3">
+                <android.support.v7.widget.AppCompatTextView android:text="@string/0_resource_name_obfuscated_res_0x7f141181" style="@style/0_resource_name_obfuscated_res_0x7f1507e5"/>
+                <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:textColorLink="@color/0_resource_name_obfuscated_res_0x7f06092d" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21f3" android:text="@string/0_resource_name_obfuscated_res_0x7f141180" style="@style/0_resource_name_obfuscated_res_0x7f1507e1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="4dp" android:src="@color/0_resource_name_obfuscated_res_0x7f06092c" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f141186" android:layout_marginStart="22dp" android:layout_marginEnd="22dp"/>
+        <android.support.v7.widget.AppCompatTextView android:textSize="12dp" android:textStyle="normal" android:paddingTop="18dp" android:text="@string/0_resource_name_obfuscated_res_0x7f14117d" android:paddingStart="24dp" android:paddingEnd="22dp" style="@style/0_resource_name_obfuscated_res_0x7f1507e5"/>
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21f4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:text="@string/0_resource_name_obfuscated_res_0x7f141184" android:layout_marginEnd="12dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toStartOf="@+id/0_resource_name_obfuscated_res_0x7f0b21f5" app:layout_constraintTop_toTopOf="0" style="?attr/0_resource_name_obfuscated_res_0x7f04028a"/>
+            <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21f5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:text="@string/0_resource_name_obfuscated_res_0x7f141185" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0" style="?attr/0_resource_name_obfuscated_res_0x7f04028a"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+</FrameLayout>

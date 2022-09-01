@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keygroup_mapping group_view_id="@+id/0_resource_name_obfuscated_res_0x7f0b1416">
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c2c"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1978"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d12"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d00"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1851"/>
+        <key key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c71"/>
+    </keygroup_mapping>
+</framework>

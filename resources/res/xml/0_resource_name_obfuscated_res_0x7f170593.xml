@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.clipboard.ClipboardKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b0499">
+        <if enable_nav_redesign="true">
+            <view direction="bottom_to_top|right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0109" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bfb"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a12"/>
+            </view>
+        </if>
+        <else>
+            <view direction="bottom_to_top|right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0108" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bfb"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a12"/>
+            </view>
+        </else>
+        <view direction="bottom_to_top|right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0105" type="radial">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+        </view>
+    </keyboard>
+</framework>

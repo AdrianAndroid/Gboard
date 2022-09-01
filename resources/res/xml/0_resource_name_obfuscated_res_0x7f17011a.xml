@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard_group>
+        <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17096a" type="@string/0_resource_name_obfuscated_res_0x7f1403ac"/>
+    </keyboard_group>
+</framework>

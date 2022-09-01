@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+    <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b061c" popup="@layout/0_resource_name_obfuscated_res_0x7f0e04c3">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03ec" scalable="false" type="header"/>
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0181" override="motion_event_handler" type="body">
+            <motion_event_handler class=".libs.latin5.handler.LatinMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <motion_event_handler class=".libs.latin5.handler.LatinKeyboardLayoutHandler"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170de8"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f03"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170b24"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4e"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170aeb"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c10"/>
+            <key_mapping>
+                <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d08" view_id="@+id/key_pos_space"/>
+            </key_mapping>
+        </view>
+    </keyboard>
+    <if device="tablet">
+        <keyboard>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01fe" type="body">
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170b99"/>
+            </view>
+        </keyboard>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f1706f8"/>
+    </if>
+    <else>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f1706f6"/>
+    </else>
+</framework>

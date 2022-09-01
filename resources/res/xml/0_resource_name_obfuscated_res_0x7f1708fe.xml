@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinSymbolsKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b063c" popup="@attr/0_resource_name_obfuscated_res_0x7f040185" recent_key_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0581" recent_key_popup_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04c7">
+        <if burmese_zawgyi="true" language="my" variant="burmese">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03d6" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa2"/>
+            </view>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03d3" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa2"/>
+            </view>
+        </else>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170902"/>
+        <view type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <if language="zh">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0c"/>
+            </if>
+            <else>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0b"/>
+            </else>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c07"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0e"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170e01"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bf6"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c12"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709d4"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709f4"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709a1"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a8b"/>
+            <if device="tablet" device_size="large" keyboard_mode="normal">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170ef9"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ae0"/>
+            </if>
+            <if burmese_zawgyi="true" language="my" variant="burmese">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c10"/>
+                <key_mapping>
+                    <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d08" view_id="@+id/key_pos_space"/>
+                </key_mapping>
+            </if>
+        </view>
+    </keyboard>
+</framework>

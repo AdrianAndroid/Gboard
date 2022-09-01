@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eea">
+            <softkey hint_label="ٹٚ" id="@+id/0_resource_name_obfuscated_res_0x7f0b09d4" long_press_data="ٹٚ" long_press_label="ٹٚ" press_data="ٹ" press_label="ٹ"/>
+            <softkey hint_label="ؤ" id="@+id/0_resource_name_obfuscated_res_0x7f0b09d9" long_press_data="ؤ" long_press_label="ؤ" press_data="و" press_label="و"/>
+            <softkey hint_label="تٚ" id="@+id/0_resource_name_obfuscated_res_0x7f0b09cd" long_press_data="تٚ" long_press_label="تٚ" press_data="ت" press_label="ت"/>
+            <softkey hint_label="ۓ" id="@+id/0_resource_name_obfuscated_res_0x7f0b09e0" long_press_data="ۓ" long_press_label="ۓ" press_data="ے" press_label="ے"/>
+            <softkey hint_label="ۃ" id="@+id/0_resource_name_obfuscated_res_0x7f0b09ac" long_press_data="ۃ,ۂ" long_press_label="ۃ,ۂ" press_data="ہ" press_label="ہ"/>
+            <softkey hint_label="پٚ" id="@+id/0_resource_name_obfuscated_res_0x7f0b09bd" long_press_data="پٚ" long_press_label="پٚ" press_data="پ" press_label="پ"/>
+            <softkey hint_label="آ" id="@+id/0_resource_name_obfuscated_res_0x7f0b0994" long_press_data="آ" long_press_label="آ" press_data="ا" press_label="ا"/>
+            <softkey hint_label="کٚ" id="@+id/0_resource_name_obfuscated_res_0x7f0b09b2" long_press_data="کٚ" long_press_label="کٚ" press_data="ک" press_label="ک"/>
+            <softkey hint_label="ژ" id="@+id/0_resource_name_obfuscated_res_0x7f0b09e5" long_press_data="ژ" long_press_label="ژ" press_data="ز" press_label="ز"/>
+            <softkey hint_label="چٚ" id="@+id/0_resource_name_obfuscated_res_0x7f0b09cc" long_press_data="چٚ" long_press_label="چٚ" press_data="چ" press_label="چ"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0999" press_data="ض"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09c6" press_data="ص"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09a4" press_data="غ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09c5" press_data="ڑ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09d3" press_data="ث"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09a5" press_data="ح"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09e1" press_data="ئ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09e4" press_data="ظ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09cb" press_data="ط"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09be" press_data="ق"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0992" press_data="ع"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09bf" press_data="ر"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09a9" long_press_data="ٔ" press_data="ء"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b099f" press_data="ی"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09c7" press_data="س"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b099d" press_data="ڈ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b099a" press_data="د"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09a2" press_data="ف"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09a3" press_data="گ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09ab" press_data="ھ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09ad" press_data="ج"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09b5" press_data="ل"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09d2" press_data="ذ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09c9" press_data="ش"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09b3" press_data="خ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0998" press_data="ب"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09ba" press_data="ں"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09b9" press_data="ن"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b09b7" press_data="م"/>
+        </softkey_list>
+    </softkeys>
+</framework>

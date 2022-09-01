@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f15005c" parent="@style/0_resource_name_obfuscated_res_0x7f150117">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150063" parent="@style/0_resource_name_obfuscated_res_0x7f150118">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150117" parent="@style/0_resource_name_obfuscated_res_0x7f150106">
+        <item name="0_resource_name_obfuscated_res_0x7f04031a">?android:attr/colorError</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150118" parent="@style/0_resource_name_obfuscated_res_0x7f150107">
+        <item name="0_resource_name_obfuscated_res_0x7f04031a">?android:attr/colorError</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150119" parent="@style/0_resource_name_obfuscated_res_0x7f150127">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150160" parent="@style/0_resource_name_obfuscated_res_0x7f150119">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150647" parent="@style/Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="android:colorBackground">@color/0_resource_name_obfuscated_res_0x7f0608db</item>
+        <item name="android:clipChildren">true</item>
+        <item name="android:clipToPadding">true</item>
+        <item name="android:windowSoftInputMode">0x10</item>
+        <item name="android:colorError">@color/0_resource_name_obfuscated_res_0x7f0608dc</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04029f">@style/0_resource_name_obfuscated_res_0x7f1503a3</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0402a0">@style/0_resource_name_obfuscated_res_0x7f1503a4</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0402a1">@style/0_resource_name_obfuscated_res_0x7f1503e5</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040310">@color/0_resource_name_obfuscated_res_0x7f0608da</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0403b0">@dimen/0_resource_name_obfuscated_res_0x7f070640</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150840" parent="@android:style/Widget">
+        <item name="android:background">?attr/0_resource_name_obfuscated_res_0x7f040340</item>
+        <item name="android:stateListAnimator">@animator/0_resource_name_obfuscated_res_0x7f02000d</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+</resources>

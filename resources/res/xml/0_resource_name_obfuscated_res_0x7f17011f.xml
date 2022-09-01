@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="ab-GE" string_id="ime_abkhaz">
+        <keyboard_group variant="abkhaz" variant_label="@string/0_resource_name_obfuscated_res_0x7f140f34">
+            <if enable_number_row="true">
+                <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+            </if>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170523" type="prime">
+                <if enable_number_row="true">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f170804"/>
+                </if>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+    </ime>
+</framework>

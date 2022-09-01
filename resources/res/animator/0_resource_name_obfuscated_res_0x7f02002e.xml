@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_enabled="true" android:state_hovered="true">
+        <objectAnimator android:interpolator="@interpolator/0_resource_name_obfuscated_res_0x7f0d001d" android:duration="@integer/0_resource_name_obfuscated_res_0x7f0c008c" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f0703a4" android:valueType="floatType" android:propertyName="translationZ" android:startDelay="@integer/0_resource_name_obfuscated_res_0x7f0c008b"/>
+    </item>
+    <item android:state_enabled="true" app:state_dragged="true">
+        <objectAnimator android:interpolator="@interpolator/0_resource_name_obfuscated_res_0x7f0d001d" android:duration="@integer/0_resource_name_obfuscated_res_0x7f0c008c" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f0703a2" android:valueType="floatType" android:propertyName="translationZ" android:startDelay="@integer/0_resource_name_obfuscated_res_0x7f0c008b"/>
+    </item>
+    <item>
+        <set>
+            <objectAnimator android:interpolator="@anim/0_resource_name_obfuscated_res_0x7f01003f" android:duration="@integer/0_resource_name_obfuscated_res_0x7f0c008c" android:valueTo="0dp" android:valueType="floatType" android:propertyName="translationZ"/>
+        </set>
+    </item>
+    <item>
+        <objectAnimator android:duration="0" android:valueTo="0dp" android:valueType="floatType" android:propertyName="translationZ"/>
+    </item>
+</selector>

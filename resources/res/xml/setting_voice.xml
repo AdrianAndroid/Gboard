@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/0_resource_name_obfuscated_res_0x7f1408af">
+    <com.google.android.libraries.inputmethod.preferencewidgets.ColoredBackgroundSwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407e3" android:key="@string/0_resource_name_obfuscated_res_0x7f14068f"/>
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407db" android:key="@string/0_resource_name_obfuscated_res_0x7f14067d" android:summary="@string/0_resource_name_obfuscated_res_0x7f1405b6" android:dependency="@string/0_resource_name_obfuscated_res_0x7f14068f"/>
+    <com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407d1" android:key="@string/0_resource_name_obfuscated_res_0x7f14066e" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407e7" android:dependency="@string/0_resource_name_obfuscated_res_0x7f14068f">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_nga=false"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference>
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407d2" android:key="@string/0_resource_name_obfuscated_res_0x7f14066f" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407e4" android:dependency="@string/0_resource_name_obfuscated_res_0x7f14066e">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_nga=false"/>
+    </SwitchPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.AutoSyncedSwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407e2" android:key="@string/0_resource_name_obfuscated_res_0x7f14068e" android:summary="@string/0_resource_name_obfuscated_res_0x7f1408ae" android:dependency="@string/0_resource_name_obfuscated_res_0x7f14068f">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_voice_donation_flow=false"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.AutoSyncedSwitchPreference>
+    <Preference android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f140797" android:key="@string/0_resource_name_obfuscated_res_0x7f14071a" android:summary="@string/0_resource_name_obfuscated_res_0x7f140798" android:dependency="@string/0_resource_name_obfuscated_res_0x7f14068f">
+        <extra android:name="hide_if_flag_is_true" android:value="hide_offline_speech_recognition=false"/>
+    </Preference>
+</PreferenceScreen>

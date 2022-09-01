@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if device="tablet" device_size="large" keyboard_mode="normal">
+        <if enable_number_row="true">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03ae" type="linear"/>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03b9" type="linear"/>
+        </else>
+    </if>
+    <else_if device="tablet" keyboard_mode="normal">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03b8" type="linear"/>
+    </else_if>
+    <else_if device="foldable|tablet" keyboard_mode="split">
+        <if split_with_duplicate_keys="true">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03b1" type="linear"/>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03b2" type="linear"/>
+        </else>
+    </else_if>
+    <else>
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03b0" type="linear"/>
+    </else>
+</framework>

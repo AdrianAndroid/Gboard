@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0775" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:typeface="monospace" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0776" android:paddingLeft="@dimen/0_resource_name_obfuscated_res_0x7f07035d" android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f07035e" android:paddingRight="@dimen/0_resource_name_obfuscated_res_0x7f07035d" android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f07035e" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f07035d" android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f07035d"/>
+</ScrollView>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07fc" android:tag=".background-icon.for-nga-learning-center-key" android:background="@drawable/0_resource_name_obfuscated_res_0x7f080300" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f070598" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070598" android:importantForAccessibility="no">
+    <ImageView android:layout_gravity="center" android:tag=".icon.for-nga-learning-center-key" android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080336" android:scaleType="centerInside" android:contentDescription="@null"/>
+</FrameLayout>

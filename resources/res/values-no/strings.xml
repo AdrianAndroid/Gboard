@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="0_resource_name_obfuscated_res_0x7f140061">Lagt til i favoritter</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140062">Fjernet fra favoritter</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140073">Kameratillatelse kreves for å lage minier.</string>
+    <string name="avatar_customizer_label">Tilpass miniene dine</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14008c">Ingen internettilkobling</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c4">Tilpass denne pakken med brukerbilder: %1$s.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c5">Slett denne pakken med brukerbilder: %1$s.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c6">Merk denne pakken med brukerbilder som favoritt: %1$s.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c7">Opphev favorittmerkingen av denne pakken med brukerbilder: %1$s.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c8">Gå tilbake</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140501">Artist: %1$s</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140502">Opprett</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140503">Miniversjoner av deg</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140504">Tilpass</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140505">Avbryt</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140506">Slett</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140507">Du sletter alt innholdet i denne pakken: %1$s.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140508">Vil du slette denne pakken?</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140509">Del klistremerket ved å bruke</string>
+    <string name="megamode_title_label">Miniene dine</string>
+</resources>

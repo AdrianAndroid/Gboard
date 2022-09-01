@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f150243">
+        <item name="0_resource_name_obfuscated_res_0x7f040311">?attr/0_resource_name_obfuscated_res_0x7f040326</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040312">?attr/0_resource_name_obfuscated_res_0x7f04032f</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04075c">?attr/0_resource_name_obfuscated_res_0x7f040356</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04075d">?attr/0_resource_name_obfuscated_res_0x7f040358</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="@style/0_resource_name_obfuscated_res_0x7f150649">
+    </style>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@style/0_resource_name_obfuscated_res_0x7f150649">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@style/Theme.AppCompat.Dialog">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@style/Theme.AppCompat.Dialog.Alert">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="@style/Theme.AppCompat.Dialog.MinWidth">
+    </style>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="@style/Theme.AppCompat.DialogWhenLarge">
+    </style>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@style/Theme.AppCompat.NoActionBar">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150690" parent="@style/0_resource_name_obfuscated_res_0x7f150689">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150696" parent="@style/0_resource_name_obfuscated_res_0x7f15068f">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1507d0" parent="@style/0_resource_name_obfuscated_res_0x7f150751">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1507d3" parent="@style/0_resource_name_obfuscated_res_0x7f1508f0">
+    </style>
+</resources>

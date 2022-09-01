@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0840" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.AppCompatEditText android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b083f" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:hint="@string/0_resource_name_obfuscated_res_0x7f1405f0" android:maxLength="@integer/0_resource_name_obfuscated_res_0x7f0c00dc" android:inputType="textNoSuggestions" android:imeOptions="flagNoFullscreen|actionNext" android:layout_marginStart="8dp" android:layout_marginEnd="8dp">
+            <requestFocus/>
+        </android.support.v7.widget.AppCompatEditText>
+        <android.support.v7.widget.AppCompatTextView android:layout_gravity="start|center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b083e" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="@string/0_resource_name_obfuscated_res_0x7f1405ef" android:layout_marginStart="10dp" style="?android:attr/textAppearanceSmall"/>
+        <android.support.v7.widget.AppCompatEditText android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b083d" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/0_resource_name_obfuscated_res_0x7f1405ee" android:maxLength="@integer/0_resource_name_obfuscated_res_0x7f0c00dc" android:inputType="textNoSuggestions" android:imeOptions="flagNoFullscreen|actionDone" android:layout_marginStart="8dp" android:layout_marginEnd="8dp"/>
+    </LinearLayout>
+</ScrollView>

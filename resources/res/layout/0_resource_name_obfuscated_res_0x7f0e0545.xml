@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:layout_gravity="center" android:tag=".nav.back_key" android:background="@drawable/0_resource_name_obfuscated_res_0x7f080090" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f070103" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070103">
+    <android.support.v7.widget.AppCompatImageView android:gravity="center" android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0265" android:tag=".label" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f070102" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070102" android:scaleType="centerInside"/>
+</FrameLayout>

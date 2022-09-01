@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+    <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b059b">
+        <if device="tablet" keyboard_mode="normal">
+            <if device="tablet" device_size="large">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e02af" type="body"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e02ae" type="body"/>
+            </else>
+        </if>
+        <else_if device="foldable|tablet" keyboard_mode="split">
+            <if split_with_duplicate_keys="true">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e028e" type="body"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e028f" type="body"/>
+            </else>
+        </else_if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e028d" type="body"/>
+        </else>
+        <view override="motion_event_handler" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140689" reverse_preference="true"/>
+            <motion_event_handler class=".motioneventhandler.SpatialModelMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140689" reverse_preference="false"/>
+            <motion_event_handler class=".libs.korean.KoreanGestureMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140674" reverse_preference="false"/>
+            <motion_event_handler class=".libs.korean.KoreanKeyboardLayoutHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140674" reverse_preference="false"/>
+            <motion_event_handler class="com.google.android.libraries.inputmethod.motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170d77"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170acd"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a80"/>
+        </view>
+    </keyboard>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f17081f"/>
+</framework>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f140911" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d0e" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0546" long_press_delay_flag="@string/0_resource_name_obfuscated_res_0x7f140912" multi_touch="false">
+            <action data=" " keycode="KEYCODE_0" type="PRESS"/>
+            <action action_on_down="true" data="space" keycode="KEYCODE_ENDCALL" type="LONG_PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@attr/0_resource_name_obfuscated_res_0x7f0400e1"/>
+        </softkey>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f140911" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d0f" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0546" multi_touch="false">
+            <action data=" " keycode="KEYCODE_0" type="PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@attr/0_resource_name_obfuscated_res_0x7f0400e1"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140911" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d09" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05ad" long_press_delay_flag="@string/0_resource_name_obfuscated_res_0x7f140912">
+            <action data=" " keycode="KEYCODE_0" type="PRESS"/>
+            <action action_on_down="true" data="space" keycode="KEYCODE_ENDCALL" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="@string/0_resource_name_obfuscated_res_0x7f140425"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1d05" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05ac" multi_touch="false">
+            <action data="0" keycode="KEYCODE_SOFT_RIGHT" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="0"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140911" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d06" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05ad" long_press_delay_flag="@string/0_resource_name_obfuscated_res_0x7f140912">
+            <action data=" " keycode="KEYCODE_0" type="PRESS"/>
+            <action action_on_down="true" data="space" keycode="KEYCODE_ENDCALL" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value=" "/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140911" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d07" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05ad">
+            <action data=" " keycode="KEYCODE_0" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value=" "/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140911" id="@+id/0_resource_name_obfuscated_res_0x7f0b1aaa" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05ad" long_press_delay_flag="@string/0_resource_name_obfuscated_res_0x7f140912">
+            <action data=" " keycode="KEYCODE_0" type="PRESS"/>
+            <action action_on_down="true" data="space" keycode="KEYCODE_ENDCALL" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value=" "/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140911" id="@+id/0_resource_name_obfuscated_res_0x7f0b0915" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05b0" multi_touch="false" popup_timing="ON_GESTURE">
+            <action data=" " keycode="KEYCODE_0" type="PRESS"/>
+            <action data="0" intention="COMMIT" keycode="KEYCODE_SOFT_RIGHT" popup_label="0" popup_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04e8" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="@string/0_resource_name_obfuscated_res_0x7f140425"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0751" value="0"/>
+        </softkey>
+    </softkeys>
+</framework>

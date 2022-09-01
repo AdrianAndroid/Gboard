@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template alpha="$icon_alpha$" content_description="$desc$" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec0" layout="$layout$">
+            <action data="$param_data$" keycode="KEYCODE_CALL" type="PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="$param_icon$"/>
+        </softkey_template>
+    </softkeys>
+</framework>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:tag=".keyboard-header-area" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0124" style="@style/0_resource_name_obfuscated_res_0x7f1501f2"/>
+</FrameLayout>

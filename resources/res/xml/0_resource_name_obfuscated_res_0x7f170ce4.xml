@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1efe">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd5" press_data="ᜒ" press_label=" "/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd6" press_data="ᜓ" press_label=" "/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd4" press_data="᜔" press_label=" "/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f03">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dc9" press_data="ᜃ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dc6" press_data="ᜄ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dcd" press_data="ᜅ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd0" press_data="ᜆ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dc5" press_data="ᜇ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dcc" press_data="ᜈ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dce" press_data="ᜉ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dc4" press_data="ᜊ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dcb" press_data="ᜋ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd3" press_data="ᜌ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dca" press_data="ᜎ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd2" press_data="ᜏ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dc3" press_data="ᜀ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dc8" press_data="ᜁ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd1" press_data="ᜂ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dcf" press_data="ᜐ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dc7" press_data="ᜑ"/>
+        </softkey_list>
+    </softkeys>
+</framework>

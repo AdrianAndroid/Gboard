@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ebe" layout="@layout/0_resource_name_obfuscated_res_0x7f0e052d" popup_timing="ON_TOUCH">
+            <action data="$press_data$" intention="$press_intention=COMMIT$" keycode="KEYCODE_3" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+        </softkey_template>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ebe">
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1401ae" id="@+id/0_resource_name_obfuscated_res_0x7f0b0f9a" press_data="…"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140298" id="@+id/0_resource_name_obfuscated_res_0x7f0b209f" press_data="～"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140294" id="@+id/0_resource_name_obfuscated_res_0x7f0b1c39" press_data="？"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140290" id="@+id/0_resource_name_obfuscated_res_0x7f0b1023" press_data="！"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140297" id="@+id/0_resource_name_obfuscated_res_0x7f0b1cbf" press_data="；"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f14028e" id="@+id/0_resource_name_obfuscated_res_0x7f0b0cf4" press_data="："/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1978" press_data="-"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0a4d" press_data="@"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c3b" press_data="&quot;" press_intention="DECODE"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c0f" press_data="%"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1d00" press_data="/"/>
+        </softkey_list>
+    </softkeys>
+</framework>

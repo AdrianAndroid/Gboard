@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14030a" id="@+id/0_resource_name_obfuscated_res_0x7f0b090a" layout="@layout/0_resource_name_obfuscated_res_0x7f0e058c" multi_touch="false">
+            <action data="SUB_CATEGORY_2" keycode="KEYCODE_CALL" type="sweep"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="1/2"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14030e" id="@+id/0_resource_name_obfuscated_res_0x7f0b090b" layout="@layout/0_resource_name_obfuscated_res_0x7f0e058c" multi_touch="false">
+            <action data="SUB_CATEGORY_1" keycode="KEYCODE_CALL" type="sweep"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="2/2"/>
+        </softkey>
+    </softkeys>
+</framework>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="ms-XC" string_id="ime_malay_arabic_malaysia">
+        <keyboard_group supports_split_mode="true" variant="malay" variant_label="@string/0_resource_name_obfuscated_res_0x7f141086">
+            <if enable_number_row="true">
+                <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+            </if>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1708e4" type="prime">
+                <if enable_number_row="true">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707ff"/>
+                </if>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170980"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+    </ime>
+</framework>

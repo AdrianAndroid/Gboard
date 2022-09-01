@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ee4" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+            <action data="$press_data$" intention="DECODE" keycode="KEYCODE_2" popup_label="$press_data$" type="PRESS"/>
+            <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_2" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+        </softkey_template>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ee4">
+            <softkey desc="비읍" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c6" long_press_data="ㅃ" press_data="ㅂ"/>
+            <softkey desc="쌍비읍" id="@+id/0_resource_name_obfuscated_res_0x7f0b13cb" press_data="ㅃ"/>
+            <softkey desc="지읒" id="@+id/0_resource_name_obfuscated_res_0x7f0b13b9" long_press_data="ㅉ" press_data="ㅈ"/>
+            <softkey desc="쌍지읒" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c9" press_data="ㅉ"/>
+            <softkey desc="디귿" id="@+id/0_resource_name_obfuscated_res_0x7f0b13cf" long_press_data="ㄸ" press_data="ㄷ"/>
+            <softkey desc="쌍디귿" id="@+id/0_resource_name_obfuscated_res_0x7f0b13cd" press_data="ㄸ"/>
+            <softkey desc="기역" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c1" long_press_data="ㄲ" press_data="ㄱ"/>
+            <softkey desc="쌍기역" id="@+id/0_resource_name_obfuscated_res_0x7f0b13ca" press_data="ㄲ"/>
+            <softkey desc="시옷" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c8" long_press_data="ㅆ" press_data="ㅅ"/>
+            <softkey desc="쌍시옷" id="@+id/0_resource_name_obfuscated_res_0x7f0b13cc" press_data="ㅆ"/>
+            <softkey desc="요" id="@+id/0_resource_name_obfuscated_res_0x7f0b13d5" press_data="ㅛ"/>
+            <softkey desc="여" id="@+id/0_resource_name_obfuscated_res_0x7f0b13d4" press_data="ㅕ"/>
+            <softkey desc="야" id="@+id/0_resource_name_obfuscated_res_0x7f0b13d1" press_data="ㅑ"/>
+            <softkey desc="애" id="@+id/0_resource_name_obfuscated_res_0x7f0b13b6" long_press_data="ㅒ" press_data="ㅐ"/>
+            <softkey desc="얘" id="@+id/0_resource_name_obfuscated_res_0x7f0b13d2" press_data="ㅒ"/>
+            <softkey desc="에" id="@+id/0_resource_name_obfuscated_res_0x7f0b13ba" long_press_data="ㅖ" press_data="ㅔ"/>
+            <softkey desc="예" id="@+id/0_resource_name_obfuscated_res_0x7f0b13d3" press_data="ㅖ"/>
+            <softkey desc="미음" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c2" press_data="ㅁ"/>
+            <softkey desc="니은" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c3" press_data="ㄴ"/>
+            <softkey desc="이응" id="@+id/0_resource_name_obfuscated_res_0x7f0b13bf" press_data="ㅇ"/>
+            <softkey desc="리을" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c7" press_data="ㄹ"/>
+            <softkey desc="히읗" id="@+id/0_resource_name_obfuscated_res_0x7f0b13bd" press_data="ㅎ"/>
+            <softkey desc="오" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c4" press_data="ㅗ"/>
+            <softkey desc="어" id="@+id/0_resource_name_obfuscated_res_0x7f0b13bb" press_data="ㅓ"/>
+            <softkey desc="아" id="@+id/0_resource_name_obfuscated_res_0x7f0b13b5" press_data="ㅏ"/>
+            <softkey desc="이" id="@+id/0_resource_name_obfuscated_res_0x7f0b13be" press_data="ㅣ"/>
+            <softkey desc="키읔" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c0" press_data="ㅋ"/>
+            <softkey desc="티읕" id="@+id/0_resource_name_obfuscated_res_0x7f0b13ce" press_data="ㅌ"/>
+            <softkey desc="치읓" id="@+id/0_resource_name_obfuscated_res_0x7f0b13b8" press_data="ㅊ"/>
+            <softkey desc="피읖" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c5" press_data="ㅍ"/>
+            <softkey desc="유" id="@+id/0_resource_name_obfuscated_res_0x7f0b13d6" press_data="ㅠ"/>
+            <softkey desc="우" id="@+id/0_resource_name_obfuscated_res_0x7f0b13d0" press_data="ㅜ"/>
+            <softkey desc="으" id="@+id/0_resource_name_obfuscated_res_0x7f0b13bc" press_data="ㅡ"/>
+        </softkey_list>
+    </softkeys>
+</framework>

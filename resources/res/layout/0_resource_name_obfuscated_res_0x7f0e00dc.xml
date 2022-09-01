@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="0dp" android:layout_height="0dp">
+    <com.google.android.libraries.inputmethod.emoji.view.CustomImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0283" android:background="@drawable/0_resource_name_obfuscated_res_0x7f080387" android:paddingLeft="5dp" android:paddingTop="5dp" android:paddingRight="5dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@null" android:importantForAccessibility="yes" android:paddingHorizontal="5dp" android:paddingVertical="5dp"/>
+</FrameLayout>

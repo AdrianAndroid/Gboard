@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinNumberKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b064a">
+        <if show_suggestions="true">
+            <view always_show="false" direction="right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e03f5" scalable="false" type="header"/>
+        </if>
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0442" type="sweep">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f07"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170afb"/>
+        </view>
+    </keyboard>
+</framework>

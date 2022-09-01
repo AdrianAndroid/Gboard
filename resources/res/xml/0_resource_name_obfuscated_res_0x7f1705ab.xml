@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.expression.keyboard.ExpressionKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b04f3">
+        <view direction="" layout="@layout/0_resource_name_obfuscated_res_0x7f0e00a0" scalable="false" type="header"/>
+    </keyboard>
+</framework>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b010f" android:baselineAligned="false" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/0_resource_name_obfuscated_res_0x7f0b0110" style="@style/0_resource_name_obfuscated_res_0x7f1501eb">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="2">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0045"/>
+        <android.support.v7.widget.AppCompatTextView android:text="@string/0_resource_name_obfuscated_res_0x7f140103" style="@style/0_resource_name_obfuscated_res_0x7f1501e7"/>
+    </LinearLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+        <ImageView android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140104" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/0_resource_name_obfuscated_res_0x7f1501e5"/>
+        <com.google.android.material.button.MaterialButton android:id="@+id/0_resource_name_obfuscated_res_0x7f0b010d" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/0_resource_name_obfuscated_res_0x7f1501e2"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

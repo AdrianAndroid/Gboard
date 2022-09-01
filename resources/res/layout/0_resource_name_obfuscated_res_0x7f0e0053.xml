@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b012d" android:tag=".keyboard-header-area.for-non-prime-body" android:background="@color/0_resource_name_obfuscated_res_0x7f0604e6" android:layout_width="match_parent" android:layout_height="wrap_content" app:allowMockActionDown="false">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0056"/>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

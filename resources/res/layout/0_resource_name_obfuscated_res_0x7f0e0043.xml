@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b010e" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/0_resource_name_obfuscated_res_0x7f0b0110" style="@style/0_resource_name_obfuscated_res_0x7f1501ec">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0045"/>
+    <android.support.v7.widget.AppCompatTextView android:text="@string/0_resource_name_obfuscated_res_0x7f140103" style="@style/0_resource_name_obfuscated_res_0x7f1501e8"/>
+    <com.google.android.material.button.MaterialButton android:id="@+id/0_resource_name_obfuscated_res_0x7f0b010d" style="@style/0_resource_name_obfuscated_res_0x7f1501e3"/>
+</LinearLayout>

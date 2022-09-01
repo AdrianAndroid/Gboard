@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1081" popup_timing="ON_TOUCH">
+            <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="KEYCODE_SOFT_RIGHT" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080243" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04017f" type="linear"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1082" popup_timing="ON_TOUCH">
+            <action data="com.google.android.apps.inputmethod.libs.expression.extension.IEmojiOrGifExtension" keycode="KEYCODE_SOFT_RIGHT" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080244" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018a" type="linear"/>
+        </softkey>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" id="@+id/0_resource_name_obfuscated_res_0x7f0b1052" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0588">
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080243"/>
+        </softkey>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" id="@+id/0_resource_name_obfuscated_res_0x7f0b1053" layout="@layout/0_resource_name_obfuscated_res_0x7f0e058e">
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080243"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1083" popup_timing="ON_TOUCH">
+            <action data="@string/0_resource_name_obfuscated_res_0x7f1403a4" keycode="KEYCODE_HOME" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080240" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04017f" type="linear"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1084" popup_timing="ON_TOUCH">
+            <action data="@string/0_resource_name_obfuscated_res_0x7f1403a4" keycode="KEYCODE_HOME" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080241" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018a" type="linear"/>
+        </softkey>
+    </softkeys>
+</framework>

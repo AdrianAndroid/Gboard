@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0edf" long_press_data="१,ॽ,॰,ऽ" merge_index="1" press_data="ट"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0eff" long_press_data="२" merge_index="1" press_data="ौ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f03" long_press_data="३" merge_index="1" press_data="े"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e9e" long_press_data="४" merge_index="1" press_data="र"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ed2" long_press_data="५" merge_index="1" press_data="त"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ef0" long_press_data="६" merge_index="1" press_data="य"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f0c" long_press_data="७" merge_index="1" press_data="ु"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f04" long_press_data="८" merge_index="1" press_data="ि"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f06" long_press_data="९" merge_index="1" press_data="ो"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e95" long_press_data="०" merge_index="1" press_data="प"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ef9" long_press_data="ऽ" press_data="्"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ef3" long_press_data="ः,ँ,़" press_data="ं"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f03">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f05" press_data="ी"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0efe" press_data="ै"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0efd" press_data="ा"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f0e" press_data="ू"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f12" press_data="ृ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ef5" press_data="ँ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ee2" press_data="ठ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e1c" press_data="औ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ede" press_data="थ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e91" press_data="ञ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e92" press_data="ओ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e9b" press_data="फ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e5c" press_data="ई"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e5a" press_data="इ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e1a" press_data="आ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ec1" press_data="श"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e47" press_data="ध"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ee6" press_data="ऊ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e50" press_data="घ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e19" press_data="अ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e61" press_data="झ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e6c" press_data="ख"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e17" press_data="॥"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e1b" press_data="ऐ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0efa" press_data="ः"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0eb7" press_data="स"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e35" press_data="द"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ee4" press_data="उ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e4b" press_data="ग"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e54" press_data="ह"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e5d" press_data="ज"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e63" press_data="क"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e6e" press_data="ल"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e4a" press_data="ए"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ef2" press_data="ॐ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0eee" press_data="ऋ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e46" press_data="ढ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e33" press_data="छ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e26" press_data="भ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e8d" press_data="ण"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e8b" press_data="ङ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0eca" press_data="ष"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e42" press_data="ड"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e29" press_data="च"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ee8" press_data="व"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e1e" press_data="ब"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e82" press_data="न"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0e78" press_data="म"/>
+        </softkey_list>
+    </softkeys>
+</framework>

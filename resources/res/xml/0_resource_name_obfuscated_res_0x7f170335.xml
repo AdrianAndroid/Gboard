@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime class="com.google.android.libraries.inputmethod.ime.DummyIme" label="@string/0_resource_name_obfuscated_res_0x7f1405f5" language="und-Latn-x-phone-number" prime_keyboard_type="HARD_QWERTY" status_icon="@drawable/0_resource_name_obfuscated_res_0x7f08028c" string_id="phone_number_floating_hard_qwerty" supports_access_points="false">
+        <keyboard_group>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1705a3" type="prime"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+    </ime>
+</framework>

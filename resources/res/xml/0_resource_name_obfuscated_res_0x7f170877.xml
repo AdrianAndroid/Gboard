@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinPasswordKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b05c1" popup="@attr/0_resource_name_obfuscated_res_0x7f040185">
+        <view always_show="false" direction="right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e03f5" scalable="false" type="header"/>
+    </keyboard>
+</framework>

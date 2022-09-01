@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.google.android.apps.inputmethod.libs.expression.animatedview.AnimatedImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0080" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f070106" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070106" android:layout_marginLeft="4dp" android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f07010a" android:layout_marginRight="4dp" android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f070105" android:scaleType="fitCenter" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f1401cb" android:layout_marginHorizontal="4dp" app:measureStrategy="1" app:touchRipple="?android:attr/selectableItemBackground"/>
+</FrameLayout>

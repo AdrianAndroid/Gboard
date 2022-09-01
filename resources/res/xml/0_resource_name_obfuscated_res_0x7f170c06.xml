@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140d0f" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b2067" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0537" multi_touch="false">
+            <action data="SINGLE_CHARACTER_CANDIDATE" keycode="KEYCODE_SOFT_LEFT" type="sweep"/>
+            <if language="zh-TW|zh-HK">
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="@string/0_resource_name_obfuscated_res_0x7f1408df"/>
+            </if>
+            <else>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="@string/0_resource_name_obfuscated_res_0x7f1408de"/>
+            </else>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0267" value="@attr/0_resource_name_obfuscated_res_0x7f0400c5"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140d0e" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b2065" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0538" multi_touch="false">
+            <action data="SINGLE_CHARACTER_CANDIDATE" keycode="KEYCODE_UNKNOWN" type="sweep"/>
+            <if language="zh-TW|zh-HK">
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="@string/0_resource_name_obfuscated_res_0x7f1408df"/>
+            </if>
+            <else>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="@string/0_resource_name_obfuscated_res_0x7f1408de"/>
+            </else>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0267" value="@drawable/0_resource_name_obfuscated_res_0x7f0801ba"/>
+        </softkey>
+    </softkeys>
+</framework>

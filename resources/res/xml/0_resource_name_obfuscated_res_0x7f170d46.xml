@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170ccf"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170d47"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170f00"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170c00"/>
+</framework>

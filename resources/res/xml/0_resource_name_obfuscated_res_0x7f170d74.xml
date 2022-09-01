@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$content_desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ebb" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584">
+            <action data="$press_data$" intention="DECODE" keycode="KEYCODE_2" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$label$"/>
+        </softkey_template>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ebb">
+            <softkey content_desc="이" id="@+id/0_resource_name_obfuscated_res_0x7f0b13be" label="ㅣ" press_data="ㅣ"/>
+            <softkey content_desc="아래 아" id="@+id/0_resource_name_obfuscated_res_0x7f0b13b7" label="ㆍ" press_data="ㆍ"/>
+            <softkey content_desc="으" id="@+id/0_resource_name_obfuscated_res_0x7f0b13bc" label="ㅡ" press_data="ㅡ"/>
+            <softkey content_desc="기역" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c1" label="ㄱㅋ" press_data="ㄱ"/>
+            <softkey content_desc="니은" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c3" label="ㄴㄹ" press_data="ㄴ"/>
+            <softkey content_desc="디귿" id="@+id/0_resource_name_obfuscated_res_0x7f0b13cf" label="ㄷㅌ" press_data="ㄷ"/>
+            <softkey content_desc="비읍" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c6" label="ㅂㅍ" press_data="ㅂ"/>
+            <softkey content_desc="시옷" id="@+id/0_resource_name_obfuscated_res_0x7f0b13c8" label="ㅅㅎ" press_data="ㅅ"/>
+            <softkey content_desc="지읒" id="@+id/0_resource_name_obfuscated_res_0x7f0b13b9" label="ㅈㅊ" press_data="ㅈ"/>
+            <softkey content_desc="이응" id="@+id/0_resource_name_obfuscated_res_0x7f0b13bf" label="ㅇㅁ" press_data="ㅇ"/>
+        </softkey_list>
+        <softkey_template id="@+id/0_resource_name_obfuscated_res_0x7f0b1ebe" layout="@layout/0_resource_name_obfuscated_res_0x7f0e052d">
+            <action data="$press_data$" intention="COMMIT" keycode="KEYCODE_2" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+        </softkey_template>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ebe">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc0" press_data="."/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1020" press_data="!"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c36" press_data="?"/>
+        </softkey_list>
+    </softkeys>
+</framework>

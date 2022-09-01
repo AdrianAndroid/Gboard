@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d10" layout="@layout/0_resource_name_obfuscated_res_0x7f0e057f" multi_touch="false">
+            <action data="," keycode="KEYCODE_0" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value=","/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc0" layout="@layout/0_resource_name_obfuscated_res_0x7f0e057f" multi_touch="false">
+            <action data="." keycode="KEYCODE_5" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="."/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14050f" id="@+id/0_resource_name_obfuscated_res_0x7f0b1978" layout="@layout/0_resource_name_obfuscated_res_0x7f0e057f" multi_touch="false">
+            <action data="-" keycode="KEYCODE_3" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="−"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1d01" layout="@layout/0_resource_name_obfuscated_res_0x7f0e057f" multi_touch="false" popup_timing="ON_TOUCH">
+            <action data="/" intention="COMMIT" keycode="KEYCODE_9" type="PRESS"/>
+            <action action_on_down="true" data=":" intention="COMMIT" keycode="KEYCODE_6" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="/ :"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1d00" layout="@layout/0_resource_name_obfuscated_res_0x7f0e057f" multi_touch="false">
+            <action data="/" intention="COMMIT" keycode="KEYCODE_9" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="/"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0cf1" layout="@layout/0_resource_name_obfuscated_res_0x7f0e057f" multi_touch="false">
+            <action data=":" intention="COMMIT" keycode="KEYCODE_6" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value=":"/>
+        </softkey>
+        <softkey_list splitter=",">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc1" layout="@layout/0_resource_name_obfuscated_res_0x7f0e057f" multi_touch="false" popup_timing="ON_TOUCH">
+                <action data="." intention="COMMIT" keycode="KEYCODE_5" type="PRESS"/>
+                <action data="PM,AM" intention="C,C" keycode="KEYCODE_6" popup_label="PM,AM" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="."/>
+            </softkey>
+        </softkey_list>
+    </softkeys>
+</framework>

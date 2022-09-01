@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.v7.widget.AppCompatTextView android:textSize="?attr/0_resource_name_obfuscated_res_0x7f040105" android:visibility="visible" android:text="⇔" style="@style/0_resource_name_obfuscated_res_0x7f1502db"/>
+    <android.support.v7.widget.AppCompatTextView android:visibility="visible" android:layout_marginRight="?attr/0_resource_name_obfuscated_res_0x7f040140" android:text="a" style="@style/0_resource_name_obfuscated_res_0x7f1502fb"/>
+    <android.support.v7.widget.AppCompatTextView android:visibility="visible" android:layout_marginLeft="?attr/0_resource_name_obfuscated_res_0x7f040141" android:text="A" style="@style/0_resource_name_obfuscated_res_0x7f1502fb"/>
+</FrameLayout>

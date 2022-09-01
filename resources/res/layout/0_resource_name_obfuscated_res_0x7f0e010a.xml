@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b04ca" android:layout_width="match_parent" android:layout_height="match_parent" android:splitMotionEvents="false">
+    <com.google.android.libraries.inputmethod.keyboardmode.MultiTouchDelegateView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b04cb" style="@style/0_resource_name_obfuscated_res_0x7f1502af"/>
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b04cc" android:splitMotionEvents="false" style="@style/0_resource_name_obfuscated_res_0x7f1502b0">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e010d"/>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e010e"/>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e010b"/>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e010c"/>
+        <LinearLayout android:orientation="horizontal" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent" android:splitMotionEvents="false">
+            <FrameLayout android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c006f" style="@style/0_resource_name_obfuscated_res_0x7f1502aa"/>
+            <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0890" style="@style/0_resource_name_obfuscated_res_0x7f1502ad"/>
+            <FrameLayout android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c006f" style="@style/0_resource_name_obfuscated_res_0x7f1502aa"/>
+            <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07ae" style="@style/0_resource_name_obfuscated_res_0x7f1502ac"/>
+            <FrameLayout android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c006f" style="@style/0_resource_name_obfuscated_res_0x7f1502aa"/>
+            <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b01a6" style="@style/0_resource_name_obfuscated_res_0x7f1502ab"/>
+            <FrameLayout android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c006f" style="@style/0_resource_name_obfuscated_res_0x7f1502aa"/>
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f070053"/>
+            <solid android:color="?attr/0_resource_name_obfuscated_res_0x7f04005d"/>
+            <size android:height="@dimen/0_resource_name_obfuscated_res_0x7f070059" android:width="@dimen/0_resource_name_obfuscated_res_0x7f07005a"/>
+        </shape>
+    </item>
+    <item android:state_activated="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f070053"/>
+            <solid android:color="?attr/0_resource_name_obfuscated_res_0x7f04005b"/>
+            <size android:height="@dimen/0_resource_name_obfuscated_res_0x7f070059" android:width="@dimen/0_resource_name_obfuscated_res_0x7f07005a"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f070053"/>
+            <solid android:color="?attr/0_resource_name_obfuscated_res_0x7f04005c"/>
+            <size android:height="@dimen/0_resource_name_obfuscated_res_0x7f070059" android:width="@dimen/0_resource_name_obfuscated_res_0x7f07005a"/>
+        </shape>
+    </item>
+</selector>

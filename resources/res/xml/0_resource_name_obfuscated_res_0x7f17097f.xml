@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".libs.pinyin.PinyinHardKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b073e">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0132" scalable="false" type="header">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c16"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a9f"/>
+        </view>
+        <view always_show="false" layout="@layout/0_resource_name_obfuscated_res_0x7f0e03a2" type="sweep">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bf7"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709de"/>
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0067" android:layout_above="@+id/0_resource_name_obfuscated_res_0x7f0b0069" style="@style/0_resource_name_obfuscated_res_0x7f150007">
+    <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0066" android:importantForAccessibility="no" android:layoutDirection="inherit" style="@style/0_resource_name_obfuscated_res_0x7f150006">
+        <android.support.v7.widget.AppCompatTextView android:text="@string/0_resource_name_obfuscated_res_0x7f140040" style="@style/0_resource_name_obfuscated_res_0x7f150009"/>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="69dp" android:paddingStart="0dp" android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f07006a">
+            <com.google.android.libraries.inputmethod.widgets.EditTextOnKeyboard android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0068" android:layout_centerVertical="true" style="@style/0_resource_name_obfuscated_res_0x7f150008"/>
+        </RelativeLayout>
+        <LinearLayout android:layoutDirection="inherit" style="@style/0_resource_name_obfuscated_res_0x7f150005">
+            <com.google.android.material.button.MaterialButton android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f070068" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0064" android:tag=".keyboard-clipboard-dialog-negative-button" android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f070067" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f070065" android:text="@string/0_resource_name_obfuscated_res_0x7f140400" style="?attr/0_resource_name_obfuscated_res_0x7f04028a"/>
+            <com.google.android.material.button.MaterialButton android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f070068" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0065" android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f070067" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f070065" android:text="@string/0_resource_name_obfuscated_res_0x7f14003e" style="?attr/0_resource_name_obfuscated_res_0x7f04028a"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinPasswordKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b05c1" popup="@attr/0_resource_name_obfuscated_res_0x7f040185">
+        <view type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c0a"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f17"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f18"/>
+            <if device="tablet" keyboard_mode="normal">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bfe"/>
+            </if>
+            <else>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bfd"/>
+            </else>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a83"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a89"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a76"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a82"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170b47"/>
+        </view>
+    </keyboard>
+</framework>

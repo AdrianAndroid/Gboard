@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" style="@style/0_resource_name_obfuscated_res_0x7f15029d">
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00d0" style="@style/0_resource_name_obfuscated_res_0x7f15050a"/>
+    <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:textSize="?attr/0_resource_name_obfuscated_res_0x7f0401e1" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0745" app:minimumTextSize="?attr/0_resource_name_obfuscated_res_0x7f04015d" style="@style/0_resource_name_obfuscated_res_0x7f1502e0"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0749" style="@style/0_resource_name_obfuscated_res_0x7f150321"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0748" style="@style/0_resource_name_obfuscated_res_0x7f15031e"/>
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.sharing.GboardSharingSetupDonePage xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f15022d">
+    <androidx.core.widget.NestedScrollView android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:fadeScrollbars="false">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e00b3"/>
+            <android.support.v7.widget.AppCompatTextView android:text="@string/0_resource_name_obfuscated_res_0x7f1408b9" style="@style/0_resource_name_obfuscated_res_0x7f150237"/>
+            <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b020b" android:paddingLeft="@dimen/0_resource_name_obfuscated_res_0x7f070652" android:paddingRight="@dimen/0_resource_name_obfuscated_res_0x7f070652" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b020c" android:layout_marginBottom="14dp" android:text="@string/0_resource_name_obfuscated_res_0x7f140270" style="@style/0_resource_name_obfuscated_res_0x7f150231"/>
+                <ImageView android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f150498"/>
+                <android.support.v7.widget.RecyclerView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b020d" android:layout_width="match_parent" android:layout_height="wrap_content" android:nestedScrollingEnabled="false"/>
+                <ImageView android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f150498"/>
+            </LinearLayout>
+            <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0208" android:text="@string/0_resource_name_obfuscated_res_0x7f14026a" style="@style/0_resource_name_obfuscated_res_0x7f150231"/>
+            <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0207" android:text="@string/0_resource_name_obfuscated_res_0x7f140d11" style="@style/0_resource_name_obfuscated_res_0x7f15022e"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</com.google.android.apps.inputmethod.libs.sharing.GboardSharingSetupDonePage>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.accesspoint.impl.AccessPointDragPopupView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content" android:layout_height="wrap_content" drag_view="@+id/0_resource_name_obfuscated_res_0x7f0b01a8" focus_animate_view="@layout/0_resource_name_obfuscated_res_0x7f0e001c">
+    <FrameLayout android:layout_gravity="top|left" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b01a8" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0265" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08009c" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f07016d" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f07016d" android:scaleType="centerInside"/>
+        <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f07016c" android:src="@drawable/0_resource_name_obfuscated_res_0x7f0801e0"/>
+    </FrameLayout>
+</com.google.android.libraries.inputmethod.accesspoint.impl.AccessPointDragPopupView>

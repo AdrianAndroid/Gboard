@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@+id/0_resource_name_obfuscated_res_0x7f0b1f07" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0">
+            <action data="$text$" intention="COMMIT" keycode="KEYCODE_BACK" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$text$"/>
+        </softkey_template>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f07">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1cce" text="&apos;"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c36" text="@string/0_resource_name_obfuscated_res_0x7f140744"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1020" text="@string/0_resource_name_obfuscated_res_0x7f140743"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d10" text="@string/0_resource_name_obfuscated_res_0x7f140742"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc0" text="@string/0_resource_name_obfuscated_res_0x7f140746"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0cf1" text="@string/0_resource_name_obfuscated_res_0x7f140741"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1cbd" text="@string/0_resource_name_obfuscated_res_0x7f140745"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0a4d" text="@"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1240" text="？"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b123d" text="！"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1423" text="。"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b123c" text="，"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b123b" text="："/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1243" text="；"/>
+        </softkey_list>
+    </softkeys>
+</framework>

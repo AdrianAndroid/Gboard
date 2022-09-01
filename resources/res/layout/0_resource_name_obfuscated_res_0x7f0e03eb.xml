@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f150251">
+    <com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout style="@style/0_resource_name_obfuscated_res_0x7f150259">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0259" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" app:managed="true">
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0134"/>
+            <com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toStartOf="@+id/0_resource_name_obfuscated_res_0x7f0b025a" app:layout_constraintStart_toEndOf="@+id/key_pos_header_access_points_menu" app:layout_constraintTop_toTopOf="0" style="@style/0_resource_name_obfuscated_res_0x7f15025b">
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0137"/>
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0133"/>
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e013b"/>
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0501"/>
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0613"/>
+            </com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0138"/>
+            <include layout="@attr/0_resource_name_obfuscated_res_0x7f040004"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <FrameLayout app:managed="true" style="@style/0_resource_name_obfuscated_res_0x7f150255">
+            <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.FixedSizeCandidatesHolderView android:id="@+id/softkey_holder_fixed_candidates" android:visibility="visible" best_candidate_width_percentile="0.2" candidate_background="@android:color/transparent" candidate_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0536" contextual_candidate_layout="@layout/0_resource_name_obfuscated_res_0x7f0e041e" contextual_special_candidate_layout="@layout/0_resource_name_obfuscated_res_0x7f0e041f" last_column_candidate_background="@android:color/transparent" max_candidates_count="@integer/0_resource_name_obfuscated_res_0x7f0c00b7" style="@style/0_resource_name_obfuscated_res_0x7f1501b5"/>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e013d"/>
+        </FrameLayout>
+    </com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

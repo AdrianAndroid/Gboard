@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f15028d">
+    <LinearLayout android:baselineAligned="false" style="@style/0_resource_name_obfuscated_res_0x7f1501aa">
+        <FrameLayout style="@style/0_resource_name_obfuscated_res_0x7f1502d8">
+            <ImageView style="@style/0_resource_name_obfuscated_res_0x7f1502d0"/>
+            <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150351">
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_undo" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f1504f0"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_left_arrow" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f1504f0"/>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="250">
+                    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_switch_to_symbol" android:visibility="gone" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504f4"/>
+                    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_switch_to_smiley" android:visibility="gone" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504f4"/>
+                </LinearLayout>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_switch_hiragana_alphabet" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f1504f2"/>
+            </LinearLayout>
+        </FrameLayout>
+        <LinearLayout android:layout_width="0dp" android:layout_weight="600" style="@style/0_resource_name_obfuscated_res_0x7f1501fc">
+            <LinearLayout android:weightSum="600" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f15034e">
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_0" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_1" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_2" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            </LinearLayout>
+            <LinearLayout android:weightSum="600" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f15034e">
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_3" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_4" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_5" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            </LinearLayout>
+            <LinearLayout android:weightSum="600" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f15034e">
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_6" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_7" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_8" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            </LinearLayout>
+            <LinearLayout android:weightSum="600" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f15034e">
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_9" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_10" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ja_12keys_key_11" android:layout_weight="200" style="@style/0_resource_name_obfuscated_res_0x7f150502"/>
+            </LinearLayout>
+        </LinearLayout>
+        <FrameLayout style="@style/0_resource_name_obfuscated_res_0x7f1502d8">
+            <ImageView style="@style/0_resource_name_obfuscated_res_0x7f1502cf"/>
+            <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150351">
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_del" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f1504f0"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_right_arrow" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f1504f0"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_space" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f1504f0"/>
+                <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ime_action" android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f1504fd"/>
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" style="@style/0_resource_name_obfuscated_res_0x7f150285">
+    <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1000">
+        <FrameLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="300">
+            <ImageView style="@style/0_resource_name_obfuscated_res_0x7f1502d2"/>
+            <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.FixedSizeSoftKeyViewsPage android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b1417" android:layout_width="match_parent" android:layout_height="match_parent" android:horizontalSpacing="0dp" android:verticalSpacing="0dp" app:columnCount="3" app:rowCount="3" app:softkeyviewLayout="@layout/0_resource_name_obfuscated_res_0x7f0e044e"/>
+        </FrameLayout>
+        <FrameLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="500">
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e043b"/>
+        </FrameLayout>
+        <FrameLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="200">
+            <ImageView style="@style/0_resource_name_obfuscated_res_0x7f1502d1"/>
+            <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.FixedSizeSoftKeyViewsPage android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b1418" android:layout_width="match_parent" android:layout_height="match_parent" android:horizontalSpacing="0dp" android:verticalSpacing="0dp" app:columnCount="2" app:rowCount="3" app:softkeyviewLayout="@layout/0_resource_name_obfuscated_res_0x7f0e044e"/>
+        </FrameLayout>
+    </LinearLayout>
+    <include layout="@layout/0_resource_name_obfuscated"/>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if language="ja">
+        <key_mapping>
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1499" view_id="@+id/key_pos_back_to_prime"/>
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1499" view_id="@+id/key_pos_back_to_prime2"/>
+        </key_mapping>
+    </if>
+</framework>

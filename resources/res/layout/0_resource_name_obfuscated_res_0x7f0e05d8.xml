@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2189" android:background="@color/0_resource_name_obfuscated_res_0x7f06091a" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140cbc">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <android.support.v7.widget.AppCompatTextView android:layout_marginBottom="64dp" android:text="@string/0_resource_name_obfuscated_res_0x7f140cbc" style="@style/0_resource_name_obfuscated_res_0x7f1506fe"/>
+        <LinearLayout android:layout_gravity="bottom|center_horizontal" android:orientation="horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b217e" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <FrameLayout android:layout_width="0dp" android:layout_height="48dp" android:layout_weight="1">
+                <SeekBar android:theme="@android:style/ThemeOverlay.Material.Dark" android:layout_gravity="start|center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b217d" android:layout_width="match_parent" android:layout_height="wrap_content" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140cbc"/>
+            </FrameLayout>
+            <android.support.v7.widget.AppCompatTextView android:textSize="15sp" android:textColor="@android:color/white" android:gravity="end" android:layout_gravity="end|center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b217f" android:layout_width="38dp" android:layout_height="wrap_content" android:fontFamily="sans-serif-regular" android:layout_marginEnd="12dp"/>
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2180" android:layout_width="0dp" android:layout_height="0dp" android:scaleType="matrix"/>
+        <View android:layout_gravity="top|center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2183" android:background="@android:color/black" android:layout_width="0dp" android:layout_height="0dp"/>
+        <View android:layout_gravity="bottom|center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2181" android:background="@android:color/black" android:layout_width="0dp" android:layout_height="0dp"/>
+        <ImageView android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2182" android:layout_width="0dp" android:layout_height="0dp" android:scaleType="fitEnd"/>
+    </FrameLayout>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2184" android:text="@string/0_resource_name_obfuscated_res_0x7f140cbb" style="@style/0_resource_name_obfuscated_res_0x7f1506fc"/>
+    </FrameLayout>
+</LinearLayout>

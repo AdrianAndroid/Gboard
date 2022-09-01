@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0225" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f1501a1">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout app:layout_behavior="@string/0_resource_name_obfuscated_res_0x7f140753" style="@style/0_resource_name_obfuscated_res_0x7f150220">
+            <FrameLayout android:id="@+id/animated_image_holder_view_container" android:layout_width="match_parent" android:layout_height="match_parent">
+                <com.google.android.apps.inputmethod.libs.search.widget.CategoryViewPager android:id="@+id/expression_view_pager" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <ProgressBar android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b007d" android:tag=".progress-bar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true"/>
+            </FrameLayout>
+        </LinearLayout>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e011a"/>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView>

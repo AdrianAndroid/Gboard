@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="ur-IN" string_id="ime_urdu_alphabetic">
+        <keyboard_group layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502bd" variant="urdu_in" variant_label="@string/0_resource_name_obfuscated_res_0x7f14115b">
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17096e" type="prime"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170987"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+        <extra_values>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01c9" value="۔ "/>
+        </extra_values>
+    </ime>
+</framework>

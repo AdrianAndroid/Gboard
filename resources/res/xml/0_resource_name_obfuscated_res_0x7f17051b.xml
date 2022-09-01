@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" class="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" display_app_completions="true" inline_composing="false" keyevent_interpreter="com.google.android.apps.inputmethod.libs.chinese.PositionBasedKeyEventInterpreter" language="zh-XD" language_specific_settings="@xml/0_resource_name_obfuscated_res_0x7f170f33" language_tag="zh-Hant-TW-t-i0-bopomofo" secondary_ime_def="@xml/0_resource_name_obfuscated_res_0x7f17051c" string_id="ime_zh_tw_zhuyin" use_ascii_password_keyboard="true">
+        <keyboard_group layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502bd" supports_split_mode="true" variant="zhuyin" variant_label="@string/0_resource_name_obfuscated_res_0x7f141175">
+            <layout_specific_settings resource_id="@xml/0_resource_name_obfuscated_res_0x7f170f34"/>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170757" type="prime">
+                <merge def="@xml/0_resource_name_obfuscated_res_0x7f17058d"/>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+        </keyboard_group>
+        <extra_values>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d2" value="true"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01e0" value="false"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01e3" value="@string/0_resource_name_obfuscated_res_0x7f140430"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01de" value="。"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01cb" value="@string/0_resource_name_obfuscated_res_0x7f140669"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01dd" value="hmm"/>
+        </extra_values>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170bda"/>
+    </ime>
+</framework>

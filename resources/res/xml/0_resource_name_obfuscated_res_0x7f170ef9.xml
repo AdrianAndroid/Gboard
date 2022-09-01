@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170c91"/>
+    <softkeys>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f140308" id="@+id/0_resource_name_obfuscated_res_0x7f0b1412" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0546" multi_touch="false">
+            <action keycode="KEYCODE_0" type="PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f08034c"/>
+        </softkey>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" id="@+id/0_resource_name_obfuscated_res_0x7f0b1dc2" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0546" multi_touch="false">
+            <action data="\9" intention="COMMIT" keycode="KEYCODE_7" type="PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f08034d"/>
+        </softkey>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" id="@+id/0_resource_name_obfuscated_res_0x7f0b0c17" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0553" multi_touch="false">
+            <action keycode="KEYCODE_SOFT_LEFT" type="PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f08034b"/>
+        </softkey>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" id="@+id/0_resource_name_obfuscated_res_0x7f0b0c18" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0554" multi_touch="false">
+            <action keycode="KEYCODE_SOFT_LEFT" type="PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f08034b"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14048f" id="@+id/0_resource_name_obfuscated_res_0x7f0b1843" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0551" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+            <action keycode="KEYCODE_BACK" repeatable="true" type="PRESS"/>
+            <action keycode="KEYCODE_BACK" popup_icon="@attr/0_resource_name_obfuscated_res_0x7f0400d5" repeatable="true" type="SLIDE_LEFT"/>
+            <action keycode="KEYCODE_ENDCALL" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f08024e" repeatable="true" type="SLIDE_UP"/>
+            <action keycode="KEYCODE_CALL" popup_icon="@attr/0_resource_name_obfuscated_res_0x7f0400d6" repeatable="true" type="SLIDE_RIGHT"/>
+            <action keycode="KEYCODE_HOME" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f08024a" repeatable="true" type="SLIDE_DOWN"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080327"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14075a" id="@+id/0_resource_name_obfuscated_res_0x7f0b1c63" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0551" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+            <action keycode="KEYCODE_CALL" repeatable="true" type="PRESS"/>
+            <action keycode="KEYCODE_BACK" popup_icon="@attr/0_resource_name_obfuscated_res_0x7f0400d5" repeatable="true" type="SLIDE_LEFT"/>
+            <action keycode="KEYCODE_ENDCALL" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f08024e" repeatable="true" type="SLIDE_UP"/>
+            <action keycode="KEYCODE_CALL" popup_icon="@attr/0_resource_name_obfuscated_res_0x7f0400d6" repeatable="true" type="SLIDE_RIGHT"/>
+            <action keycode="KEYCODE_HOME" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f08024a" repeatable="true" type="SLIDE_DOWN"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080329"/>
+        </softkey>
+    </softkeys>
+</framework>

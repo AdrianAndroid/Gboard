@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc4" view_id="@+id/key_pos_shift_right"/>
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc9" view_id="@+id/key_pos_shift_right"/>
+    </key_mapping>
+    <key_mapping state="SHIFT_LOCK">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc6" view_id="@+id/key_pos_shift_right"/>
+    </key_mapping>
+    <key_mapping state="SHIFT_COMBO">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cca" view_id="@+id/key_pos_shift_right"/>
+    </key_mapping>
+</framework>

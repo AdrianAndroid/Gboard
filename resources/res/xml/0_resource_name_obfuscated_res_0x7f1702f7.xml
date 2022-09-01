@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="kn-XT" string_id="ime_kannada_transliteration">
+        <keyboard_group supports_split_mode="true" variant="qwerty" variant_label="@string/0_resource_name_obfuscated_res_0x7f141044">
+            <if enable_number_row="true">
+                <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+            </if>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170612" transliterate="true" type="prime">
+                <merge def="@xml/0_resource_name_obfuscated_res_0x7f17088a"/>
+                <if enable_number_row="true">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707f5"/>
+                </if>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+        <extra_values>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d8" value="true"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01da" value="20"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d2" value="true"/>
+        </extra_values>
+    </ime>
+</framework>

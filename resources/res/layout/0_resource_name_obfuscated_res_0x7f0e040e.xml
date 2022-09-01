@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0258" style="@style/0_resource_name_obfuscated_res_0x7f150252">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="?attr/0_resource_name_obfuscated_res_0x7f040120" android:paddingEnd="?attr/0_resource_name_obfuscated_res_0x7f040120">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_textediting_back_to_prime" style="@style/0_resource_name_obfuscated_res_0x7f1504ab"/>
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:layout_gravity="start|center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2176" android:text="@string/0_resource_name_obfuscated_res_0x7f140433" style="@style/0_resource_name_obfuscated_res_0x7f1502ec"/>
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

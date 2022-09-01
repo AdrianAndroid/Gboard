@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f150288">
+    <LinearLayout android:weightSum="786" style="@style/0_resource_name_obfuscated_res_0x7f1502cc">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_tab" android:layout_weight="88" style="@style/0_resource_name_obfuscated_res_0x7f1504b1"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_0_0" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_0_1" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_0_2" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_0_3" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_0_4" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_0_5" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_0_6" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_del" android:layout_weight="110" style="@style/0_resource_name_obfuscated_res_0x7f1504b1"/>
+    </LinearLayout>
+    <LinearLayout android:weightSum="786" style="@style/0_resource_name_obfuscated_res_0x7f1502cc">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_caps" android:layout_weight="109" style="@style/0_resource_name_obfuscated_res_0x7f1504b1"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_1_0" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_1_1" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_1_2" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_1_3" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_1_4" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_1_5" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_1_6" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ime_action" android:layout_weight="89" style="@style/0_resource_name_obfuscated_res_0x7f1504b8"/>
+    </LinearLayout>
+    <LinearLayout android:weightSum="786" style="@style/0_resource_name_obfuscated_res_0x7f1502cc">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_2_0" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_2_1" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_2_2" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_2_3" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_2_4" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_2_5" android:layout_weight="84" style="@style/0_resource_name_obfuscated_res_0x7f1504ac"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_shift_right" android:layout_weight="0" style="@style/0_resource_name_obfuscated_res_0x7f1504b1"/>
+    </LinearLayout>
+</LinearLayout>

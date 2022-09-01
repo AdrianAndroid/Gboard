@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="?attr/0_resource_name_obfuscated_res_0x7f0403df" android:alpha="0.11"/>
+</selector>

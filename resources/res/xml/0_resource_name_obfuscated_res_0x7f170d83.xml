@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1efe">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b190e" long_press_data="്,്‌,അ" long_press_label="്,￫്,അ" press_data="അ" press_label="അ"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f00">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b190f" long_press_data="ാ" press_data="ആ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1924" long_press_data="ി" press_data="ഇ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1925" long_press_data="ീ" press_data="ഈ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b193f" long_press_data="ു" press_data="ഉ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1940" long_press_data="ൂ" press_data="ഊ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1942" long_press_data="ൃ,ൠ,ൄ,ഌ,ൢ,ൡ,ൣ" press_data="ഋ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b191f" long_press_data="െ" press_data="എ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1920" long_press_data="േ" press_data="ഏ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1932" long_press_data="ൊ" press_data="ഒ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1933" long_press_data="ോ" press_data="ഓ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1910" long_press_data="ൈ" press_data="ഐ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1911" long_press_data="ൗ,ൌ" press_data="ഔ"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1928" long_press_data="ക്ക,ക്ത" press_data="ക"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1929" long_press_data="ഖ്ന" press_data="ഖ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1921" long_press_data="ഗ്ഗ,ഗ്ദ,ഗ്ന,ഗ്ര" press_data="ഗ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1922" press_data="ഘ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b192f" long_press_data="ങ്ക" press_data="ങ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1914" long_press_data="ച്ച" press_data="ച"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1915" press_data="ഛ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1926" long_press_data="ജ്ജ,ജ്ന" press_data="ജ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1927" press_data="ഝ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1931" long_press_data="ഞ്ച" press_data="ഞ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b193d" long_press_data="ട്ട" press_data="ട"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b193e" press_data="ഠ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b191c" long_press_data="ഡ്ഡ,ഡ്ഢ,ഡ്ന,ഡ്സ" press_data="ഡ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b191d" press_data="ഢ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1930" long_press_data="ണ്ട" press_data="ണ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b193b" long_press_data="ത്ത,ത്ര" press_data="ത"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b193c" press_data="ഥ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b191b" long_press_data="ദ്ദ,ദ്ഗ,ദ്ര,ദ്ഹ" press_data="ദ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b191e" press_data="ധ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b192e" long_press_data="ന്ന,ന്ദ,ന്യ" press_data="ന"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1934" long_press_data="പ്ത,പ്ന,പ്യ,പ്ര" press_data="പ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1935" press_data="ഫ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1912" press_data="ബ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1913" press_data="ഭ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b192d" long_press_data="മ്മ" press_data="മ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1943" long_press_data="യ്യ,യ്ന" press_data="യ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1936" press_data="ര"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b192a" long_press_data="ല്ല" press_data="ല"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1941" press_data="വ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1939" press_data="ശ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b193a" long_press_data="ഷ്ട" press_data="ഷ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1938" long_press_data="സ്സ,സ്ക,സ്ട,സ്ത,സ്പ,സ്യ" press_data="സ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1923" press_data="ഹ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b192b" long_press_data="ഴ" press_data="ള"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1937" press_data="റ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1919" press_data="ൺ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1916" press_data="ൽ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1918" press_data="ൻ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1917" press_data="ൾ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b191a" press_data="ർ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0978" press_data="&apos;"/>
+        </softkey_list>
+    </softkeys>
+</framework>

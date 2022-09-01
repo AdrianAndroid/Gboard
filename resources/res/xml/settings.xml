@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f08034f" android:persistent="false" android:maxLines="2" android:title="@string/0_resource_name_obfuscated_res_0x7f14083d" android:key="@string/0_resource_name_obfuscated_res_0x7f140712" android:fragment="com.google.android.apps.inputmethod.libs.languageselection.preference.LanguageSettingFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_languages"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f08036d" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f140865" android:key="@string/0_resource_name_obfuscated_res_0x7f140713" android:fragment="com.google.android.libraries.inputmethod.preferencewidgets.CommonPreferenceFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_preferences"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f080358" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1408a1" android:key="@string/0_resource_name_obfuscated_res_0x7f140717" android:fragment="com.google.android.apps.inputmethod.libs.theme.listing.preference.ThemeListingFragment"/>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f080369" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1407ba" android:key="@string/0_resource_name_obfuscated_res_0x7f14070e" android:fragment="com.google.android.libraries.inputmethod.preferencewidgets.CommonPreferenceFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_correction"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f080343" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1407fc" android:key="@string/0_resource_name_obfuscated_res_0x7f140711" android:fragment="com.google.android.apps.inputmethod.latin.preference.GesturePreferenceSettingsFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_gesture"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f080354" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1408af" android:key="@string/0_resource_name_obfuscated_res_0x7f140719" android:fragment="com.google.android.apps.inputmethod.latin.preference.VoiceSettingsFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_voice"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f08032b" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1407b7" android:key="@string/0_resource_name_obfuscated_res_0x7f14070d" android:fragment="com.google.android.libraries.inputmethod.preferencewidgets.CommonPreferenceFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_clipboard"/>
+        <extra android:name="hide_if_flag_is_false" android:value="@string/0_resource_name_obfuscated_res_0x7f14020c"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f080332" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1407c1" android:key="@string/0_resource_name_obfuscated_res_0x7f14070f" android:fragment="com.google.android.apps.inputmethod.latin.preference.dictionary.LatinDictionarySettingsFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_dictionary"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f0803ab" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1407ea" android:key="@string/0_resource_name_obfuscated_res_0x7f140710" android:fragment="com.google.android.libraries.inputmethod.preferencewidgets.CommonPreferenceFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_expression"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f080367" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f14087c" android:key="@string/0_resource_name_obfuscated_res_0x7f140716"/>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f080355" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f140796" android:key="@string/0_resource_name_obfuscated_res_0x7f14070c" android:fragment="com.google.android.apps.inputmethod.latin.preference.AdvancedSettingsFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_advanced"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f080342" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1408a7" android:key="@string/0_resource_name_obfuscated_res_0x7f140718" android:fragment="com.google.android.apps.inputmethod.libs.autotranslate.AutoTranslatePreferenceFragment">
+        <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_translate"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference>
+    <com.google.android.libraries.inputmethod.rateus.RateUsPreference android:icon="@drawable/0_resource_name_obfuscated_res_0x7f08036b" android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f140869" android:key="@string/0_resource_name_obfuscated_res_0x7f140714"/>
+</PreferenceScreen>

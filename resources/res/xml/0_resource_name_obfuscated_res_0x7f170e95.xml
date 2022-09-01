@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f02">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1de7" press_data="ᝲ" press_label="◌ᝲ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1de8" press_data="ᝳ" press_label="◌ᝳ"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f03">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ddc" press_data="ᝣ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dda" press_data="ᝤ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1de0" press_data="ᝥ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1de3" press_data="ᝦ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd9" press_data="ᝧ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ddf" press_data="ᝨ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1de1" press_data="ᝩ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd8" press_data="ᝪ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dde" press_data="ᝫ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1de6" press_data="ᝬ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ddd" press_data="ᝮ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1de5" press_data="ᝯ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1dd7" press_data="ᝠ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ddb" press_data="ᝡ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1de4" press_data="ᝢ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1de2" press_data="ᝰ"/>
+        </softkey_list>
+    </softkeys>
+</framework>

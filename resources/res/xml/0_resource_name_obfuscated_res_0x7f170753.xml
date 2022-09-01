@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b073c">
+        <view type="linear">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c06"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170eeb"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f1f"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c0e"/>
+        </view>
+    </keyboard>
+</framework>

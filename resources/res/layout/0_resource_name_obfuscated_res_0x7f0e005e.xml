@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2110" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f140925"/>
+    <RadioGroup android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08db" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RadioButton android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0138" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f140146"/>
+        <RadioButton android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21df" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f140f2c"/>
+    </RadioGroup>
+    <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0139" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00c3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f1400a4"/>
+        <EditText android:gravity="top|left" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00c2" android:layout_width="match_parent" android:layout_height="wrap_content" android:scrollHorizontally="false" android:singleLine="false" android:inputType="textMultiLine" android:focusedByDefault="false"/>
+        <TextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00c1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f1400a3"/>
+        <EditText android:gravity="top|left" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00c0" android:layout_width="match_parent" android:layout_height="wrap_content" android:scrollHorizontally="false" android:singleLine="false" android:inputType="textMultiLine" android:focusedByDefault="false"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21e0" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b01a4" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f1400a5"/>
+        <EditText android:gravity="top|left" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b01a3" android:layout_width="match_parent" android:layout_height="wrap_content" android:scrollHorizontally="false" android:singleLine="false" android:inputType="number" android:focusedByDefault="false"/>
+    </LinearLayout>
+</LinearLayout>

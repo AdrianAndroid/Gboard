@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02b7" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:tag=".keyboard-clipboard-popup" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08007d" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+        <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02b2" style="@style/0_resource_name_obfuscated_res_0x7f1503e0">
+            <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02af" android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f1503de"/>
+            <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02b1" style="@style/0_resource_name_obfuscated_res_0x7f1503df"/>
+        </LinearLayout>
+        <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02b6" android:maxLines="5" style="@style/0_resource_name_obfuscated_res_0x7f1503e2"/>
+    </LinearLayout>
+    <android.support.v7.widget.AppCompatTextView android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f0702fd" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02b0" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08007c" android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f0702f9" android:text="@string/0_resource_name_obfuscated_res_0x7f1400f9" android:maxLines="3" android:layout_weight="0" style="@style/0_resource_name_obfuscated_res_0x7f1503e2"/>
+</LinearLayout>

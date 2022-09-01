@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21d9" android:focusable="true" android:layout_width="match_parent" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f07073a">
+        <com.google.android.libraries.inputmethod.emoji.widget.FixedSizeEmojiListHolder android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21d8" android:layout_width="match_parent" android:layout_height="match_parent" app:columnCount="?attr/0_resource_name_obfuscated_res_0x7f04020d" app:emojiviewId="@+id/0_resource_name_obfuscated_res_0x7f0b0193" app:emojiviewLayout="@layout/0_resource_name_obfuscated_res_0x7f0e05f8" app:horizontalAlignment="true" app:rowCount="1" app:variantIndicatorId="@+id/0_resource_name_obfuscated_res_0x7f0b21e5"/>
+    </LinearLayout>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0083" android:paddingTop="3dp" android:paddingBottom="3dp" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.google.android.apps.inputmethod.libs.search.widget.FixedColumnAnimatedImageSidebarHolderView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0082" android:layout_width="match_parent" android:layout_height="wrap_content" app:columnCount="?attr/0_resource_name_obfuscated_res_0x7f04020e" image_view_layout="@layout/0_resource_name_obfuscated_res_0x7f0e05f7"/>
+        </LinearLayout>
+        <ProgressBar android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0084" android:tag=".progress-bar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true"/>
+    </FrameLayout>
+</LinearLayout>

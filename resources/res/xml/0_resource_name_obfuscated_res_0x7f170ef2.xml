@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_list splitter=" ">
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f1b" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05b8" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_SOFT_RIGHT" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C$" keycode="KEYCODE_3" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$press_data$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f1c" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05b8" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_SOFT_RIGHT" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C$" keycode="KEYCODE_3" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$label_header$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f1d" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_SOFT_RIGHT" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C$" keycode="KEYCODE_3" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+            </softkey_template>
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21bd" android:layout_width="match_parent" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f07072d">
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1507c3">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21cd" style="@style/0_resource_name_obfuscated_res_0x7f1507c5"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21ce" style="@style/0_resource_name_obfuscated_res_0x7f1507c4"/>
+    </LinearLayout>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21d0" android:layout_marginLeft="?attr/0_resource_name_obfuscated_res_0x7f040208" android:layout_marginRight="?attr/0_resource_name_obfuscated_res_0x7f040208" android:layout_marginHorizontal="?attr/0_resource_name_obfuscated_res_0x7f040208" style="@style/0_resource_name_obfuscated_res_0x7f1507c4"/>
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1507c3">
+        <FrameLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="300"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21d1" style="@style/0_resource_name_obfuscated_res_0x7f1507c5"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21d2" style="@style/0_resource_name_obfuscated_res_0x7f1507c4"/>
+    </LinearLayout>
+</LinearLayout>

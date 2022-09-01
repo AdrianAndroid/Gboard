@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.gif.keyboard.GifKeyboardTablet" id="@+id/0_resource_name_obfuscated_res_0x7f0b051b">
+        <view direction="right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0123" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c13"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709e8"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0e"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bfa"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a07"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bf6"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a47"/>
+        </view>
+    </keyboard>
+</framework>

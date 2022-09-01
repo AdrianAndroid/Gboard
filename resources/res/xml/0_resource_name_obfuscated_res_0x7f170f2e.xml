@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f1407aa">
+        <ListPreference android:persistent="true" android:entries="@array/0_resource_name_obfuscated_res_0x7f030068" android:title="@string/0_resource_name_obfuscated_res_0x7f1407ab" android:key="@string/0_resource_name_obfuscated_res_0x7f140649" android:summary="%s" android:entryValues="@array/0_resource_name_obfuscated_res_0x7f030020"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

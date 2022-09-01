@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f150294">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e00f4"/>
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150298">
+        <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150297">
+            <com.google.android.apps.inputmethod.libs.onboardingflow.KeyboardPreviewItemView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0202" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" keyboard_type="alphabet_12keys" language_tag="ja-JP" layout_name="@string/0_resource_name_obfuscated_res_0x7f14101a" variant="japanese_12keys_toggleflick"/>
+            <com.google.android.apps.inputmethod.libs.onboardingflow.KeyboardPreviewItemView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08cd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" keyboard_type="alphabet_qwerty" language_tag="ja-JP" layout_name="@string/0_resource_name_obfuscated_res_0x7f14101c" variant="japanese_12keys_toggleflick"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

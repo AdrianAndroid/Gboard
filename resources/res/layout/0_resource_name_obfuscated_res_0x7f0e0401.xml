@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f15021e">
+    <ViewSwitcher android:id="@+id/0_resource_name_obfuscated_res_0x7f0b025b" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.google.android.apps.inputmethod.libs.expression.recyclerview.BindingRecyclerView android:layout_gravity="center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0825" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f070324" android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f070324"/>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0116"/>
+    </ViewSwitcher>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

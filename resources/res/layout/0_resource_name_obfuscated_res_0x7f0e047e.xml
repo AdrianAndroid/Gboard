@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:tag=".background-nga-banner" android:background="@drawable/0_resource_name_obfuscated_res_0x7f0802fb" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="top" android:focusable="false" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080311" android:scaleType="center" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140576"/>
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="6dp" android:layout_marginRight="6dp" android:layout_weight="1" android:layout_marginHorizontal="6dp">
+            <android.support.v7.widget.AppCompatTextView android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f140574" android:lines="1" android:paddingVertical="4dp" style="@style/0_resource_name_obfuscated_res_0x7f1503b8"/>
+            <android.support.v7.widget.AppCompatTextView android:gravity="center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07d6" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/0_resource_name_obfuscated_res_0x7f1503b6"/>
+        </LinearLayout>
+        <ImageButton android:layout_gravity="top" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07d5" android:tag=".nga-default-icon-color" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080334" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140573" style="?android:attr/borderlessButtonStyle"/>
+    </LinearLayout>
+    <View android:tag=".nga-divider-background-color" android:background="#ffffffff" android:layout_width="match_parent" android:layout_height="1dp" android:alpha="0.2"/>
+</LinearLayout>

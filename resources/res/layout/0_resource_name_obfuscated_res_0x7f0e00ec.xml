@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02ac" android:layout_width="match_parent" android:layout_height="wrap_content" android:layoutDirection="inherit">
+    <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02b4" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08007d" android:layoutDirection="inherit" style="@style/0_resource_name_obfuscated_res_0x7f1503db">
+        <ImageView android:tag=".icon.clipboard-keys" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080337" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140365" style="@style/0_resource_name_obfuscated_res_0x7f1503d9"/>
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:text="@string/0_resource_name_obfuscated_res_0x7f140364" style="@style/0_resource_name_obfuscated_res_0x7f1503da"/>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02b5" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08007e" android:layoutDirection="inherit" style="@style/0_resource_name_obfuscated_res_0x7f1503db">
+        <ImageView android:tag=".icon.clipboard-keys" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080348" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140367" style="@style/0_resource_name_obfuscated_res_0x7f1503d9"/>
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:text="@string/0_resource_name_obfuscated_res_0x7f140366" style="@style/0_resource_name_obfuscated_res_0x7f1503da"/>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02b9" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08007e" android:visibility="gone" android:layoutDirection="inherit" style="@style/0_resource_name_obfuscated_res_0x7f1503db">
+        <ImageView android:tag=".icon.clipboard-keys-pinned" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080349" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140369" style="@style/0_resource_name_obfuscated_res_0x7f1503d9"/>
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:text="@string/0_resource_name_obfuscated_res_0x7f140368" style="@style/0_resource_name_obfuscated_res_0x7f1503da"/>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02ae" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08007c" android:layoutDirection="inherit" style="@style/0_resource_name_obfuscated_res_0x7f1503db">
+        <ImageView android:tag=".icon.clipboard-keys" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080339" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140363" style="@style/0_resource_name_obfuscated_res_0x7f1503d9"/>
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:text="@string/0_resource_name_obfuscated_res_0x7f140362" style="@style/0_resource_name_obfuscated_res_0x7f1503da"/>
+    </LinearLayout>
+</LinearLayout>

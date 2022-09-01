@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="0_resource_name_obfuscated_res_0x7f0702a0">0.2</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f0702a1">0.4</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f0702a2">0.8</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f0702a3">0.2</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f0702a6">0.1</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f0702a7">0.2</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f0702a8">0.2</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f0702a9">0.1</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07042d">0.16</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07042e">0.2</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07042f">0.4</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f070430">0.12</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f070520">0.24</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f070521">0.4</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f070522">0.4</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f070523">0.24</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f070537">0.12</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f070538">0.2</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f070539">0.2</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07053a">0.12</dimen>
+</resources>

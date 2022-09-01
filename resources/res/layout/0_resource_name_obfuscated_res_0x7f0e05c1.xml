@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f070690" android:minWidth="@dimen/0_resource_name_obfuscated_res_0x7f070690" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140045" style="@style/0_resource_name_obfuscated_res_0x7f15051b">
+    <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150515"/>
+    <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150517"/>
+    <View style="@style/0_resource_name_obfuscated_res_0x7f150518"/>
+    <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150514"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

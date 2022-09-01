@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170330"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170332"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170334"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f17032d"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f17032f"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170333"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170335"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170331"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f17032e"/>
+</framework>

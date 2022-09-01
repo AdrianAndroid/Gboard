@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c01" view_id="@+id/key_pos_candidates_page_up"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1bff" view_id="@+id/key_pos_candidates_page_down"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0c15" view_id="@+id/key_pos_candidates_del"/>
+    </key_mapping>
+    <key_mapping state="FIRST_PAGE">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c02" view_id="@+id/key_pos_candidates_page_up"/>
+    </key_mapping>
+    <key_mapping state="LAST_PAGE">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c00" view_id="@+id/key_pos_candidates_page_down"/>
+    </key_mapping>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0c16" view_id="@+id/key_pos_candidates_del"/>
+    </key_mapping>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0fd8" view_id="@+id/key_pos_candidates_ime_action"/>
+    </key_mapping>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f1709be"/>
+</framework>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if device="tablet" keyboard_mode="normal">
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f17071e"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b053a">
+            <if device_size="large">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01ee" type="body"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01ed" type="body"/>
+            </else>
+            <view type="body">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170d1b"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa6"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            </view>
+        </keyboard>
+    </if>
+    <else>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b053a">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0162" type="body">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170d1b"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa6"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            </view>
+        </keyboard>
+    </else>
+    <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b053a">
+        <view override="motion_event_handler" type="body">
+            <motion_event_handler class=".libs.latin5.handler.LatinMotionEventHandler"/>
+            <if enable_preemptive_decode="true">
+                <motion_event_handler class=".libs.latin5.handler.LatinPreemptiveDecodeHandler"/>
+            </if>
+            <motion_event_handler class=".libs.latin5.handler.HindiDynamicKeyboardGestureMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140674" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <if enable_inline_suggestions_on_client_side="true">
+                <motion_event_handler class=".inlinesuggestion.InlineSuggestionScrubSpaceMotionEventHandler"/>
+            </if>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <motion_event_handler class=".libs.latin5.handler.LatinKeyboardLayoutHandler"/>
+        </view>
+    </keyboard>
+</framework>

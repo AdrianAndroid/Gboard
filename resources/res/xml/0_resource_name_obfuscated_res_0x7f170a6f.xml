@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1aab" view_id="@+id/key_pos_non_prime_category_2"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1aeb" view_id="@+id/key_pos_non_prime_category_3"/>
+    </key_mapping>
+</framework>

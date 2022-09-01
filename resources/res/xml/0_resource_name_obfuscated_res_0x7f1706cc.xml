@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinPasswordKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b05c1" popup="@attr/0_resource_name_obfuscated_res_0x7f040185">
+        <if show_suggestions="true">
+            <view always_show="false" direction="" layout="@layout/0_resource_name_obfuscated_res_0x7f0e03f5" override="all" scalable="false" type="header"/>
+        </if>
+        <else>
+            <view override="all" scalable="false" type="header"/>
+        </else>
+        <view override="motion_event_handler" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+        </view>
+    </keyboard>
+</framework>

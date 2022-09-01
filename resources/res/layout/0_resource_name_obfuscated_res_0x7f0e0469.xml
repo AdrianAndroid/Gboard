@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.AlertDialogLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="start|top" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0833" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e046b"/>
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b012a" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="48dp">
+        <View android:layout_gravity="top" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08a7" android:background="?attr/0_resource_name_obfuscated_res_0x7f040318" android:visibility="gone" android:layout_width="match_parent" android:layout_height="1dp"/>
+        <androidx.core.widget.NestedScrollView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08a8" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <android.widget.Space android:id="@+id/0_resource_name_obfuscated_res_0x7f0b216a" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070025"/>
+                <TextView android:id="@android:id/message" android:paddingLeft="?attr/0_resource_name_obfuscated_res_0x7f0403b5" android:paddingRight="?attr/0_resource_name_obfuscated_res_0x7f0403b5" android:layout_width="match_parent" android:layout_height="wrap_content" style="?attr/0_resource_name_obfuscated_res_0x7f04055e"/>
+                <android.widget.Space android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2169" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070025"/>
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+        <View android:layout_gravity="bottom" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08a6" android:background="?attr/0_resource_name_obfuscated_res_0x7f040318" android:visibility="gone" android:layout_width="match_parent" android:layout_height="1dp"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b013f" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="48dp">
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b013e" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </FrameLayout>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/0_resource_name_obfuscated_res_0x7f0e046a"/>
+</android.support.v7.widget.AlertDialogLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard candidate_text_size_ratio="1" class=".latin.keyboard.LatinJapanesePrimeKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b0568">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0148" scalable="false" type="floating_candidates"/>
+    </keyboard>
+</framework>

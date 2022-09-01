@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f10" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="$param_data$" keycode="KEYCODE_2" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$param_data$"/>
+        </softkey_template>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f10">
+            <softkey param_data="+"/>
+            <softkey param_data="-"/>
+            <softkey param_data="*"/>
+            <softkey param_data="/"/>
+            <softkey param_data="="/>
+            <softkey param_data="&amp;"/>
+        </softkey_list>
+    </softkeys>
+</framework>

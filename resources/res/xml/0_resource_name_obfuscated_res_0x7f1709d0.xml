@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d5" view_id="@+id/key_pos_ja_12keys_key_0"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d6" view_id="@+id/key_pos_ja_12keys_key_1"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d7" view_id="@+id/key_pos_ja_12keys_key_2"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d8" view_id="@+id/key_pos_ja_12keys_key_3"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d9" view_id="@+id/key_pos_ja_12keys_key_4"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14da" view_id="@+id/key_pos_ja_12keys_key_5"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14db" view_id="@+id/key_pos_ja_12keys_key_6"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14dc" view_id="@+id/key_pos_ja_12keys_key_7"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14dd" view_id="@+id/key_pos_ja_12keys_key_8"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14de" view_id="@+id/key_pos_ja_12keys_key_9"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d4" view_id="@+id/key_pos_ja_12keys_key_10"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14df" view_id="@+id/key_pos_ja_12keys_key_11"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d1" view_id="@+id/key_pos_switch_hiragana_alphabet"/>
+    </key_mapping>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14cd" view_id="@+id/key_pos_switch_to_symbol"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0f9b" view_id="@+id/key_pos_switch_to_smiley"/>
+    </key_mapping>
+    <key_mapping state="EMOJI_AVAILABLE">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d2" view_id="@+id/key_pos_switch_to_symbol"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0f9b" view_id="@+id/key_pos_switch_to_smiley"/>
+    </key_mapping>
+</framework>

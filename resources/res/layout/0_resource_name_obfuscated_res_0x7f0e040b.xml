@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" style="@style/0_resource_name_obfuscated_res_0x7f150644">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08d7" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f15063e"/>
+    <FrameLayout android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f15063c">
+        <ImageView android:layout_gravity="top" style="@style/0_resource_name_obfuscated_res_0x7f15042c"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0133" style="@style/0_resource_name_obfuscated_res_0x7f150646"/>
+    </FrameLayout>
+    <FrameLayout android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f15063c">
+        <ImageView android:layout_gravity="top" style="@style/0_resource_name_obfuscated_res_0x7f15042c"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0838" style="@style/0_resource_name_obfuscated_res_0x7f150646"/>
+    </FrameLayout>
+    <FrameLayout android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f15063c">
+        <ImageView android:layout_gravity="top" style="@style/0_resource_name_obfuscated_res_0x7f15042c"/>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b014d" style="@style/0_resource_name_obfuscated_res_0x7f150646"/>
+    </FrameLayout>
+</LinearLayout>

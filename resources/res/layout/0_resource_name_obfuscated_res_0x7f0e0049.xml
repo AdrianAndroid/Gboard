@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0110" android:tag=".keyboard-clipboard-tooltip" android:background="@drawable/0_resource_name_obfuscated_res_0x7f080149" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0700e3" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0700e3" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>

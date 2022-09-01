@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:weightSum="1">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <com.google.android.material.appbar.AppBarLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0087" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_behavior="com.google.android.libraries.inputmethod.appcompat.ExpandableAppBarLayoutBehavior">
+            <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0122" android:layout_width="match_parent" android:layout_height="?attr/0_resource_name_obfuscated_res_0x7f040309" app:layout_scrollFlags="0x13" app:toolbarId="@+id/0_resource_name_obfuscated_res_0x7f0b0048" style="?attr/0_resource_name_obfuscated_res_0x7f04030a">
+                <com.google.android.material.appbar.MaterialToolbar android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0048" android:layout_width="match_parent" android:layout_height="?attr/0_resource_name_obfuscated_res_0x7f040215" android:elevation="0dp" app:layout_collapseMode="1"/>
+            </com.google.android.material.appbar.CollapsingToolbarLayout>
+        </com.google.android.material.appbar.AppBarLayout>
+        <com.google.android.material.progressindicator.LinearProgressIndicator android:layout_gravity="top" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b087e" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:indeterminate="true" app:layout_behavior="@string/0_resource_name_obfuscated_res_0x7f140065"/>
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b012b" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/0_resource_name_obfuscated_res_0x7f140065"/>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00bb" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

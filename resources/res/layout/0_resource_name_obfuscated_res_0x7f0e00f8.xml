@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f070173" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f1501a1">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b023c" style="@style/0_resource_name_obfuscated_res_0x7f150220">
+        <android.support.constraint.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/0_resource_name_obfuscated_res_0x7f140753">
+            <LinearLayout android:layout_gravity="start" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00b6" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toStartOf="@+id/0_resource_name_obfuscated_res_0x7f0b024a" app:layout_constraintHorizontal_chainStyle="1" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/0_resource_name_obfuscated_res_0x7f150544">
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e047a"/>
+                <com.google.android.apps.inputmethod.libs.expression.recyclerview.BindingRecyclerView android:scrollbarThumbVertical="@drawable/0_resource_name_obfuscated_res_0x7f08038a" android:scrollbarTrackVertical="@null" android:scrollbarStyle="outsideOverlay" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00e1" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:nestedScrollingEnabled="false"/>
+            </LinearLayout>
+            <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b024a" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_end="484dp"/>
+            <com.google.android.apps.inputmethod.libs.search.widget.CategoryViewPager android:id="@+id/expression_view_pager" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_chainStyle="1" app:layout_constraintHorizontal_weight="1" app:layout_constraintStart_toEndOf="@+id/0_resource_name_obfuscated_res_0x7f0b024a" app:layout_constraintTop_toTopOf="0" style="@style/0_resource_name_obfuscated_res_0x7f150542"/>
+        </android.support.constraint.ConstraintLayout>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e011a"/>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f150251">
+    <androidx.constraintlayout.widget.ConstraintLayout style="@style/0_resource_name_obfuscated_res_0x7f150259">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0134"/>
+        <com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b025c" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toStartOf="@+id/0_resource_name_obfuscated_res_0x7f0b025a" app:layout_constraintStart_toEndOf="@+id/key_pos_header_access_points_menu" app:layout_constraintTop_toTopOf="0" style="@style/0_resource_name_obfuscated_res_0x7f15025b">
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0137"/>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0133"/>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0135"/>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e013d"/>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e013b"/>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0501"/>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0613"/>
+        </com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0138"/>
+        <include layout="@attr/0_resource_name_obfuscated_res_0x7f040004"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

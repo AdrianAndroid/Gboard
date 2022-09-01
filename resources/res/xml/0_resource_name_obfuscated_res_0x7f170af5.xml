@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_secondary_symbols="true">
+        <merge_key_mapping>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1114" view_id="@+id/key_pos_0_0"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1196" view_id="@+id/key_pos_0_1"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b121b" view_id="@+id/key_pos_0_2"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b117f" view_id="@+id/key_pos_0_3"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b11bf" view_id="@+id/key_pos_0_4"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1208" view_id="@+id/key_pos_0_5"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b11ca" view_id="@+id/key_pos_0_6"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b11ce" view_id="@+id/key_pos_0_7"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b11bc" view_id="@+id/key_pos_0_8"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1205" view_id="@+id/key_pos_0_9"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1118" view_id="@+id/key_pos_0_10"/>
+        </merge_key_mapping>
+    </if>
+</framework>

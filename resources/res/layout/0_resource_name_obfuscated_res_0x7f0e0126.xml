@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/0_resource_name_obfuscated_res_0x7f15019f">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0128"/>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0130"/>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

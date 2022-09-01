@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f15021f">
+    <ViewSwitcher android:id="@+id/0_resource_name_obfuscated_res_0x7f0b025b" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+            <FrameLayout android:gravity="start" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b06c8" android:visibility="gone" style="@style/0_resource_name_obfuscated_res_0x7f1501f4">
+                <android.support.v7.widget.AppCompatImageView style="@style/0_resource_name_obfuscated_res_0x7f1501f3"/>
+            </FrameLayout>
+            <androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b06ca" android:visibility="gone" android:layout_width="?attr/0_resource_name_obfuscated_res_0x7f04009f" android:layout_height="match_parent" app:layout_behavior="com.google.android.apps.inputmethod.libs.expression.header.StartElementScrollBehavior">
+                    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b06c9" android:text="@string/0_resource_name_obfuscated_res_0x7f1402c8" style="@style/0_resource_name_obfuscated_res_0x7f1502ec"/>
+                </LinearLayout>
+                <com.google.android.apps.inputmethod.libs.expression.recyclerview.BindingRecyclerView android:layout_gravity="center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0825" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f070324" android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f070324" app:layout_behavior="com.google.android.apps.inputmethod.libs.expression.header.MiddleElementScrollBehavior"/>
+            </androidx.coordinatorlayout.widget.CoordinatorLayout>
+        </LinearLayout>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0117"/>
+    </ViewSwitcher>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

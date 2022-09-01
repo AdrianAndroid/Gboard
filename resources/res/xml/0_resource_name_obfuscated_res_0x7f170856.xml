@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.impl.Keyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b0637" initial_states="LOCK_KEYBOARD">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03cd" scalable="false" type="header">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa2"/>
+        </view>
+        <if device="tablet" device_size="large">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e043a" type="body"/>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0439" type="body"/>
+        </else>
+        <view type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170ca9"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f17"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0e"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f10"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f1c"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bf6"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f21" id="@+id/0_resource_name_obfuscated_res_0x7f0b2102"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f22" id="@+id/0_resource_name_obfuscated_res_0x7f0b2103"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170e01"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170ae5"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170ae8"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170b2e"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709a0"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170b2f"/>
+            <if device="tablet" device_size="large" keyboard_mode="normal">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170ef9"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ae0"/>
+            </if>
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:padding="?attr/0_resource_name_obfuscated_res_0x7f0403b5" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.google.android.material.textview.MaterialTextView android:textAppearance="?attr/0_resource_name_obfuscated_res_0x7f04071e" android:textColor="?attr/0_resource_name_obfuscated_res_0x7f040338" android:gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b079b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f1407be"/>
+        <com.google.android.material.textview.MaterialTextView android:textAppearance="?attr/0_resource_name_obfuscated_res_0x7f04071e" android:textColor="?attr/0_resource_name_obfuscated_res_0x7f040338" android:gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00d2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:layout_marginBottom="12dp"/>
+        <com.google.android.material.textfield.TextInputEditText android:gravity="center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b029a" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/0_resource_name_obfuscated_res_0x7f14013b" android:inputType="number" android:importantForAutofill="no"/>
+    </LinearLayout>
+</ScrollView>

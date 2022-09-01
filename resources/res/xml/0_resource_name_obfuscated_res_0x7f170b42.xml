@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_number_row="true">
+        <key_mapping>
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b12ab" view_id="@+id/key_pos_top_left"/>
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1421" view_id="@+id/key_pos_number_10"/>
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0fdb" view_id="@+id/key_pos_number_11"/>
+        </key_mapping>
+    </if>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b190b" view_id="@+id/key_pos_2_8"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1238" view_id="@+id/key_pos_2_9"/>
+    </key_mapping>
+    <key_mapping state="SHOW_LANGUAGE_SWITCH_KEY">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d5d" view_id="@+id/key_pos_switch_to_next_language"/>
+    </key_mapping>
+    <key_mapping state="SHOW_EMOJI_SWITCH_KEY">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0f9b" view_id="@+id/key_pos_switch_to_next_language"/>
+    </key_mapping>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0c17" view_id="@+id/key_pos_caps"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc8" view_id="@+id/key_pos_shift"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc8" view_id="@+id/key_pos_shift_right"/>
+    </key_mapping>
+    <key_mapping state="AUTO_CAPS,CAPS_LOCK">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0c18" view_id="@+id/key_pos_caps"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc8" view_id="@+id/key_pos_shift"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc8" view_id="@+id/key_pos_shift_right"/>
+    </key_mapping>
+    <key_mapping state="MANUAL_SHIFT">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0c17" view_id="@+id/key_pos_caps"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ccb" view_id="@+id/key_pos_shift"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ccb" view_id="@+id/key_pos_shift_right"/>
+    </key_mapping>
+    <key_mapping state="CAPS_LOCK+MANUAL_SHIFT">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0c18" view_id="@+id/key_pos_caps"/>
+    </key_mapping>
+</framework>

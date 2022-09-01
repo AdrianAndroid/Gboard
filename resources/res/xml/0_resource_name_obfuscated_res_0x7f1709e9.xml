@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170a83"/>
+    <key_mapping>
+        <if japanese_use_tri_state_mode="true">
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d0" view_id="@+id/key_pos_switch_hiragana_alphabet"/>
+        </if>
+        <else>
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d5c" view_id="@+id/key_pos_switch_hiragana_alphabet"/>
+        </else>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14cd" view_id="@+id/key_pos_switch_to_symbol"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0d10" view_id="@+id/key_pos_bottom_symbol_1"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d0a" view_id="@+id/key_pos_space"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1c12" view_id="@+id/key_pos_bottom_symbol_2"/>
+    </key_mapping>
+    <if japanese_use_tri_state_mode="true">
+        <key_mapping state="EMOJI_AVAILABLE">
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d55" view_id="@+id/key_pos_switch_to_symbol"/>
+        </key_mapping>
+    </if>
+    <key_mapping state="INPUT_TYPE_URI">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d00" view_id="@+id/key_pos_bottom_symbol_1"/>
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0a4d" view_id="@+id/key_pos_bottom_symbol_1"/>
+    </key_mapping>
+</framework>

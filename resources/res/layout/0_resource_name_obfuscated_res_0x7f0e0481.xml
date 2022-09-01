@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:focusable="false" android:visibility="invisible" android:layout_width="0dp" android:layout_height="0dp">
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0805" android:tag=".label.nga-voice-highlight" android:layout_width="0dp" android:layout_height="0dp"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0803" android:tag=".label.nga-promo-highlight" android:layout_width="0dp" android:layout_height="0dp"/>
+    <android.support.v7.widget.AppCompatTextView android:textColor="?android:attr/colorPrimary" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07fd" android:tag=".nga-text-color-tertiary" android:layout_width="0dp" android:layout_height="0dp"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07fa" android:tag=".nga-text-color-generic-accent" android:layout_width="0dp" android:layout_height="0dp"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0802" android:tag=".nga-text-color-primary" android:layout_width="0dp" android:layout_height="0dp"/>
+</LinearLayout>

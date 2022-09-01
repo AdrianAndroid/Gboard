@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b008f" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:layout_gravity="center" android:layout_width="32dp" android:layout_height="32dp" style="@style/0_resource_name_obfuscated_res_0x7f15029c"/>
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07ec" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0265" android:layout_width="32dp" android:layout_height="32dp" android:contentDescription="@null" style="@style/0_resource_name_obfuscated_res_0x7f15026b"/>
+    </FrameLayout>
+</merge>

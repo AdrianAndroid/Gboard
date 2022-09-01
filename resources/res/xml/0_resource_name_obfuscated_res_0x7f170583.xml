@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if device="tablet" keyboard_mode="normal">
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f17071e"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b0488">
+            <if device="tablet" device_size="large">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0196" type="linear"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0195" type="linear"/>
+            </else>
+            <view type="linear">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c83"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a08"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170b99"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            </view>
+        </keyboard>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f17081f"/>
+    </if>
+    <else>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b0488">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01b6" type="linear">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c83"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a08"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            </view>
+        </keyboard>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f17081f"/>
+    </else>
+</framework>

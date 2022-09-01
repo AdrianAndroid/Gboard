@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.emoji.picker.CircleView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b018d" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f070161" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f07015c" android:importantForAccessibility="no" app:radius="@dimen/0_resource_name_obfuscated_res_0x7f070162"/>

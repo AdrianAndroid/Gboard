@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false" android:layoutDirection="inherit">
+    <FrameLayout android:layout_width="0dp" android:layout_weight="4" android:paddingStart="?attr/0_resource_name_obfuscated_res_0x7f0400f4" style="@style/0_resource_name_obfuscated_res_0x7f1503dc">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e00ec"/>
+    </FrameLayout>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e00ed"/>
+</LinearLayout>

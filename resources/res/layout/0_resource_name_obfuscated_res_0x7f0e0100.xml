@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f150394">
+    <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150393"/>
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150351">
+        <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.ReadingTextCandidateHolderView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b141c" default_sub_view_count="4" style="@style/0_resource_name_obfuscated_res_0x7f150409"/>
+        <LinearLayout android:layout_weight="250" style="@style/0_resource_name_obfuscated_res_0x7f15034f">
+            <View style="@style/0_resource_name_obfuscated_res_0x7f15023c"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_function_key_on_candidates_view" style="@style/0_resource_name_obfuscated_res_0x7f15050b"/>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

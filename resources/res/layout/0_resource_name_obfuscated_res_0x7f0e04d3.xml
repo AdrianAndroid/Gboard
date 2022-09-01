@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.popup.BasicPopupView xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f150194">
+    <FrameLayout style="@style/0_resource_name_obfuscated_res_0x7f150522">
+        <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0850" android:visibility="gone" style="@style/0_resource_name_obfuscated_res_0x7f150524"/>
+    </FrameLayout>
+</com.google.android.libraries.inputmethod.popup.BasicPopupView>

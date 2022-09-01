@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f1a" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+            <action data="$press_data$" intention="$intention=COMMIT$" keycode="KEYCODE_BACK" popup_label="$press_data$" type="PRESS"/>
+            <action data="$long_press_data$" intention="COMMIT" keycode="KEYCODE_DPAD_DOWN" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+        </softkey_template>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f1a">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b123c" keycode="KEYCODE_7" long_press_data="," press_data="，"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1423" keycode="KEYCODE_DPAD_UP" long_press_data="." press_data="。"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ce1" long_press_data="《 〈" press_data="&lt;"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ce0" long_press_data="》 〉" press_data="&gt;"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0cdf" intention="DECODE" keycode="KEYCODE_6" long_press_data="‘ ’ 「 」" press_data="&apos;"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ce2" long_press_data="“ ” 『 』" press_data="&quot;"/>
+        </softkey_list>
+    </softkeys>
+</framework>

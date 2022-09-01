@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <if device="tablet" device_size="large" keyboard_mode="normal"/>
+        <else>
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b20dd" view_id="@+id/key_pos_zwnj_with_zwj"/>
+        </else>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d06" view_id="@+id/key_pos_space"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0e06" view_id="@+id/key_pos_del"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d5e" view_id="@+id/key_pos_switch_to_symbol"/>
+        <if device="tablet" keyboard_mode="normal">
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0b69" view_id="@+id/key_pos_bottom_symbol_1"/>
+        </if>
+        <else>
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0b6a" view_id="@+id/key_pos_bottom_symbol_1"/>
+        </else>
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0b7f" view_id="@+id/key_pos_bottom_symbol_1"/>
+    </key_mapping>
+    <key_mapping state="NO_IME_PICKER">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d07" view_id="@+id/key_pos_space"/>
+    </key_mapping>
+    <merge_key_mapping state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+        <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1063" view_id="@+id/key_pos_bottom_symbol_1"/>
+    </merge_key_mapping>
+</framework>

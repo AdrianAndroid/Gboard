@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170c05"/>
+    <softkeys>
+        <if enable_nav_redesign="true">
+            <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec1">
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f14011d" id="@+id/0_resource_name_obfuscated_res_0x7f0b0ced" keycode="KEYCODE_SOFT_LEFT" param_data="prime" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080323"/>
+            </softkey_list>
+        </if>
+        <else>
+            <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f14011d" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b0ced" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0548">
+                <action data="prime" keycode="KEYCODE_SOFT_LEFT" type="linear"/>
+                <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080323"/>
+            </softkey>
+        </else>
+    </softkeys>
+</framework>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0112" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0047"/>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0049"/>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0044"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

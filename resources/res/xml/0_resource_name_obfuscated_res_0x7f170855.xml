@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinDigitsKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b0637" initial_states="LOCK_KEYBOARD">
+        <view direction="bottom_to_top" layout="@layout/0_resource_name_obfuscated_res_0x7f0e03cd" scalable="false" type="header">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa2"/>
+        </view>
+        <view type="sweep">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170ca9"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f1a"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f1b"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c07"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f17"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0e"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170e01"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bf6"/>
+        </view>
+        <if device="foldable|tablet" keyboard_mode="split">
+            <if split_with_duplicate_keys="true">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0437" type="sweep"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0438" type="sweep"/>
+            </else>
+            <view type="sweep">
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ae4"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ae7"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f1709a0"/>
+            </view>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0436" type="sweep">
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f1709c3"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f1709c4"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ae2"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ae6"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f1709a0"/>
+            </view>
+        </else>
+    </keyboard>
+</framework>

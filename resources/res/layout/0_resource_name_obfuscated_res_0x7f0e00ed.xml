@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center_vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="5">
+    <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02ad" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/0_resource_name_obfuscated_res_0x7f1503dd">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e00f0"/>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e00ef"/>
+    </LinearLayout>
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02b3" android:visibility="invisible" style="@style/0_resource_name_obfuscated_res_0x7f1503e1"/>
+</FrameLayout>

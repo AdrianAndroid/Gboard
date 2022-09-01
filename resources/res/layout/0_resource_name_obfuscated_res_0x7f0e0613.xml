@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewStub xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2201" android:visibility="invisible" android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e0612" android:inflatedId="@+id/0_resource_name_obfuscated_res_0x7f0b2201" android:layout_width="match_parent" android:layout_height="match_parent" app:managed="true"/>

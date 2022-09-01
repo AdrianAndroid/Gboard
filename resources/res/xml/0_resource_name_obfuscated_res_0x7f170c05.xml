@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="$desc$" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec1" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0545" multi_touch="false">
+            <action data="$param_data$" keycode="KEYCODE_SOFT_LEFT" type="PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="$param_icon$"/>
+        </softkey_template>
+    </softkeys>
+</framework>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_list splitter=",">
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f03" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_data$" type="PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f02" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_label$" type="PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ef9" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1efa" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="COMMIT" keycode="KEYCODE_DPAD_RIGHT" popup_label="$press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040187" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040186" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1efc" layout="@layout/0_resource_name_obfuscated_res_0x7f0e059d" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="COMMIT" keycode="KEYCODE_DPAD_RIGHT" popup_label="$press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040187" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040187" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1efd" layout="@layout/0_resource_name_obfuscated_res_0x7f0e059c" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="COMMIT" keycode="KEYCODE_DPAD_RIGHT" popup_label="$press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040187" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040187" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1efe" layout="@layout/0_resource_name_obfuscated_res_0x7f0e059b" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_data$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1efb" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040186" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040186" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f00" layout="@layout/0_resource_name_obfuscated_res_0x7f0e059b" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_data$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f13" layout="@layout/0_resource_name_obfuscated_res_0x7f0e057e" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_data$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ecc" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a0" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_9" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ee5" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a2" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_7" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ee6" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a3" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_7" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ee9" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0591" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_7" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ee7" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0592" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_7" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1eea" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a5" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_7" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1eeb" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a2" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_7" popup_label="$press_data$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ee8" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a3" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="DECODE" keycode="KEYCODE_7" popup_label="$press_data$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=C,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ed1" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a2" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040182" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ed2" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a2" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" intention="$press_intent=DECODE$" keycode="KEYCODE_7" popup_label="$press_data$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_7" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040182" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6" layout="$param_layout$" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$param_data$" intention="COMMIT" keycode="KEYCODE_1" popup_label="$param_data$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018a" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="$param_data$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0751" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec7" layout="$param_layout$" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$param_data$" intention="COMMIT" keycode="KEYCODE_1" popup_label="$param_data$" type="PRESS"/>
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040189" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="$param_data$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0751" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1228" layout="$param_layout$" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018a" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0751" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b122a" layout="$param_layout$" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_label$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040187" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0751" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b122c" layout="$param_layout$" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018a" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0751" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b122b" layout="$param_layout$" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018c" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0751" value="$hint_label$"/>
+            </softkey_template>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1229" layout="$param_layout$" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="$long_press_data$" intention="$long_press_intention=DECODE$" keycode="KEYCODE_DPAD_DOWN" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f040180" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0751" value="$hint_label$"/>
+            </softkey_template>
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f07070c" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/0_resource_name_obfuscated_res_0x7f150709">
+        <Switch android:layout_gravity="center_horizontal" style="@style/0_resource_name_obfuscated_res_0x7f150708"/>
+        <Space android:id="@+id/0_resource_name_obfuscated_res_0x7f0b218e" android:visibility="gone" android:layout_width="match_parent" android:layout_height="14dp"/>
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150704"/>
+            <Space android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+            <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150703"/>
+        </LinearLayout>
+        <FrameLayout android:layout_gravity="center_horizontal" android:paddingLeft="12dp" android:paddingRight="12dp" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/0_resource_name_obfuscated_res_0x7f150701">
+            <Button android:minWidth="128dp" style="@style/0_resource_name_obfuscated_res_0x7f150700"/>
+        </FrameLayout>
+    </LinearLayout>
+</merge>

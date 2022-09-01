@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="?android:attr/selectableItemBackground" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f070157" android:layout_height="match_parent" android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f070156">
+    <android.support.v7.widget.AppCompatImageView android:gravity="center" android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0189" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f07015a" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070154" style="?attr/0_resource_name_obfuscated_res_0x7f040096"/>
+    <View android:layout_gravity="bottom|center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b018b" android:background="@drawable/0_resource_name_obfuscated_res_0x7f0803b5" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f070159" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070158" style="?attr/0_resource_name_obfuscated_res_0x7f040097"/>
+</FrameLayout>

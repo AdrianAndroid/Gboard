@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00ed" android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080134"/>
+    <item android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21d6" android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080136"/>
+    <transition android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080137" android:toId="@+id/0_resource_name_obfuscated_res_0x7f0b00ed" android:fromId="@+id/0_resource_name_obfuscated_res_0x7f0b21d6"/>
+    <transition android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080135" android:toId="@+id/0_resource_name_obfuscated_res_0x7f0b21d6" android:fromId="@+id/0_resource_name_obfuscated_res_0x7f0b00ed"/>
+</animated-selector>

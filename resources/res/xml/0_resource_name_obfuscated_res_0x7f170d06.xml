@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f00">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e8a" long_press_data="ౕ,ఽ" press_data="అ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e8b" long_press_data="ా" press_data="ఆ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e9b" long_press_data="ి" press_data="ఇ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e9c" long_press_data="ీ" press_data="ఈ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb2" long_press_data="ు" press_data="ఉ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb3" long_press_data="ూ" press_data="ఊ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb5" long_press_data="ృ,ఌ,ౢ" press_data="ఋ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb6" long_press_data="ౄ,ౡ,ౣ" press_data="ౠ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e96" long_press_data="ె" press_data="ఎ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e97" long_press_data="ే" press_data="ఏ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e8c" long_press_data="ై,ౖ" press_data="ఐ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea6" long_press_data="ొ" press_data="ఒ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea7" long_press_data="ో" press_data="ఓ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e8d" long_press_data="ౌ" press_data="ఔ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb8" long_press_data="ఁ" press_data="ం"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eba" press_data="ః"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb9" press_data="్"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e9f" long_press_data="క్త,క్స,క్న,క్ర,క్క,క్ష,క్వ,క్ల" press_data="క"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea0" press_data="ఖ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e98" long_press_data="గ్ర,గ్గ,గ్ద,గ్ల,గ్డ" press_data="గ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e99" long_press_data="ఙ" press_data="ఘ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e90" long_press_data="ౘ,చ్చ" press_data="చ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e91" press_data="ఛ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e9d" long_press_data="ౙ,జ్జ,జ్క,జ్న,జ్ర" press_data="జ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e9e" long_press_data="ఞ" press_data="ఝ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb0" long_press_data="ట్న,ట్ట,ట్క,ట్త,ట్వ,ట్స" press_data="ట"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb1" press_data="ఠ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e93" long_press_data="డ్స,డ్క,డ్డ,డ్త,డ్ద,డ్వ,డ్మ" press_data="డ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e94" press_data="ఢ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea5" press_data="ణ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eae" long_press_data="త్త,త్ర,త్న,త్మ,త్క,త్వ" press_data="త"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eaf" press_data="థ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e92" long_press_data="ద్ద,ద్న,ద్ర,ద్ల,ద్వ" press_data="ద"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e95" press_data="ధ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea4" long_press_data="న్వ,న్న,న్క,న్త,న్ద,న్గ,న్ల,న్మ" press_data="న"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea8" long_press_data="ప్ర,ప్న,ప్ప,ప్త,ప్క,ప్డ,ప్స" press_data="ప"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea9" press_data="ఫ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e8e" long_press_data="బ్ర,బ్న,బ్బ,బ్ల" press_data="బ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e8f" press_data="భ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea3" long_press_data="మ్ద,మ్న,మ్మ,మ్క" press_data="మ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb7" long_press_data="య్న,య్ల,య్క,య్య" press_data="య"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eaa" long_press_data="ఱ,ర్క,ర్త,ర్స,ర్మ,ర్వ,ర్గ,ర్ర,ర్న,ర్ప,ర్జ,ర్ద,ర్చ,ర్ల,ర్బ,ర్య" press_data="ర"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea1" long_press_data="ల్ల,ల్క,ల్వ,ల్త,ల్మ,ల్స" press_data="ల"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eb4" long_press_data="వ్న,వ్ర,వ్ల" press_data="వ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ea2" press_data="ళ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eac" press_data="శ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1ead" press_data="ష"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1eab" long_press_data="స్క,స్త,స్ట,స్ర,స్వ,స్య,స్న,స్స,స్మ" press_data="స"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e9a" long_press_data="హ్వ,హ్ర,హ్న,హ్మ" press_data="హ"/>
+        </softkey_list>
+    </softkeys>
+</framework>

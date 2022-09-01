@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.CopyImageView android:id="@+id/key_pos_header_action_overlay" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" app:copySource="@+id/0_resource_name_obfuscated_res_0x7f0b0134"/>
+    <FrameLayout android:id="@+id/key_pos_header_action_holder" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <SurfaceView android:id="@+id/key_pos_header_action_surface" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

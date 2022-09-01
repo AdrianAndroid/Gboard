@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.core.InputView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:layoutDirection="ltr">
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0429" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0428" android:tag=".keyboard_top_shadow" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="wrap_content" android:scaleType="fitXY" android:contentDescription=""/>
+        </FrameLayout>
+        <FrameLayout android:layout_gravity="bottom" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0427" android:tag=".keyboard-base-area" android:background="@drawable/0_resource_name_obfuscated_res_0x7f0800ef" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="8dp">
+            <com.google.android.libraries.inputmethod.widgets.ShrinkableFrameView style="@style/0_resource_name_obfuscated_res_0x7f1502a1"/>
+            <ViewStub android:layout_gravity="bottom|left" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b05c7" android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e03c7" style="@style/0_resource_name_obfuscated_res_0x7f1502d7"/>
+            <ViewStub android:layout_gravity="bottom|right" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b067a" android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e03f8" style="@style/0_resource_name_obfuscated_res_0x7f1502d7"/>
+            <com.google.android.libraries.inputmethod.widgets.KeyboardHolder android:orientation="vertical" android:id="@+id/keyboard_holder" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <View android:id="@+id/0_resource_name_obfuscated_res_0x7f0b06f6" android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f1502d9"/>
+                <com.google.android.libraries.inputmethod.keyboard.impl.KeyboardViewHolder style="@style/0_resource_name_obfuscated_res_0x7f150224"/>
+                <com.google.android.libraries.inputmethod.keyboard.impl.KeyboardViewHolder style="@style/0_resource_name_obfuscated_res_0x7f1502ba"/>
+                <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <com.google.android.libraries.inputmethod.keyboard.impl.KeyboardViewHolder style="@style/0_resource_name_obfuscated_res_0x7f1502a3"/>
+                    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b046b" style="@style/0_resource_name_obfuscated_res_0x7f1502a5"/>
+                </FrameLayout>
+            </com.google.android.libraries.inputmethod.widgets.KeyboardHolder>
+            <View android:id="@+id/0_resource_name_obfuscated_res_0x7f0b046a" style="@style/0_resource_name_obfuscated_res_0x7f1502a4"/>
+            <com.google.android.libraries.inputmethod.widgets.ShrinkableFrameView android:layout_width="match_parent" android:layout_height="match_parent">
+                <ImageView style="@style/0_resource_name_obfuscated_res_0x7f1502da"/>
+            </com.google.android.libraries.inputmethod.widgets.ShrinkableFrameView>
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.framework.core.InputView>

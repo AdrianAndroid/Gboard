@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="plt-MG" string_id="ime_plateau_malagasy">
+        <if enable_number_row="false">
+            <keyboard_group supports_split_mode="true" variant="qwerty">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f17087c"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <keyboard_group supports_split_mode="true" variant="qwertz">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f17089b"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <keyboard_group supports_split_mode="true" variant="azerty">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707c4"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <keyboard_group supports_split_mode="true" variant="dvorak">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707dc"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <keyboard_group supports_split_mode="true" variant="colemak">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707d2"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+        </if>
+        <else>
+            <keyboard_group layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0" supports_split_mode="true" variant="qwerty">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f17087c"/>
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707f3"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0" supports_split_mode="true" variant="qwertz">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f17089b"/>
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707f3"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0" supports_split_mode="true" variant="azerty">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707c4"/>
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707f0"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0" supports_split_mode="true" variant="dvorak">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707dc"/>
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f170814"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <keyboard_group layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0" supports_split_mode="true" variant="colemak">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706d2" type="prime">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707d2"/>
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707f0"/>
+                </keyboard>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+        </else>
+    </ime>
+</framework>

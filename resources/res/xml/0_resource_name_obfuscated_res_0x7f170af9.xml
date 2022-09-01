@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170afc"/>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc1" view_id="@+id/key_pos_number_line2_3"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0cf1" view_id="@+id/key_pos_number_line3_3"/>
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_DATE">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1cc0" view_id="@+id/key_pos_number_line2_3"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0fda" view_id="@+id/key_pos_number_line3_3"/>
+    </key_mapping>
+</framework>

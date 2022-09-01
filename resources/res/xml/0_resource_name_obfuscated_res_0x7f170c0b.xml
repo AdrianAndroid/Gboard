@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140c34" id="@+id/0_resource_name_obfuscated_res_0x7f0b1d5e" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0549">
+            <action action_on_down="true" data="symbol" keycode="KEYCODE_1" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="?123"/>
+        </softkey>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1021" long_press_data="¡" merge_index="-1" press_data="!"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c37" long_press_data="¿" press_data="?"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b123d" long_press_data="!,¡" long_press_intention="COMMIT" merge_index="-1" press_data="！" press_intention="COMMIT"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1240" long_press_data="?,¿" long_press_intention="COMMIT" press_data="？" press_intention="COMMIT"/>
+        </softkey_list>
+    </softkeys>
+</framework>

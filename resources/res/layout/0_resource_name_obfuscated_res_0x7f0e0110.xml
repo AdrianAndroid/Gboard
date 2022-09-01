@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f1501a1">
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150220">
+        <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150216">
+            <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08c5" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c0009"/>
+            <LinearLayout android:orientation="vertical" android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c0009" style="@style/0_resource_name_obfuscated_res_0x7f150285">
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0056"/>
+                <com.google.android.libraries.inputmethod.emoji.widget.PageableEmojiListHolderView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b04dc" android:layout_width="match_parent" android:layout_height="match_parent" background_emoji_filter="false" emoji_filter="true" offscreen_page_limit="2" page_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0112" page_margin_ratio="15"/>
+            </LinearLayout>
+        </LinearLayout>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e011a"/>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView>

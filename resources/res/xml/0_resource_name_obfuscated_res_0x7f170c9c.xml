@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0de1" long_press_data="ꙟ,ј,ѷ" press_data="й"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d93" long_press_data="Ꙟ,Ј,Ѷ" press_data="Й"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0de7" long_press_data="ꙡ,ⷰ" press_data="ц"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d99" long_press_data="Ꙡ,ⷰ" press_data="Ц"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0de9" long_press_data="ꙋ,оу,ⷹ,ꙷ" press_data="у"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d9b" long_press_data="Ꙋ,Оу,ⷹ,ꙷ" press_data="У"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dd1" long_press_data="ѯ,к҄,ⷦ" press_data="к"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d83" long_press_data="Ѯ,К҄,ⷦ" press_data="К"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dcd" long_press_data="є,ё,ꙴ,ⷷ" press_data="е"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d7f" long_press_data="Є,Ё,ꙴ,ⷷ" press_data="Е"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dbd" long_press_data="н҄,ⷩ" press_data="н"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d6f" long_press_data="Н҄,ⷩ" press_data="Н"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dc3" long_press_data="г҄,ⷢ,ґ" press_data="г"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d75" long_press_data="Г҄,ⷢ,Ґ" press_data="Г"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dde" long_press_data="ћ,ⷲ" press_data="ш"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d90" long_press_data="Ћ,ⷲ" press_data="Ш"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ddf" long_press_data="ⷳ" press_data="щ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d91" long_press_data="ⷳ" press_data="Щ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0df1" long_press_data="ѕ,ꙁ,ꙃ,ꙅ,ⷥ" press_data="з"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0da3" long_press_data="Ѕ,Ꙁ,Ꙃ,Ꙅ,ⷥ" press_data="З"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dc8" long_press_data="һ,х҄,ⷯ" press_data="х"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d7a" long_press_data="Һ,Х҄,ⷯ" press_data="Х"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dba" long_press_data="ѳ,ⷴ" press_data="ф"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d6c" long_press_data="Ѳ,ⷴ" press_data="Ф"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dee" long_press_data="ꙹ" press_data="ы"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0da0" long_press_data="ꙹ" press_data="Ы"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dec" long_press_data="в҄,ѵ,ⷡ" press_data="в"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d9e" long_press_data="В҄,Ѵ,ⷡ" press_data="В"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0daa" long_press_data="ꙗ,ⷶ,ⷼ" press_data="а"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d5c" long_press_data="Ꙗ,ⷶ,ⷼ" press_data="А"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ddc" long_press_data="ѱ,ⷫ" press_data="п"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d8e" long_press_data="Ѱ,ⷫ" press_data="П"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dc0" long_press_data="р҄,ⷬ" press_data="р"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d72" long_press_data="Р҄,ⷬ" press_data="Р"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dd9" long_press_data="ѡ,ꙍ,ѿ,ѽ,ꙻ,ⷪ,ѻ,ꙩ,ꙭ,ꙮ,ꚙ,ꚛ" press_data="о"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d8b" long_press_data="Ѡ,Ꙍ,Ѿ,Ѽ,ꙻ,ⷪ,Ѻ,Ꙩ,Ꙭ,ꙮ,Ꚙ,Ꚛ" press_data="О"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dbb" long_press_data="л҄,ꙥ,љ,ⷧ" press_data="л"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d6d" long_press_data="Л҄,Ꙥ,Љ,ⷧ" press_data="Л"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0db5" long_press_data="д҄,ⷣ" press_data="д"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d67" long_press_data="Д҄,ⷣ" press_data="Д"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0df2" long_press_data="ꙉ,ђ,ⷤ,ⷸ" press_data="ж"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0da4" long_press_data="Ꙉ,Ђ,ⷤ,ⷸ" press_data="Ж"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0db9" long_press_data="ѥ,ꚟ" press_data="э"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d6b" long_press_data="Ѥ,ꚟ" press_data="Э"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0ded" long_press_data="ѧ,ѣ,ѩ,ꙓ,ꙙ,ꙝ,ⷽ,ⷺ" press_data="я"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d9f" long_press_data="Ѧ,Ѣ,Ѩ,Ꙓ,Ꙙ,Ꙝ,ⷽ,ⷺ" press_data="Я"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0db2" long_press_data="ҁ,ⷱ" press_data="ч"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d64" long_press_data="Ҁ,ⷱ" press_data="Ч"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dc1" long_press_data="ⷭ" press_data="с"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d73" long_press_data="ⷭ" press_data="С"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dbc" long_press_data="м҄,ꙧ,ⷨ" press_data="м"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d6e" long_press_data="М҄,Ꙧ,ⷨ" press_data="М"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0dcb" long_press_data="і,ї,ꙵ,ꙶ" press_data="и"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d7d" long_press_data="І,Ї,ꙵ,ꙶ" press_data="И"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0de6" long_press_data="ⷮ" press_data="т"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d98" long_press_data="ⷮ" press_data="Т"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0de3" long_press_data="ъ,ꙏ,ꙺ,ꙸ" press_data="ь"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d95" long_press_data="Ъ,Ꙏ,ꙺ,ꙸ" press_data="Ь"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0db0" long_press_data="б҄,ⷠ" press_data="б"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d62" long_press_data="Б҄,ⷠ" press_data="Б"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0df0" long_press_data="ѫ,ѭ,ꙕ,ꙛ,ⷻ,ⷾ,ⷿ" press_data="ю"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0da2" long_press_data="Ѫ,Ѭ,Ꙕ,Ꙛ,ⷻ,ⷾ,ⷿ" press_data="Ю"/>
+        </softkey_list>
+    </softkeys>
+</framework>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator xmlns:android="http://schemas.android.com/apk/res/android" android:controlX1="@dimen/0_resource_name_obfuscated_res_0x7f070429" android:controlY1="@dimen/0_resource_name_obfuscated_res_0x7f07042b" android:controlX2="@dimen/0_resource_name_obfuscated_res_0x7f07042a" android:controlY2="@dimen/0_resource_name_obfuscated_res_0x7f07042c"/>

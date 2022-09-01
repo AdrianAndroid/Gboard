@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard candidate_text_size_ratio="1" class="com.google.android.apps.inputmethod.latin.keyboard.LatinHandwritingPrimeKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b0534" popup="@attr/0_resource_name_obfuscated_res_0x7f040185" session_states="CAPS_LOCK">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03eb" scalable="false" type="header">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c16"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a9f"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa0"/>
+        </view>
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0126" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class=".libs.handwriting.keyboard.HandwritingMotionEventHandler"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c15"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c14"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a7f"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a74"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a9d"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a77"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a06"/>
+        </view>
+        <view id="@+id/0_resource_name_obfuscated_res_0x7f0b0222" layout="@layout/0_resource_name_obfuscated_res_0x7f0e011b" type="body">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c15"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f1d"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c14"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a7f"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a74"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a72"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a77"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a06"/>
+        </view>
+        <view id="@+id/0_resource_name_obfuscated_res_0x7f0b0223" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0120">
+            <motion_event_handler class=".libs.handwriting.keyboard.FullscreenHandwritingMotionEventHandler"/>
+        </view>
+    </keyboard>
+</framework>

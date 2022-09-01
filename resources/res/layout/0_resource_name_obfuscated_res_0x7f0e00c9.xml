@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_horizontal" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0231" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0232" android:layout_marginTop="14dp" android:layout_marginBottom="30dp" android:text="@string/0_resource_name_obfuscated_res_0x7f1402ac" android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f070652" android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f070652" style="@style/0_resource_name_obfuscated_res_0x7f150492"/>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0237" android:layout_width="wrap_content" android:layout_height="50dp" android:text="@string/0_resource_name_obfuscated_res_0x7f1402ba" android:layout_marginEnd="20dp" style="?attr/0_resource_name_obfuscated_res_0x7f040564"/>
+        <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0238" android:layout_width="wrap_content" android:layout_height="50dp" android:text="@string/0_resource_name_obfuscated_res_0x7f1402bc"/>
+    </LinearLayout>
+</LinearLayout>

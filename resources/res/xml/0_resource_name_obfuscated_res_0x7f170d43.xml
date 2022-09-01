@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_list>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1edb" layout="$key_layout=@layout/softkey_ja_50keys_hiragana$" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="$press_data$" icon_background_level="@integer/0_resource_name_obfuscated_res_0x7f0c0084" intention="DECODE" keycode="KEYCODE_1" popup_icon="$press_icon$" popup_label="$press_label$" type="PRESS"/>
+                <action data="$long_press_data$" intention="DECODE" keycode="KEYCODE_STAR" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018a" type="LONG_PRESS"/>
+                <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="$key_icon$"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_label$"/>
+            </softkey_template>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1edb">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1464" long_press_data="ぁ" press_data="あ" press_label="あ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b146b" long_press_data="ぃ" press_data="い" press_label="い"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b148c" long_press_data="ぅ ゔ" press_data="う" press_label="う"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1465" long_press_data="ぇ" press_data="え" press_label="え"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b147c" long_press_data="ぉ" press_data="お" press_label="お"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b146c" long_press_data="が" press_data="か" press_label="か"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b146e" long_press_data="ぎ" press_data="き" press_label="き"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1470" long_press_data="ぐ" press_data="く" press_label="く"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b146d" long_press_data="げ" press_data="け" press_label="け"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b146f" long_press_data="ご" press_data="こ" press_label="こ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1482" long_press_data="ざ" press_data="さ" press_label="さ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1484" long_press_data="じ" press_data="し" press_label="し"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1486" long_press_data="ず" press_data="す" press_label="す"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1483" long_press_data="ぜ" press_data="せ" press_label="せ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1485" long_press_data="ぞ" press_data="そ" press_label="そ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1487" long_press_data="だ" press_data="た" press_label="た"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1489" long_press_data="ぢ" press_data="ち" press_label="ち"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b148b" long_press_data="っ づ" press_data="つ" press_label="つ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1488" long_press_data="で" press_data="て" press_label="て"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b148a" long_press_data="ど" press_data="と" press_label="と"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1477" press_data="な" press_label="な"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1479" press_data="に" press_label="に"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b147b" press_data="ぬ" press_label="ぬ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1478" press_data="ね" press_label="ね"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b147a" press_data="の" press_label="の"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1466" long_press_data="ば ぱ" press_data="は" press_label="は"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1468" long_press_data="び ぴ" press_data="ひ" press_label="ひ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b146a" long_press_data="ぶ ぷ" press_data="ふ" press_label="ふ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1467" long_press_data="べ ぺ" press_data="へ" press_label="へ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1469" long_press_data="ぼ ぽ" press_data="ほ" press_label="ほ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1471" press_data="ま" press_label="ま"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1473" press_data="み" press_label="み"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1475" press_data="む" press_label="む"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1472" press_data="め" press_label="め"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1474" press_data="も" press_label="も"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b148f" long_press_data="ゃ" press_data="や" press_label="や"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1491" long_press_data="ゅ" press_data="ゆ" press_label="ゆ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1490" long_press_data="ょ" press_data="よ" press_label="よ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b147d" press_data="ら" press_label="ら"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b147f" press_data="り" press_label="り"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1481" press_data="る" press_label="る"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b147e" press_data="れ" press_label="れ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1480" press_data="ろ" press_label="ろ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b148d" long_press_data="ゎ" press_data="わ" press_label="わ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b148e" press_data="を" press_label="を"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1476" press_data="ん" press_label="ん"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1494" press_data="ー" press_label="ー"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400ba" id="@+id/0_resource_name_obfuscated_res_0x7f0b149d" key_icon="@drawable/0_resource_name_obfuscated_res_0x7f080231" key_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0573" press_data="*" press_icon="@drawable/0_resource_name_obfuscated_res_0x7f080231" press_keycode="STAR" press_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04bd"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1495" press_data="?" press_label="?"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1463" press_data="!" press_label="!"/>
+        </softkey_list>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1edb">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b149b" press_data="、" press_keycode="COMMA" press_label="、"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b14ac" press_data="。" press_keycode="PERIOD" press_label="。"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1edb">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1493" long_press_data="「 」" press_data="「」" press_label="「」"/>
+        </softkey_list>
+        <softkey_list>
+            <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f1400c2" id="@+id/0_resource_name_obfuscated_res_0x7f0b1496" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0577" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+                <action data="alphabet_qwerty" keycode="KEYCODE_DPAD_DOWN" type="PRESS"/>
+            </softkey>
+        </softkey_list>
+    </softkeys>
+</framework>

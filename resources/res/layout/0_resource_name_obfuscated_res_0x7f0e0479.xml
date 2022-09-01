@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f15039d">
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1502c8">
+        <ImageView android:src="@mipmap/ic_app" style="@style/0_resource_name_obfuscated_res_0x7f1502c3"/>
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07bf" android:text="@string/0_resource_name_obfuscated_res_0x7f140551" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140551" style="@style/0_resource_name_obfuscated_res_0x7f1502ca"/>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07be" style="@style/0_resource_name_obfuscated_res_0x7f15039e">
+        <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07c1" style="@style/0_resource_name_obfuscated_res_0x7f1503a1">
+            <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07c0" style="@style/0_resource_name_obfuscated_res_0x7f1503a0"/>
+        </LinearLayout>
+        <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07a9" style="@style/0_resource_name_obfuscated_res_0x7f15039f"/>
+    </LinearLayout>
+    <RelativeLayout style="@style/0_resource_name_obfuscated_res_0x7f1502c5">
+        <com.google.android.libraries.inputmethod.widgets.OverlayButton android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0818" android:text="@string/0_resource_name_obfuscated_res_0x7f14040d" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14040d" android:layout_alignParentEnd="true" style="@style/0_resource_name_obfuscated_res_0x7f1502c9"/>
+        <com.google.android.libraries.inputmethod.widgets.OverlayButton android:id="@+id/0_resource_name_obfuscated_res_0x7f0b00cd" android:text="@string/0_resource_name_obfuscated_res_0x7f140417" android:layout_toStartOf="@+id/0_resource_name_obfuscated_res_0x7f0b0818" style="@style/0_resource_name_obfuscated_res_0x7f1502c6"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.view.menu.ListMenuItemView xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="196dp">
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0247" android:background="@drawable/0_resource_name_obfuscated_res_0x7f080044" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="4dp" android:layout_marginBottom="4dp"/>
+    <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0129" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="?attr/0_resource_name_obfuscated_res_0x7f0403d4" style="@style/0_resource_name_obfuscated_res_0x7f150412">
+        <TextView android:textAppearance="?attr/0_resource_name_obfuscated_res_0x7f040735" android:layout_gravity="center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21a5" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/0_resource_name_obfuscated_res_0x7f150417"/>
+        <Space android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
+        <TextView android:textAppearance="?attr/0_resource_name_obfuscated_res_0x7f04073e" android:layout_gravity="center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08ef" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/0_resource_name_obfuscated_res_0x7f150414"/>
+        <ImageView android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2140" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" style="@style/0_resource_name_obfuscated_res_0x7f150415"/>
+    </LinearLayout>
+</android.support.v7.view.menu.ListMenuItemView>

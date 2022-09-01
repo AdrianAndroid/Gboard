@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.emoji.widget.FixedSizeEmojiListHolder xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b141d" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" app:columnCount="6" app:emojiviewLayout="@layout/0_resource_name_obfuscated_res_0x7f0e05d5" app:managed="true" app:rowCount="1"/>

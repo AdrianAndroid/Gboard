@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170c05"/>
+    <softkeys>
+        <softkey_template alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="$desc$" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec9" layout="@layout/0_resource_name_obfuscated_res_0x7f0e053b" multi_touch="false">
+            <action keycode="KEYCODE_HOME" popup_label="$popup_label$" popup_layout="$popup_layout$" repeatable="$repeatable$" type="PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="$icon$"/>
+        </softkey_template>
+        <softkey_template alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="$desc$" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ecb" layout="@layout/0_resource_name_obfuscated_res_0x7f0e053d" multi_touch="false">
+            <action keycode="KEYCODE_HOME" popup_label="$popup_label$" popup_layout="$popup_layout$" repeatable="$repeatable$" type="PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="$icon$"/>
+        </softkey_template>
+        <softkey_template additional_content_description="$empty_reason$" alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="$desc$" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1eca" layout="@layout/0_resource_name_obfuscated_res_0x7f0e053c" multi_touch="false">
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="$icon$"/>
+        </softkey_template>
+        <if enable_nav_redesign="true">
+            <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec1">
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f6" id="@+id/0_resource_name_obfuscated_res_0x7f0b0cea" keycode="KEYCODE_8" param_data="prime" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080323"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400ec" id="@+id/0_resource_name_obfuscated_res_0x7f0b092c" keycode="KEYCODE_0" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080322"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f8" id="@+id/0_resource_name_obfuscated_res_0x7f0b0f97" keycode="KEYCODE_5" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080186"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f7" id="@+id/0_resource_name_obfuscated_res_0x7f0b0ceb" keycode="KEYCODE_4" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080334"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400ef" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b13" keycode="KEYCODE_1" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080339"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f0" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b15" keycode="KEYCODE_2" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080348"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140107" id="@+id/0_resource_name_obfuscated_res_0x7f0b1b33" keycode="KEYCODE_6" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f0801d3"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140106" id="@+id/0_resource_name_obfuscated_res_0x7f0b1b32" keycode="KEYCODE_6" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f0801d2"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f1" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b17" keycode="KEYCODE_3" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080349"/>
+            </softkey_list>
+        </if>
+        <else>
+            <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f1400f6" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b0cea" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0548">
+                <action data="prime" keycode="KEYCODE_8" type="PRESS"/>
+                <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080323"/>
+            </softkey>
+            <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec9">
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400ec" icon="@drawable/0_resource_name_obfuscated_res_0x7f080322" id="@+id/0_resource_name_obfuscated_res_0x7f0b092c" keycode="KEYCODE_0" repeatable="false"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f8" icon="@drawable/0_resource_name_obfuscated_res_0x7f080186" id="@+id/0_resource_name_obfuscated_res_0x7f0b0f97" keycode="KEYCODE_5" repeatable="false"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f7" icon="@drawable/0_resource_name_obfuscated_res_0x7f080334" id="@+id/0_resource_name_obfuscated_res_0x7f0b0ceb" keycode="KEYCODE_4" repeatable="false"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400ef" icon="@drawable/0_resource_name_obfuscated_res_0x7f080339" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b13" keycode="KEYCODE_1" repeatable="false"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f0" icon="@drawable/0_resource_name_obfuscated_res_0x7f080348" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b15" keycode="KEYCODE_2" repeatable="false"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140107" icon="@drawable/0_resource_name_obfuscated_res_0x7f0801d3" id="@+id/0_resource_name_obfuscated_res_0x7f0b1b33" keycode="KEYCODE_6" repeatable="false"/>
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140106" icon="@drawable/0_resource_name_obfuscated_res_0x7f0801d2" id="@+id/0_resource_name_obfuscated_res_0x7f0b1b32" keycode="KEYCODE_6" repeatable="false"/>
+            </softkey_list>
+            <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ecb">
+                <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f1" icon="@drawable/0_resource_name_obfuscated_res_0x7f080349" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b17" keycode="KEYCODE_3" repeatable="false"/>
+            </softkey_list>
+        </else>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eca">
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400ef" empty_reason="@string/0_resource_name_obfuscated_res_0x7f1400fe" icon="@drawable/0_resource_name_obfuscated_res_0x7f080339" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b14"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f0" empty_reason="@string/0_resource_name_obfuscated_res_0x7f1400fe" icon="@drawable/0_resource_name_obfuscated_res_0x7f080348" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b16"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400ec" empty_reason="@string/0_resource_name_obfuscated_res_0x7f1400ee" icon="@drawable/0_resource_name_obfuscated_res_0x7f080322" id="@+id/0_resource_name_obfuscated_res_0x7f0b092e"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400ec" empty_reason="@string/0_resource_name_obfuscated_res_0x7f1400ed" icon="@drawable/0_resource_name_obfuscated_res_0x7f080322" id="@+id/0_resource_name_obfuscated_res_0x7f0b092f"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1400f8" empty_reason="@string/0_resource_name_obfuscated_res_0x7f1400ff" icon="@drawable/0_resource_name_obfuscated_res_0x7f080186" id="@+id/0_resource_name_obfuscated_res_0x7f0b0f98"/>
+        </softkey_list>
+    </softkeys>
+</framework>

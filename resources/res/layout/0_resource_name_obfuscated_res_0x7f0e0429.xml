@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f150390">
+    <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150392"/>
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150351">
+        <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f15038f">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_candidates_del" android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c0080" style="@style/0_resource_name_obfuscated_res_0x7f1504d5"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_candidates_ime_action" android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c0080" style="@style/0_resource_name_obfuscated_res_0x7f1504d8"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_candidates_page_up" android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c0080" style="@style/0_resource_name_obfuscated_res_0x7f1504d5"/>
+        </LinearLayout>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_candidates_page_down" android:layout_weight="?attr/0_resource_name_obfuscated_res_0x7f040113" style="@style/0_resource_name_obfuscated_res_0x7f1504c4"/>
+    </LinearLayout>
+</FrameLayout>

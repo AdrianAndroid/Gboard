@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ab" long_press_data="¬" press_data="`"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1aff" long_press_data="`" press_data="¬"/>
+        </softkey_list>
+    </softkeys>
+</framework>

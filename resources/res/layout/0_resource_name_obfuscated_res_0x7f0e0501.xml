@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewStub xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:id="@+id/key_pos_proactive_suggestions" android:visibility="invisible" android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e0503" android:inflatedId="@+id/key_pos_proactive_suggestions" android:layout_width="match_parent" android:layout_height="match_parent" app:managed="true" app:suppressedSiblingId="@+id/softkey_holder_fixed_candidates"/>

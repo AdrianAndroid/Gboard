@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.keyboard.widget.DragConfirmationPopupView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0173" android:background="@color/0_resource_name_obfuscated_res_0x7f060745" android:layout_width="match_parent" android:layout_height="0dp">
+        <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0174" android:layout_above="@+id/0_resource_name_obfuscated_res_0x7f0b0175" style="@style/0_resource_name_obfuscated_res_0x7f150a9d"/>
+        <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0175" style="@style/0_resource_name_obfuscated_res_0x7f150a9c"/>
+    </RelativeLayout>
+</com.google.android.apps.inputmethod.libs.framework.keyboard.widget.DragConfirmationPopupView>

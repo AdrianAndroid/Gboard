@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b025a" android:layout_width="wrap_content" android:layout_height="match_parent" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_header_voice" style="@style/0_resource_name_obfuscated_res_0x7f150537"/>
+    <FrameLayout android:id="@+id/key_pos_header_action" android:visibility="invisible" style="@style/0_resource_name_obfuscated_res_0x7f150537">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0504"/>
+    </FrameLayout>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_header_power_key" style="@style/0_resource_name_obfuscated_res_0x7f150537"/>
+</FrameLayout>

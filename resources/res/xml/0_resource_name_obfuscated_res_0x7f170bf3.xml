@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_list>
+            <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ef4" layout="@layout/0_resource_name_obfuscated_res_0x7f0e05a2" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NO_SLIDE">
+                <action data="$long_press_data$" intention="$long_press_intention=COMMIT$" keycode="KEYCODE_ENDCALL" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018b" type="LONG_PRESS"/>
+                <action data="$long_press_data$" intention="$slide_down_intention=COMMIT$" keycode="KEYCODE_ENDCALL" popup_label="$long_press_data$" type="SLIDE_DOWN"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b074b" value="$long_press_data$"/>
+            </softkey_template>
+        </softkey_list>
+    </softkeys>
+</framework>

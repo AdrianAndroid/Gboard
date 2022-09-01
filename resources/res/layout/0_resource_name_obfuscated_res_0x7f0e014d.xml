@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f15019c">
+    <FrameLayout style="@style/0_resource_name_obfuscated_res_0x7f1501b0">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0147"/>
+        <FrameLayout style="@style/0_resource_name_obfuscated_res_0x7f15028d">
+            <LinearLayout android:id="@+id/input_area" style="@style/0_resource_name_obfuscated_res_0x7f1501a3">
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e02cd"/>
+                <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1501b3">
+                    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_back_to_prime" android:layout_weight="150" style="@style/0_resource_name_obfuscated_res_0x7f1504c0"/>
+                    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_space" android:layout_weight="400" style="@style/0_resource_name_obfuscated_res_0x7f1504d0"/>
+                    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_ime_action" android:layout_weight="150" style="@style/0_resource_name_obfuscated_res_0x7f1504c8"/>
+                </LinearLayout>
+            </LinearLayout>
+        </FrameLayout>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0147"/>
+    </FrameLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

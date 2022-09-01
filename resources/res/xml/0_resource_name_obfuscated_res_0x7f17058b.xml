@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170555"/>
+    <keyboard class="com.google.android.apps.inputmethod.latin.keyboard.LatinKeyboardWithNumberMode">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0103" override="motion_event_handler" type="radial">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class="com.google.android.libraries.inputmethod.motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <if device="tablet" keyboard_mode="normal">
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170b44"/>
+            </if>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709d3"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a73"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a87"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4e"/>
+        </view>
+        <if device="tablet" keyboard_mode="normal">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0104" type="radial"/>
+        </if>
+    </keyboard>
+</framework>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if device="tablet" keyboard_mode="normal">
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f17071e"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b05dc">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0344" type="linear">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170dad"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170b0b"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170b83"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            </view>
+        </keyboard>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170701"/>
+    </if>
+    <else>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b05dc">
+            <if device="foldable|tablet" keyboard_mode="split">
+                <if split_with_duplicate_keys="true">
+                    <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e032b" type="linear"/>
+                </if>
+                <else>
+                    <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e032c" type="linear"/>
+                </else>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e032a" type="linear"/>
+            </else>
+            <view type="linear">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170dad"/>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170efc"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170b0b"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170af1"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            </view>
+        </keyboard>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170701"/>
+    </else>
+</framework>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b149e" view_id="@+id/key_pos_ja_godan_a"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a1" view_id="@+id/key_pos_ja_godan_i"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a9" view_id="@+id/key_pos_ja_godan_u"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b149f" view_id="@+id/key_pos_ja_godan_e"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a5" view_id="@+id/key_pos_ja_godan_o"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a2" view_id="@+id/key_pos_ja_godan_k"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a7" view_id="@+id/key_pos_ja_godan_s"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a8" view_id="@+id/key_pos_ja_godan_t"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a4" view_id="@+id/key_pos_ja_godan_n"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a0" view_id="@+id/key_pos_ja_godan_h"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a3" view_id="@+id/key_pos_ja_godan_m"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14ab" view_id="@+id/key_pos_ja_godan_y"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14a6" view_id="@+id/key_pos_ja_godan_r"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14aa" view_id="@+id/key_pos_ja_godan_w"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b149c" view_id="@+id/key_pos_globe_daisyou"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d54" view_id="@+id/key_pos_switch_hiragana_alphabet"/>
+        <if japanese_use_tri_state_mode="true">
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14cf" view_id="@+id/key_pos_switch_to_symbol"/>
+        </if>
+    </key_mapping>
+    <key_mapping state="SHOW_LANGUAGE_SWITCH_KEY">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14cc" view_id="@+id/key_pos_globe_daisyou"/>
+    </key_mapping>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b149c" view_id="@+id/key_pos_globe_daisyou"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d0d" view_id="@+id/key_pos_space"/>
+    </key_mapping>
+</framework>

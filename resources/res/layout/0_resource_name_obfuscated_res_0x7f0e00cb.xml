@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0234" android:background="@drawable/0_resource_name_obfuscated_res_0x7f080099" android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0701d7" style="@style/0_resource_name_obfuscated_res_0x7f150494">
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08ed" style="@style/0_resource_name_obfuscated_res_0x7f150497">
+        <ImageView android:layout_gravity="bottom|center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080191" android:scaleType="centerInside" android:tint="?attr/0_resource_name_obfuscated_res_0x7f040340"/>
+    </FrameLayout>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b023b" android:text="@string/0_resource_name_obfuscated_res_0x7f1402be" style="@style/0_resource_name_obfuscated_res_0x7f150496"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0235" android:text="@string/0_resource_name_obfuscated_res_0x7f1402b9" style="@style/0_resource_name_obfuscated_res_0x7f150493"/>
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b023a" android:layout_marginTop="14dp" style="@style/0_resource_name_obfuscated_res_0x7f150498"/>
+    <android.support.v7.widget.RecyclerView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0236" style="@style/0_resource_name_obfuscated_res_0x7f150495"/>
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0239" style="@style/0_resource_name_obfuscated_res_0x7f150498"/>
+    <LinearLayout android:gravity="bottom" android:layout_gravity="end" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="50dp">
+        <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0237" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f1402ba" style="?attr/0_resource_name_obfuscated_res_0x7f04028a"/>
+        <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0238" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f1402bc" style="?attr/0_resource_name_obfuscated_res_0x7f04028a"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e015c" type="linear">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0b"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170b33"/>
+            <if device="tablet" keyboard_mode="normal">
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170af5"/>
+            </if>
+            <else>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170af2"/>
+            </else>
+        </view>
+    </keyboard>
+</framework>

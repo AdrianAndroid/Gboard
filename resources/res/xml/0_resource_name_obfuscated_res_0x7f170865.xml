@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b049b">
+        <if device="foldable|tablet" keyboard_mode="split">
+            <if split_with_duplicate_keys="true">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01ac" type="linear"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01ad" type="linear"/>
+            </else>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01ab" type="linear"/>
+        </else>
+        <view type="linear">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c90"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a13"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4f"/>
+        </view>
+    </keyboard>
+</framework>

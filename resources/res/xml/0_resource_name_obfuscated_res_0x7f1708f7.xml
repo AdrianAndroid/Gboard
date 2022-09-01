@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.emoticon.EmoticonKeyboardM2" id="@+id/0_resource_name_obfuscated_res_0x7f0b0639" initial_states="LOCK_KEYBOARD+SUB_CATEGORY_2" persistent_states="@string/0_resource_name_obfuscated_res_0x7f1408ed" persistent_states_pref_key="@string/0_resource_name_obfuscated_res_0x7f1401eb" recent_key_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0586" recent_key_type="emoticon" remember_recent_key="COMMITTED_ACTION_ONLY">
+        <if enable_nav_redesign="true">
+            <view direction="right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0115" scalable="false" type="header"/>
+        </if>
+        <else>
+            <view direction="right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0114" scalable="false" type="header"/>
+        </else>
+        <view direction="right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e03d0" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf8"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0e"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c13"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170e01"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bf6"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bfa"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709c5"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709e3"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a07"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a47"/>
+        </view>
+    </keyboard>
+</framework>

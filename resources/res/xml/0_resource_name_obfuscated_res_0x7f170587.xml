@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170555"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170883"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170824"/>
+    <keyboard>
+        <view override="motion_event_handler" type="sweep">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140689" reverse_preference="true"/>
+            <motion_event_handler class=".motioneventhandler.SpatialModelMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140689" reverse_preference="false"/>
+            <motion_event_handler class="com.google.android.libraries.inputmethod.motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a73"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a84"/>
+        </view>
+    </keyboard>
+</framework>

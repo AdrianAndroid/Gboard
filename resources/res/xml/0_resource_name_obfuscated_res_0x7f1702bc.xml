@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime ascii_capable="true" class="com.google.android.apps.inputmethod.libs.mozc.ime.SimpleJapaneseIme" display_app_completions="false" inline_composing="true" language="@string/0_resource_name_obfuscated_res_0x7f14036f" language_specific_settings="@xml/setting_japanese_language_specific" secondary_ime_def="@xml/0_resource_name_obfuscated_res_0x7f1702c0" string_id="@string/0_resource_name_obfuscated_res_0x7f140938" unacceptable_meta_keys="" use_ascii_password_keyboard="true">
+        <keyboard_group variant="japanese_12keys_toggleflick" variant_label="@string/0_resource_name_obfuscated_res_0x7f14101a">
+            <layout_specific_settings resource_id="@xml/setting_japanese_softwarekeyboard"/>
+            <layout_specific_settings resource_id="@xml/setting_japanese_12keys"/>
+            <if japanese_landscape_qwerty="true" orientation="landscape">
+                <attrs variant_label="@string/0_resource_name_obfuscated_res_0x7f140740"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f1702c3"/>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170786" type="alphabet_12keys"/>
+            </if>
+            <else>
+                <if enable_number_row="true">
+                    <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+                </if>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170787" type="prime"/>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170786" type="alphabet_12keys"/>
+                <if device="tablet" keyboard_mode="normal">
+                    <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17078c" type="alphabet_qwerty">
+                        <if enable_number_row="true">
+                            <merge def="@xml/0_resource_name_obfuscated_res_0x7f17080e"/>
+                        </if>
+                    </keyboard>
+                    <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170856" type="digit">
+                        <merge def="@xml/0_resource_name_obfuscated_res_0x7f1705c9"/>
+                    </keyboard>
+                </if>
+                <else>
+                    <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17078c" type="alphabet_qwerty">
+                        <if enable_number_row="true">
+                            <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707f4"/>
+                        </if>
+                    </keyboard>
+                    <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170855" type="digit">
+                        <merge def="@xml/0_resource_name_obfuscated_res_0x7f1705c9"/>
+                    </keyboard>
+                </else>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1708fe" type="symbol">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1705c9"/>
+                </keyboard>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17078e" type="tri_state_digit"/>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170906" type="tri_state_symbol"/>
+            </else>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+        <extra_values>
+            <if japanese_landscape_qwerty="true" orientation="landscape">
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f1702c2"/>
+            </if>
+            <else>
+                <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01df" value="TWELVE_KEY_TOGGLE_FLICK_KANA"/>
+                <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d1" value="HARDWARE_QWERTY_KANA"/>
+                <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d6" value="true"/>
+            </else>
+        </extra_values>
+    </ime>
+</framework>

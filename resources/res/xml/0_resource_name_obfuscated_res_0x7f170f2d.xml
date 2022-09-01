@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f140863">
+        <ListPreference android:entries="@array/0_resource_name_obfuscated_res_0x7f03001e" android:title="@string/0_resource_name_obfuscated_res_0x7f140862" android:key="@string/0_resource_name_obfuscated_res_0x7f140706" android:summary="%s" android:dialogTitle="@string/0_resource_name_obfuscated_res_0x7f140862" android:entryValues="@array/0_resource_name_obfuscated_res_0x7f030027"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407b1" android:key="@string/0_resource_name_obfuscated_res_0x7f14064d" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407af"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407ae" android:key="@string/0_resource_name_obfuscated_res_0x7f14064c" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407ad"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140800" android:key="@string/0_resource_name_obfuscated_res_0x7f140676" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407ff"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407fe" android:key="@string/0_resource_name_obfuscated_res_0x7f140672" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407fd"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f14079e" android:key="@string/0_resource_name_obfuscated_res_0x7f140663" android:summary="@string/0_resource_name_obfuscated_res_0x7f14079d"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407fa" android:key="@string/0_resource_name_obfuscated_res_0x7f14069d"/>
+        <Preference android:title="@string/0_resource_name_obfuscated_res_0x7f1407ed" android:dependency="@string/0_resource_name_obfuscated_res_0x7f14069d" android:fragment="com.google.android.libraries.inputmethod.preferencewidgets.CommonPreferenceFragment">
+            <extra android:name="PREFERENCE_FRAGMENT" android:value="setting_fuzzy_pinyin"/>
+        </Preference>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

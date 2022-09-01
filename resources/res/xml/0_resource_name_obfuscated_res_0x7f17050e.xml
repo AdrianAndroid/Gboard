@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" class="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" display_app_completions="true" inline_composing="false" language="zh-HK" language_specific_settings="@xml/0_resource_name_obfuscated_res_0x7f170f2f" secondary_ime_def="@xml/0_resource_name_obfuscated_res_0x7f170512" string_id="ime_zh_hk" use_ascii_password_keyboard="true">
+        <if enable_chinese_inline_composing_zh_hk="true">
+            <attrs inline_composing="true"/>
+        </if>
+        <keyboard_group supports_split_mode="true" variant="qwerty" variant_label="@string/0_resource_name_obfuscated_res_0x7f140f8f">
+            <if enable_number_row="true">
+                <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+            </if>
+            <layout_specific_settings resource_id="@xml/0_resource_name_obfuscated_res_0x7f170f30"/>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170755" type="prime">
+                <merge def="@xml/0_resource_name_obfuscated_res_0x7f17058a"/>
+                <merge def="@xml/0_resource_name_obfuscated_res_0x7f17075b"/>
+                <if enable_number_row="true">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f170810"/>
+                </if>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+        </keyboard_group>
+        <extra_values>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d2" value="true"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01ce" value="true"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01de" value="。"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01cb" value="@string/0_resource_name_obfuscated_res_0x7f140669"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01dd" value="hmm"/>
+        </extra_values>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd7"/>
+    </ime>
+</framework>

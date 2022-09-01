@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="en-US" string_id="ime_english_united_states_morse" supports_access_points="false">
+        <keyboard_group variant="morse_2" variant_label="@string/0_resource_name_obfuscated_res_0x7f1410a4">
+            <layout_specific_settings resource_id="@xml/0_resource_name_obfuscated_res_0x7f1700fd"/>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1708df" type="prime"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+    </ime>
+</framework>

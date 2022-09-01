@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if device="tablet" keyboard_mode="normal">
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f17071e"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b0676">
+            <if device="tablet" device_size="large">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0313" type="linear"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0312" type="linear"/>
+            </else>
+            <view type="linear">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170e32"/>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170eff"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170b63"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170aec"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a3f"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            </view>
+        </keyboard>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f1706fa"/>
+    </if>
+    <else>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b0676">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e030a" type="linear">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170e32"/>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170eff"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170b63"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170aec"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4e"/>
+            </view>
+        </keyboard>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f1706fa"/>
+    </else>
+</framework>

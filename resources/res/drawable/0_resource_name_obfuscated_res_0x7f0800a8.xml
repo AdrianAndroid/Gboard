@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f0800ab" android:left="@dimen/0_resource_name_obfuscated_res_0x7f0701aa" android:top="@dimen/0_resource_name_obfuscated_res_0x7f0701aa"/>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f0800a9" android:left="@dimen/0_resource_name_obfuscated_res_0x7f0701aa" android:top="@dimen/0_resource_name_obfuscated_res_0x7f0701aa"/>
+        </layer-list>
+    </item>
+</selector>

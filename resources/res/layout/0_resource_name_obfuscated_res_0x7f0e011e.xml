@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f1501a4">
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.PageableCandidatesHolderView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b141a" candidate_background="@android:color/transparent" candidate_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0535" last_column_candidate_background="@android:color/transparent" max_candidates_per_row="@integer/0_resource_name_obfuscated_res_0x7f0c00b7" row_background="@android:color/transparent" row_count="@integer/0_resource_name_obfuscated_res_0x7f0c002c" style="@style/0_resource_name_obfuscated_res_0x7f150250"/>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e011f"/>
+</LinearLayout>

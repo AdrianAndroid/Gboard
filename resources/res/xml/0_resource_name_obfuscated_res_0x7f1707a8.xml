@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.impl.Keyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b0598" session_states="CAPS_LOCK"/>
+</framework>

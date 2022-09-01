@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard candidate_text_size_ratio="1" class="com.google.android.apps.inputmethod.latin.keyboard.LatinHandwritingPrimeKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b0534" popup="@attr/0_resource_name_obfuscated_res_0x7f040185" session_states="CAPS_LOCK">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03e7" scalable="false" type="header">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c16"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a9f"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa0"/>
+        </view>
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0125" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class=".libs.handwriting.keyboard.HandwritingMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c15"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c14"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a7f"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a74"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a9d"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a77"/>
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if enable_secondary_symbols="true">
+        <merge_key_mapping state="SHIFT">
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1116" view_id="@+id/key_pos_1_0"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b11f1" view_id="@+id/key_pos_1_1"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b117d" view_id="@+id/key_pos_1_2"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b11cc" view_id="@+id/key_pos_1_3"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b10d4" view_id="@+id/key_pos_1_4"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b10d4" view_id="@+id/key_pos_1_4_dup"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b11a3" view_id="@+id/key_pos_1_5"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b11fe" view_id="@+id/key_pos_1_6"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1190" view_id="@+id/key_pos_1_7"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1193" view_id="@+id/key_pos_1_8"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b11a4" view_id="@+id/key_pos_2_1"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1192" view_id="@+id/key_pos_2_2"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b118d" view_id="@+id/key_pos_2_3"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b118e" view_id="@+id/key_pos_2_4"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b118e" view_id="@+id/key_pos_2_4_dup"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1194" view_id="@+id/key_pos_2_5"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b118f" view_id="@+id/key_pos_2_6"/>
+            <merge key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1191" view_id="@+id/key_pos_2_7"/>
+        </merge_key_mapping>
+    </if>
+</framework>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:theme="@style/0_resource_name_obfuscated_res_0x7f1507c6" android:layout_height="48dp" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f1507c2">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="?attr/0_resource_name_obfuscated_res_0x7f040120" android:paddingEnd="?attr/0_resource_name_obfuscated_res_0x7f040120">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:layout_gravity="start|center_vertical" android:id="@+id/key_pos_translate_back" android:visibility="gone" style="@style/0_resource_name_obfuscated_res_0x7f1504ab"/>
+        <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:layout_gravity="start|center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21c0" android:visibility="gone" android:text="@string/0_resource_name_obfuscated_res_0x7f140437" android:paddingEnd="0dp" style="@style/0_resource_name_obfuscated_res_0x7f1502ec"/>
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21bc" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="@dimen/0_resource_name_obfuscated_res_0x7f07072f" android:layout_marginRight="@dimen/0_resource_name_obfuscated_res_0x7f07072f">
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e05f0"/>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e05f1"/>
+        </FrameLayout>
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21bf" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="300" android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f07072f"/>
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

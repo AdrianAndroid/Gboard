@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.apps.inputmethod.libs.search.widget.VerticalScrollAnimatedImageSidebarHolderView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b007b" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f070324" android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f070324" app:gridSpanCount="?attr/0_resource_name_obfuscated_res_0x7f0400bf" app:isSideBarFullSpan="true" app:staggeredSpanCount="?attr/0_resource_name_obfuscated_res_0x7f0400c0" image_view_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0606" supported_image_types="image/gif"/>
+    <include android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0511"/>
+</FrameLayout>

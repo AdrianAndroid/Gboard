@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b04d4" android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c0076" style="@style/0_resource_name_obfuscated_res_0x7f1502b6"/>
+    <FrameLayout android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c0075" style="@style/0_resource_name_obfuscated_res_0x7f1502b6"/>
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b04d1" android:layout_weight="@integer/0_resource_name_obfuscated_res_0x7f0c0076" style="@style/0_resource_name_obfuscated_res_0x7f1502b6"/>
+</LinearLayout>

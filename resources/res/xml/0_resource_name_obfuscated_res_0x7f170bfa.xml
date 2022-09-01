@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="@string/0_resource_name_obfuscated_res_0x7f14049e" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec3" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0541">
+            <action data="prime" keycode="KEYCODE_UNKNOWN" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="@string/0_resource_name_obfuscated_res_0x7f1403b5"/>
+        </softkey_template>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec3">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0a4e" param_keycode="SWITCH_KEYBOARD"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0a4f" param_keycode="SWITCH_KEYBOARD"/>
+        </softkey_list>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f140186" id="@+id/0_resource_name_obfuscated_res_0x7f0b0e06" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0540" multi_touch="false">
+            <action keycode="KEYCODE_SOFT_LEFT" repeatable="true" type="PRESS"/>
+            <action keycode="KEYCODE_SOFT_RIGHT" type="UP"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@attr/0_resource_name_obfuscated_res_0x7f0400c9"/>
+        </softkey>
+    </softkeys>
+</framework>

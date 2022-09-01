@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eeb">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19ce" press_data="က"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19cf" press_data="ခ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19bb" press_data="စ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19bc" press_data="ဆ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a03" press_data="ဌ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19c0" press_data="ဍ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19e4" press_data="ဏ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19ff" press_data="တ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a00" press_data="ထ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19ea" press_data="ပ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19eb" press_data="ဖ"/>
+            <softkey hint_label="ဟ" id="@+id/0_resource_name_obfuscated_res_0x7f0b19ed" long_press_data="ဟ" press_data="သ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19dc" press_data="ၜ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19d7" press_data="ဠ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19b7" press_data="အ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19ca" press_data="ဣ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a04" press_data="ဥ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19de" press_data="ဨ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a12" press_data="ံ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a13" press_data="်"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19a4" press_data="ှ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19a8" press_data="ွ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19aa" press_data="ၠ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19a7" press_data="ြ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a25" press_data="ာ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a35" press_data="ါ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a2b" press_data="ိ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a2c" press_data="ီ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a1c" press_data="း"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a1b" press_data="္"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19a9" press_data="ျ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19a6" press_data="ၞ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19a5" press_data="ၟ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a2e" press_data="ဴ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a2d" press_data="ဳ"/>
+            <softkey hint_label="ူ" id="@+id/0_resource_name_obfuscated_res_0x7f0b1a36" long_press_data="ူ" press_data="ု"/>
+            <softkey hint_label="ဵ" id="@+id/0_resource_name_obfuscated_res_0x7f0b1a28" long_press_data="ဵ" press_data="ေ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1a27" press_data="ဲ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19d8" press_data="မ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19e0" press_data="ၚ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19cc" press_data="ဇ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19df" press_data="ၛ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19c1" press_data="ဎ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19bd" press_data="ဒ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19c2" press_data="ဓ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19ec" press_data="ရ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19dd" press_data="ၝ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b19d3" press_data="လ"/>
+            <softkey hint_label="ဃ" id="@+id/0_resource_name_obfuscated_res_0x7f0b19c6" long_press_data="ဃ" press_data="ဂ"/>
+            <softkey hint_label="ဝ" id="@+id/0_resource_name_obfuscated_res_0x7f0b1a07" long_press_data="ဝ" press_data="ယ"/>
+            <softkey hint_label="ည" id="@+id/0_resource_name_obfuscated_res_0x7f0b19e1" long_press_data="ဉ,ည" press_data="န"/>
+            <softkey hint_label="ဘ" id="@+id/0_resource_name_obfuscated_res_0x7f0b19b9" long_press_data="ဘ" press_data="ဗ"/>
+        </softkey_list>
+    </softkeys>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170e24"/>
+</framework>

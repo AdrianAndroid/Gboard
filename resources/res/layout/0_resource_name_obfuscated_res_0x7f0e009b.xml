@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.v7.widget.AppCompatTextView android:textSize="16dp" android:ellipsize="end" android:layout_gravity="start|center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b01b2" android:tag=".expression-search-query" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="?attr/0_resource_name_obfuscated_res_0x7f0400b8" android:fontFeatureSettings="calt off"/>
+</FrameLayout>

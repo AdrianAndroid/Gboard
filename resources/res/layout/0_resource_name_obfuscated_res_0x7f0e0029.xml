@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e05c7"/>
+    <RelativeLayout android:layout_gravity="bottom" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0280" android:background="@color/0_resource_name_obfuscated_res_0x7f0600a4" android:paddingTop="2dp" android:paddingBottom="2dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="10dp" android:paddingEnd="10dp">
+        <android.support.v7.widget.AppCompatTextView android:textSize="10sp" android:textColor="@color/0_resource_name_obfuscated_res_0x7f0604e6" android:ellipsize="end" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0282" android:layout_width="0dp" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:layout_centerVertical="true" android:fontFamily="?attr/0_resource_name_obfuscated_res_0x7f0400b0" android:layout_toStartOf="@+id/0_resource_name_obfuscated_res_0x7f0b0281" android:layout_alignParentStart="true"/>
+        <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0281" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080357" android:tint="@android:color/white" android:layout_centerVertical="true" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f1402d0" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+</merge>

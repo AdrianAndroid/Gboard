@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="?attr/0_resource_name_obfuscated_res_0x7f0400fd">
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <android.support.v7.widget.AppCompatTextView android:textSize="?attr/0_resource_name_obfuscated_res_0x7f0400fe" android:textColor="@color/0_resource_name_obfuscated_res_0x7f060519" android:layout_gravity="center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b02bc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/0_resource_name_obfuscated_res_0x7f09000a"/>
+        <android.support.v7.widget.AppCompatTextView android:textSize="?attr/0_resource_name_obfuscated_res_0x7f0400fa" android:textColor="@color/0_resource_name_obfuscated_res_0x7f060519" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f07031a" android:text="@string/0_resource_name_obfuscated_res_0x7f1400cf" android:fontFamily="sans-serif"/>
+    </LinearLayout>
+</LinearLayout>

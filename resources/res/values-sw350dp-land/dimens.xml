@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07031b">162dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07032c">34dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07032d">196dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07032e">200dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f0706b6">@dimen/0_resource_name_obfuscated_res_0x7f07032c</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07070a">36dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07070b">36dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f07070c">36dp</dimen>
+</resources>

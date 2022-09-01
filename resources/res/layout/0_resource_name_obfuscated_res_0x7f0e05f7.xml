@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="3dp" android:paddingEnd="3dp">
+    <androidx.cardview.widget.CardView android:layout_height="wrap_content" style="@style/0_resource_name_obfuscated_res_0x7f150527">
+        <com.google.android.apps.inputmethod.libs.expression.animatedview.AnimatedImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0080" android:background="@color/0_resource_name_obfuscated_res_0x7f0604e6" android:layout_width="match_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f1402c7" app:measureStrategy="0" app:touchRipple="?android:attr/selectableItemBackground" app:useBlackAlphaOverlayForPendingClick="true"/>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0029"/>
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

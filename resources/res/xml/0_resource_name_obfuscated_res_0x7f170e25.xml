@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14030b" id="@+id/0_resource_name_obfuscated_res_0x7f0b1411" layout="@layout/0_resource_name_obfuscated_res_0x7f0e058c" multi_touch="false">
+            <action data="SUB_CATEGORY_2" keycode="KEYCODE_2" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="1/4"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14030d" id="@+id/0_resource_name_obfuscated_res_0x7f0b140e" layout="@layout/0_resource_name_obfuscated_res_0x7f0e058c" multi_touch="false">
+            <action data="SUB_CATEGORY_3" keycode="KEYCODE_2" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="2/4"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f14030f" id="@+id/0_resource_name_obfuscated_res_0x7f0b140f" layout="@layout/0_resource_name_obfuscated_res_0x7f0e058c" multi_touch="false">
+            <action data="SUB_CATEGORY_4" keycode="KEYCODE_2" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="3/4"/>
+        </softkey>
+        <softkey content_description="@string/0_resource_name_obfuscated_res_0x7f140310" id="@+id/0_resource_name_obfuscated_res_0x7f0b1410" layout="@layout/0_resource_name_obfuscated_res_0x7f0e058c" multi_touch="false">
+            <action data="SUB_CATEGORY_1" keycode="KEYCODE_2" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="4/4"/>
+        </softkey>
+    </softkeys>
+</framework>

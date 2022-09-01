@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" app:allowMockActionDown="false" app:tallViewStrategy="1" style="@style/0_resource_name_obfuscated_res_0x7f1501a1">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout app:layout_behavior="@string/0_resource_name_obfuscated_res_0x7f140753" style="@style/0_resource_name_obfuscated_res_0x7f150285">
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e007b"/>
+        </FrameLayout>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e011a"/>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</com.google.android.apps.inputmethod.libs.search.widget.VariableHeightSoftKeyboardView>

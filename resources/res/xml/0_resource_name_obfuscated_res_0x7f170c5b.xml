@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f00">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ec" press_data="અ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ef" long_press_data="ા" press_data="આ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1311" long_press_data="િ" press_data="ઇ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1312" long_press_data="ી" press_data="ઈ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b136e" long_press_data="ુ" press_data="ઉ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b136f" long_press_data="ૂ" press_data="ઊ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1309" long_press_data="ે" press_data="એ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12f0" long_press_data="ૈ" press_data="ઐ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1336" long_press_data="ો" press_data="ઓ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12f1" long_press_data="ૌ" press_data="ઔ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ed" long_press_data="ં" press_data="અં"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12ee" long_press_data="ઃ" press_data="અઃ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1372" long_press_data="ૃ" press_data="ઋ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1376" long_press_data="ૅ" press_data="ઍ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1377" long_press_data="ૉ" press_data="ઑ"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1317" long_press_data="ક્સ,ક્ર,ક્ય,ક્ષ,ક્ત,ક્લ" press_data="ક"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b131d" long_press_data="ખ્ય" press_data="ખ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b130a" long_press_data="ગ્ર,ગ્લ,ગ્સ" press_data="ગ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b130e" press_data="ઘ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1333" press_data="ઙ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12f8" long_press_data="ચ્ય,ચ્ચ" press_data="ચ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12fc" press_data="છ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1313" long_press_data="જ્ય" press_data="જ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1316" press_data="ઝ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1335" press_data="ઞ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1369" long_press_data="ટ્ર,ટ્સ" press_data="ટ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b136d" press_data="ઠ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1303" long_press_data="ડ્ર,ડ્સ,ડ્ય" press_data="ડ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1305" press_data="ઢ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1334" press_data="ણ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1362" long_press_data="ત્ર,ત્ય,ત્ત,ત્પ" press_data="ત"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1367" long_press_data="થ્ય,થ્ર" press_data="થ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12fd" long_press_data="દ્ધ,દ્વ,દ્ર" press_data="દ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1306" press_data="ધ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1329" long_press_data="ન્ડ,ન્ય,ન્સ,ન્ટ,ન્ક,ન્જ,ન્મ,ન્દ,ન્ચ" press_data="ન"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1337" long_press_data="પ્ર,પ્ટ" press_data="પ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b133a" long_press_data="ફ્લ,ફ્ર" press_data="ફ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12f2" long_press_data="બ્ર,બ્લ,બ્દ,બ્સ" press_data="બ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12f5" long_press_data="ભ્ય" press_data="ભ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1327" long_press_data="મ્પ,મ્સ,મ્બ" press_data="મ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1373" press_data="ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b133d" long_press_data="ર્સ,ર્ડ,ર્ક,ર્ટ,ર્ય,ર્ન,ર્થ,ર્લ,ર્ષ,ર્જ,ર્મ,ર્હ,ર્શ,ર્વ,ર્ત" press_data="ર"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b131f" long_press_data="લ્ડ,લ્ય,લ્મ,લ્લ,લ્સ,લ્ટ" press_data="લ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1370" long_press_data="વ્ય" press_data="વ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b135b" long_press_data="શ્વ,શ્ય,શ્ચ,શ્ર" press_data="શ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1360" long_press_data="ષ્ટ,ષ્ઠ" press_data="ષ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1353" long_press_data="સ્ટ,સ્ક,સ્ત,સ્થ,સ્પ,સ્વ,સ્સ" press_data="સ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b130f" press_data="હ"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1325" press_data="ળ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b131b" press_data="ક્ત"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b131c" press_data="ક્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1318" press_data="ક્ર"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b131a" press_data="ક્ષ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1319" press_data="ક્સ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b131e" press_data="ખ્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b130c" press_data="ગ્ર"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b130b" press_data="ગ્લ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12fb" press_data="ચ્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1315" press_data="જ્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b136a" press_data="ટ્ર"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b136b" press_data="ટ્સ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1366" press_data="ત્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1363" press_data="ત્ર"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1368" press_data="થ્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b132d" press_data="ન્ક"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1331" press_data="ન્ટ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b132a" press_data="ન્ડ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1332" press_data="ન્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1330" press_data="ન્સ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1338" press_data="પ્ર"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b133c" press_data="ફ્ર"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b133b" press_data="ફ્લ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12f4" press_data="બ્ર"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b12f3" press_data="બ્લ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1345" press_data="ર્ક"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1350" press_data="ર્ટ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1341" press_data="ર્ડ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b134f" press_data="ર્થ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1348" press_data="ર્ન"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1352" press_data="ર્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1346" press_data="ર્લ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b134d" press_data="ર્ષ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b134b" press_data="ર્સ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1320" press_data="લ્ડ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1322" press_data="લ્મ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1324" press_data="લ્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1321" press_data="લ્લ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1323" press_data="લ્સ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1371" press_data="વ્ય"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1361" press_data="ષ્ટ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1354" press_data="સ્ક"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1359" press_data="સ્ટ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1355" press_data="સ્પ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1356" press_data="સ્ત"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1358" press_data="સ્થ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1374" press_data="ૐ"/>
+        </softkey_list>
+    </softkeys>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170e24"/>
+</framework>

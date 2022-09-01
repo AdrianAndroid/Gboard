@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b142e" view_id="@+id/key_pos_ja_12keys_key_0"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b142c" view_id="@+id/key_pos_ja_12keys_key_1"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1431" view_id="@+id/key_pos_ja_12keys_key_2"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1433" view_id="@+id/key_pos_ja_12keys_key_3"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1435" view_id="@+id/key_pos_ja_12keys_key_4"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1437" view_id="@+id/key_pos_ja_12keys_key_5"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b143b" view_id="@+id/key_pos_ja_12keys_key_6"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b143f" view_id="@+id/key_pos_ja_12keys_key_7"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1441" view_id="@+id/key_pos_ja_12keys_key_8"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1430" view_id="@+id/key_pos_ja_12keys_key_9"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b143d" view_id="@+id/key_pos_ja_12keys_key_10"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1439" view_id="@+id/key_pos_ja_12keys_key_11"/>
+        <if japanese_use_tri_state_mode="true">
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14d0" view_id="@+id/key_pos_switch_hiragana_alphabet"/>
+        </if>
+        <else>
+            <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d5c" view_id="@+id/key_pos_switch_hiragana_alphabet"/>
+        </else>
+    </key_mapping>
+    <key_mapping state="SHOW_LANGUAGE_SWITCH_KEY">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b14cc" view_id="@+id/key_pos_ja_12keys_key_9"/>
+    </key_mapping>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1430" view_id="@+id/key_pos_ja_12keys_key_9"/>
+    </key_mapping>
+</framework>

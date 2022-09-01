@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:tag=".popup" android:background="@drawable/0_resource_name_obfuscated_res_0x7f0802fe" android:layout_width="100dp" android:layout_height="wrap_content">
+    <ScrollView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07de" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_constraintHeight_max="240dp">
+        <LinearLayout android:gravity="start" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07dd" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

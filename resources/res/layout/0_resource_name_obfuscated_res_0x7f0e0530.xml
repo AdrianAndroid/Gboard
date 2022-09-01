@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center" android:tag=".access-point-item-v2-background" android:background="@drawable/0_resource_name_obfuscated_res_0x7f080088" android:layout_width="match_parent" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f070054" android:layout_marginLeft="@dimen/0_resource_name_obfuscated_res_0x7f070055" android:layout_marginRight="@dimen/0_resource_name_obfuscated_res_0x7f070055" android:layout_marginHorizontal="@dimen/0_resource_name_obfuscated_res_0x7f070055">
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0265" style="@style/0_resource_name_obfuscated_res_0x7f150264"/>
+</FrameLayout>

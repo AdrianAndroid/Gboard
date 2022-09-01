@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="content" path="vo/"/>
+    <cache-path name="swissarmyknife" path="swissarmyknife/"/>
+</paths>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080247" android:left="20dp" android:right="154dp"/>
+    <item android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080246" android:left="37dp" android:right="127dp"/>
+    <item android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080246" android:left="64dp" android:right="100dp"/>
+    <item android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080246" android:left="91dp" android:right="73dp"/>
+    <item android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080246" android:left="118dp" android:right="47dp"/>
+    <item android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f080246" android:left="145dp" android:right="20dp"/>
+</layer-list>

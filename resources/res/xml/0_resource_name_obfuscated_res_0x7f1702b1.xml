@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="mul-XI" string_id="ime_international_phonetic_alphabet">
+        <keyboard_group layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502be" variant="ipa_chart" variant_label="@string/0_resource_name_obfuscated_res_0x7f141016">
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170782" type="prime"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170984"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+        <keyboard_group layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502bd" variant="qwerty">
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170783" type="prime"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170984"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+    </ime>
+</framework>

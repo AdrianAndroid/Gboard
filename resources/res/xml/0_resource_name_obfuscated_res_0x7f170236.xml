@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" class="com.google.android.libraries.inputmethod.ime.password.PasswordIme" label="@string/0_resource_name_obfuscated_res_0x7f1405db" language="und-Latn-x-password" string_id="password" supports_access_points="false">
+        <if variant="akoose                 |armenian_armenia_phonetic                 |azerbaijani_iran                 |bagri_arabic                 |balinese                 |balochi                 |balti                 |brahui                 |burmese                 |cree_latin                 |dakhini                 |dhatki                 |dhivehi                 |dzongkha                 |fon                 |gilaki                 |gujari                 |hazaragi                 |hindko                 |indus_kohistani                 |ipa_chart                 |kachi_koli                 |kalam_kohistani                 |kazakh_pc                 |khmer_cambodia                 |khmer_cambodia_native                 |khmer_surin                 |khmu                 |khowar                 |klingon                 |lao                 |limbu                 |marwari_arabic                 |mon                 |navajo                 |pahari_pothwari                 |pao_karen                 |parkari_koli                 |pashayi                 |pashto                 |punjabi_pakistan                 |saraiki                 |sasak                 |sgaw_karen                 |shina                 |tamil                 |thai                 |tibetan                 |torwali                 |urdu_in                 |urdu_pakistan                 |wanetsi">
+            <keyboard_group>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706cb" type="prime"/>
+                <override_keyboard_xml_conditions>
+                    <bool name="@string/0_resource_name_obfuscated_res_0x7f14067c" value="true"/>
+                </override_keyboard_xml_conditions>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+            </keyboard_group>
+        </if>
+        <else_if variant="arabic_qwerty|pcqwerty">
+            <keyboard_group>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706cc" type="prime"/>
+                <override_keyboard_xml_conditions>
+                    <bool name="@string/0_resource_name_obfuscated_res_0x7f14067c" value="true"/>
+                </override_keyboard_xml_conditions>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+            </keyboard_group>
+        </else_if>
+        <else_if variant="morse_2">
+            <keyboard_group>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1708e0" type="prime"/>
+                <override_keyboard_xml_conditions>
+                    <bool name="@string/0_resource_name_obfuscated_res_0x7f14067c" value="true"/>
+                </override_keyboard_xml_conditions>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+            </keyboard_group>
+        </else_if>
+        <else_if enable_number_row="true">
+            <keyboard_group>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706cc" type="prime"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+            </keyboard_group>
+        </else_if>
+        <else>
+            <keyboard_group>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1706cb" type="prime"/>
+                <override_keyboard_xml_conditions>
+                    <bool name="@string/0_resource_name_obfuscated_res_0x7f14067c" value="true"/>
+                </override_keyboard_xml_conditions>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd1"/>
+            </keyboard_group>
+        </else>
+    </ime>
+</framework>

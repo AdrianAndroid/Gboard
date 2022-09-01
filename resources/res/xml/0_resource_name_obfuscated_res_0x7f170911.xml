@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinPasswordKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b05c1" popup="@attr/0_resource_name_obfuscated_res_0x7f040185"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170910"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f1706f5"/>
+</framework>

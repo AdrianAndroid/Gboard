@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/0_resource_name_obfuscated_res_0x7f140793">
+    <Preference android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1408a5">
+        <intent android:action="android.intent.action.VIEW" android:data="@string/0_resource_name_obfuscated_res_0x7f140cf4"/>
+    </Preference>
+    <Preference android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f140868">
+        <intent android:action="android.intent.action.VIEW" android:data="@string/0_resource_name_obfuscated_res_0x7f14073e"/>
+    </Preference>
+    <Preference android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f140844" android:summary="@string/0_resource_name_obfuscated_res_0x7f140843">
+        <extra android:name="START_ACTIVITY" android:value="com.google.android.libraries.social.licenses.LicenseMenuActivity"/>
+    </Preference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.ExtendedPreference android:persistent="false" android:focusable="false" android:maxLines="100" android:title="@string/0_resource_name_obfuscated_res_0x7f140794" android:selectable="false" android:key="@string/0_resource_name_obfuscated_res_0x7f14078c"/>
+    <Preference android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f14078b">
+        <extra android:name="hide_if_flag_is_false" android:value="show_feature_split_debug_activity=false"/>
+        <extra android:name="START_ACTIVITY" android:value="com.google.android.libraries.inputmethod.featuresplit.debugactivity.FeatureSplitDebugActivity"/>
+    </Preference>
+</PreferenceScreen>

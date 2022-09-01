@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f140190" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ab5" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0596">
+            <action data="digit" keycode="KEYCODE_SOFT_LEFT" type="linear"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@attr/0_resource_name_obfuscated_res_0x7f0400d3"/>
+        </softkey>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f140c34" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ab8" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0596">
+            <action data="symbol" keycode="KEYCODE_SOFT_LEFT" type="linear"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080245"/>
+        </softkey>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f1401c9" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ab6" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0596">
+            <action data="smiley" keycode="KEYCODE_SOFT_LEFT" type="linear"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080243"/>
+        </softkey>
+        <softkey alpha="@attr/0_resource_name_obfuscated_res_0x7f0400c4" content_description="@string/0_resource_name_obfuscated_res_0x7f1401e9" disable_lift_to_tap="true" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ab7" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0596">
+            <action data="emoticon" keycode="KEYCODE_SOFT_LEFT" type="linear"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080240"/>
+        </softkey>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170f0f"/>
+    </softkeys>
+</framework>

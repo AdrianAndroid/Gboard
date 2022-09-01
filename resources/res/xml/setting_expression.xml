@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:title="@string/0_resource_name_obfuscated_res_0x7f1407ea">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f140841" android:key="@string/0_resource_name_obfuscated_res_0x7f140840">
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407d6" android:key="@string/0_resource_name_obfuscated_res_0x7f140671" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407d5">
+            <extra android:name="hide_if_flag_is_false" android:value="enable_fast_access_bar=false"/>
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f14088a" android:key="@string/0_resource_name_obfuscated_res_0x7f14071f" android:summary="@string/0_resource_name_obfuscated_res_0x7f140888"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407e0" android:key="@string/0_resource_name_obfuscated_res_0x7f14066a" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407df">
+            <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+        </SwitchPreference>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f14089b" android:key="@string/0_resource_name_obfuscated_res_0x7f14089a">
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407d0" android:key="@string/0_resource_name_obfuscated_res_0x7f14066d" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407cf"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407ca" android:key="@string/0_resource_name_obfuscated_res_0x7f140668" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407cc">
+            <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+        </SwitchPreference>
+        <Preference android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f14088e" android:key="indexable_pref_show_suggestions" android:summary="@string/0_resource_name_obfuscated_res_0x7f14088d" app:selectable="false"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407b8" android:key="@string/0_resource_name_obfuscated_res_0x7f14066b">
+            <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407b9" android:key="@string/0_resource_name_obfuscated_res_0x7f14068a"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407ce" android:key="@string/0_resource_name_obfuscated_res_0x7f14066c" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407cd"/>
+</PreferenceScreen>

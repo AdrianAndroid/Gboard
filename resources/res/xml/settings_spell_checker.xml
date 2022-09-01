@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/spell_checker_name">
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f14091c" android:key="@string/0_resource_name_obfuscated_res_0x7f1406b3" android:summary="@string/0_resource_name_obfuscated_res_0x7f14091b"/>
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f14091a" android:key="@string/0_resource_name_obfuscated_res_0x7f140675" android:summary="@string/0_resource_name_obfuscated_res_0x7f140919">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_grammar_checker=false"/>
+    </SwitchPreference>
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="0_resource_name_obfuscated_res_0x7f060538">#805f6368</color>
+    <color name="0_resource_name_obfuscated_res_0x7f06053a">#1affffff</color>
+    <color name="0_resource_name_obfuscated_res_0x7f06053b">#4dffffff</color>
+    <color name="0_resource_name_obfuscated_res_0x7f0608eb">@android:color/black</color>
+    <color name="0_resource_name_obfuscated_res_0x7f0608ec">#82000000</color>
+    <color name="0_resource_name_obfuscated_res_0x7f06091c">#424242</color>
+    <color name="0_resource_name_obfuscated_res_0x7f06091d">#303030</color>
+</resources>

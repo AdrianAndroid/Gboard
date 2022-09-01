@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework xmlns:android="http://schemas.android.com/apk/res/android">
+    <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01df" value="QWERTY_KANA"/>
+    <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d1" value="HARDWARE_QWERTY_KANA"/>
+    <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d6" value="true"/>
+</framework>

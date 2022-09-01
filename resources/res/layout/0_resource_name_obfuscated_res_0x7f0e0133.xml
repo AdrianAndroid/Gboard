@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.accesspoint.widget.AccessPointsBar xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" app:managed="true" app:suppressedSiblingId="@+id/softkey_holder_fixed_candidates" style="@style/0_resource_name_obfuscated_res_0x7f150000"/>

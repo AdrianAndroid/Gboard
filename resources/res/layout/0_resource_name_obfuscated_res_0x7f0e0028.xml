@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f15051c">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:tag=".background.tooltip.notice" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="inherit" android:paddingStart="10dp">
+        <android.support.v7.widget.AppCompatTextView android:textSize="14sp" android:layout_gravity="start|center_vertical" android:tag=".label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/0_resource_name_obfuscated_res_0x7f1405a4" android:layout_weight="1" android:fontFamily="@font/0_resource_name_obfuscated_res_0x7f09000c"/>
+        <com.google.android.material.button.MaterialButton android:textSize="14sp" android:layout_gravity="end|center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b080d" android:tag=".tooltip.borderless_button" android:paddingLeft="10dp" android:paddingRight="10dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="20dp" android:text="@string/0_resource_name_obfuscated_res_0x7f140d18" android:layout_weight="0" android:fontFamily="@font/0_resource_name_obfuscated_res_0x7f09000c" android:paddingStart="12dp" style="?attr/0_resource_name_obfuscated_res_0x7f04028a"/>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.framework.keyboard.widget.BidiViewPager android:id="@+id/0_resource_name_obfuscated_res_0x7f0b020a" style="@style/0_resource_name_obfuscated_res_0x7f150238"/>
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0203" style="@style/0_resource_name_obfuscated_res_0x7f150232">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e00b2"/>
+    </FrameLayout>
+</merge>

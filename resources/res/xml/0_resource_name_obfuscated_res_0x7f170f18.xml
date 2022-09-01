@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b5e" long_press_data="ഃ ഽ ൹" param_data="ം" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey hint_label="ঁ​ং​ঃ" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b61" long_press_data="ং ঃ ঁ ় ʼ" long_press_label="ং ঃ ঁ ় ʼ" param_data="্" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0589"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ef9">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b63" long_press_data="҇ ̀ ҃ ̑ ҆́ ҆̀ ҆ ҅ ̾ ꙽ ̇ ꙼ ⸯ ꙿ ̈ ꙾" long_press_label="◌҇ ◌̀ ◌҃ ◌̑ ◌҆́ ◌҆̀ ◌҆ ◌҅ ◌̾ ◌꙽ ◌̇ ◌꙼ ⸯ ꙿ ◌̈ ꙾" press_data="́" press_label="◌́"/>
+        </softkey_list>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b65" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="⹁" intention="COMMIT" keycode="KEYCODE_9" popup_label="⹁" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="⹁"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b66" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="،" intention="COMMIT" keycode="KEYCODE_9" popup_label="،" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="،"/>
+        </softkey>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b67" param_data="᭞" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b68" param_data="꛵" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f14028f" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b69" param_data="，" param_keycode="PLAIN_TEXT" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b6b" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="፣" intention="COMMIT" keycode="KEYCODE_9" popup_label="፣" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="፣"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b6d" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="꫰" intention="COMMIT" keycode="KEYCODE_9" popup_label="꫰" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="꫰"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b6e" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="၊" intention="COMMIT" keycode="KEYCODE_9" popup_label="၊" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="၊"/>
+        </softkey>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b6c" param_data="꓾" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b6f" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="߸" intention="COMMIT" keycode="KEYCODE_9" popup_label="߸" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="߸"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b70" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="᜵" intention="COMMIT" keycode="KEYCODE_9" popup_label="᜵" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="᜵"/>
+        </softkey>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b72" param_data="।" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b73" param_data="��" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b74" param_data="꣎" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b75" param_data="॥" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b76" long_press_data="፟ ፞ ፝" param_data="፡" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b77" param_data="׳" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b78" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="ַ" intention="COMMIT" keycode="KEYCODE_7" popup_label="◌ַ" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="◌ַ"/>
+        </softkey>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b79" long_press_data="&apos;" long_press_label="&apos;" param_data="-" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ef9">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b7d" press_data="ʰ" press_label="◌ʰ"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b7e" param_data="ˈ" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b7f" param_data="." param_keycode="PERIOD" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b80" long_press_data=", ՞ ՜ . ՚ ՙ ? ! ՝ ՛ ֊ » « ՟ ; :" param_data="։" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b81" param_data="᭟" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b82" param_data="꛳" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b83" param_data="᙮" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b84" param_data="꩞" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140293" id="@+id/0_resource_name_obfuscated_res_0x7f0b0b85" param_data="。" param_keycode="PLAIN_TEXT" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b86" param_data="።" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b87" long_press_data="઼ ઁ ં ઃ ઽ ૐ લૃ ।" long_press_label="઼ ઁ ં ઃ ઽ ૐ લૃ ।" param_data="." param_keycode="PERIOD" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b88" param_data="꓿" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b89" long_press_data="꫱ ꫰ ꯭ ꯬ ꫲ ꫳ ꫴ ꫵ ꫶" param_data="꯫" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b8a" param_data="။" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b8b" param_data="᜶" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b8c" param_data="۔" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b8d" long_press_data=": ·" long_press_label=": ·" param_data=";" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec7">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b93" long_press_data="༒ ༑ ༐ ༏ ༎ ༈ ࿓ ࿔ ༇ ༆ ༄ ༅ ࿙ ࿚ ༼ ༽ ༺ ༻" param_data="།" param_keycode="PERIOD" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b7a" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="꧈" intention="COMMIT" keycode="KEYCODE_9" popup_label="꧈" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="꧈"/>
+        </softkey>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b7b" param_data="꧉" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b7c" param_data="꤯" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b96" param_data="᰻" param_keycode="PERIOD" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1e7f" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="ஃ" intention="COMMIT" keycode="KEYCODE_9" popup_label="ஃ" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="ஃ"/>
+        </softkey>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b97" param_data="༔" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec7">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b99" long_press_data="༷ ༵ ༸ ཿ ཾ ྃ ༹ ྄ ྅ ྂ ྆ ྇ ༀ ༁ ༂ ༃ ༴ ࿒" param_data="་" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b98" long_press_data="༷ ༵ ༸ ཿ ཾ ྃ ༹ ྄ ྅ ྂ ྆ ྇ ࿑ ࿐ ༊ ༉ ༴ ࿒" param_data="་" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b9b" param_data="ꘌ" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b9c" param_data="્" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b9d" param_data="ꀕ" param_keycode="ALPHABET" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec4" layout="$param_layout$" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="$param_data$" intention="COMMIT" keycode="KEYCODE_BACK" popup_label="$param_data$" type="PRESS"/>
+            <action data="$long_press_data$" intention="COMMIT" keycode="KEYCODE_BACK" popup_label="$long_press_data$" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018a" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$param_data$"/>
+        </softkey_template>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec4">
+            <if language="zh-CN">
+                <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b62" long_press_data="@string/0_resource_name_obfuscated_res_0x7f140409" param_data=".com" param_keycode="PLAIN_TEXT" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0590"/>
+            </if>
+            <else_if language="zh-HK">
+                <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b62" long_press_data="@string/0_resource_name_obfuscated_res_0x7f14040a" param_data=".com" param_keycode="PLAIN_TEXT" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0590"/>
+            </else_if>
+            <else_if language="zh-TW">
+                <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b62" long_press_data="@string/0_resource_name_obfuscated_res_0x7f14040b" param_data=".com" param_keycode="PLAIN_TEXT" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0590"/>
+            </else_if>
+            <else_if language="ko">
+                <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b62" long_press_data="@string/0_resource_name_obfuscated_res_0x7f140408" param_data=".com" param_keycode="PLAIN_TEXT" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0590"/>
+            </else_if>
+            <else_if language="ja">
+                <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b62" long_press_data="@string/0_resource_name_obfuscated_res_0x7f140407" param_data=".com" param_keycode="PLAIN_TEXT" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0590"/>
+            </else_if>
+            <else>
+                <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b62" long_press_data="@string/0_resource_name_obfuscated_res_0x7f140406" param_data=".com" param_keycode="PLAIN_TEXT" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0590"/>
+            </else>
+        </softkey_list>
+        <softkey_list splitter=",">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b6a" layout="@layout/0_resource_name_obfuscated_res_0x7f0e058a" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749" slide_sensitivity="NORMAL">
+                <action data="，" intention="COMMIT" keycode="KEYCODE_DPAD_RIGHT" popup_label="，" type="PRESS"/>
+                <action data="。" intention="COMMIT" keycode="KEYCODE_DPAD_RIGHT" popup_label="｡" type="SLIDE_UP"/>
+                <action data="。,.,！,？,、,「,」,『,』,…,：,；,XD,:P,:D,:(,:),^_^" intention="COMMIT" keycode="KEYCODE_DPAD_RIGHT" popup_label="。,.,！,？,、,「,」,『,』,…,：,；,XD,:P,:D,:(,:),^_^" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018a" type="LONG_PRESS"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value="，"/>
+                <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0752" value="。"/>
+            </softkey>
+        </softkey_list>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b20fc" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0550" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="‌" intention="D" keycode="KEYCODE_7" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080278" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018e" type="PRESS"/>
+            <action data="‍" intention="D" keycode="KEYCODE_7" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080277" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018e" type="LONG_PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080278"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b20fd" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0550" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="‌" intention="C" keycode="KEYCODE_7" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080278" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018e" type="PRESS"/>
+            <action data="‍" intention="C" keycode="KEYCODE_7" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080277" popup_layout="@attr/0_resource_name_obfuscated_res_0x7f04018e" type="LONG_PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080278"/>
+        </softkey>
+    </softkeys>
+</framework>

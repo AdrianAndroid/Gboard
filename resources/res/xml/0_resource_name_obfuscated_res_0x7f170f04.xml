@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@+id/0_resource_name_obfuscated_res_0x7f0b1f05" layout="@layout/0_resource_name_obfuscated_res_0x7f0e054e" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="$press_data$" intention="COMMIT" keycode="KEYCODE_HOME" popup_label="$press_data$" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$press_data$"/>
+        </softkey_template>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f05">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c04" keycode_press="KEYCODE_1" press_data="1"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c05" keycode_press="KEYCODE_2" press_data="2"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c06" keycode_press="KEYCODE_3" press_data="3"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c07" keycode_press="KEYCODE_4" press_data="4"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c08" keycode_press="KEYCODE_5" press_data="5"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c09" keycode_press="KEYCODE_6" press_data="6"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c0a" keycode_press="KEYCODE_7" press_data="7"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c0b" keycode_press="KEYCODE_8" press_data="8"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c0c" keycode_press="KEYCODE_9" press_data="9"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c03" keycode_press="KEYCODE_0" press_data="0"/>
+        </softkey_list>
+        <softkey_template id="@+id/0_resource_name_obfuscated_res_0x7f0b1ef1" layout="@layout/0_resource_name_obfuscated_res_0x7f0e054f" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="$param_data$" intention="COMMIT" keycode="KEYCODE_CALL" popup_label="$param_data$" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$param_data$"/>
+        </softkey_template>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ef1">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1897" param_data="!"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1895" param_data="@" param_keycode="AT"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b189b" param_data="#" param_keycode="POUND"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1896" param_data="$"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b189d" param_data="*" param_keycode="STAR"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b189a" param_data="%"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1898" param_data="^"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1894" param_data="&amp;"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1899" param_data="("/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b189c" param_data=")"/>
+        </softkey_list>
+    </softkeys>
+</framework>

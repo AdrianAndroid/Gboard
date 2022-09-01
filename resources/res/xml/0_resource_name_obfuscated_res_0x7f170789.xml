@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinJapanesePrimeKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b0565" popup="@attr/0_resource_name_obfuscated_res_0x7f040185">
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03e7" scalable="false" type="header">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c18"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170aa1"/>
+        </view>
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0143" type="radial">
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd0"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c03"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170d44"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bf7"/>
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170d43"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a14"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709cc"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709bd"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a78"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4a"/>
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.firstrun.UserMetricsStepPage xmlns:android="http://schemas.android.com/apk/res/android" pageId="@+id/0_resource_name_obfuscated_res_0x7f0b082c" style="@style/0_resource_name_obfuscated_res_0x7f15022d">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e00b3"/>
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150230">
+        <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0209" style="@style/0_resource_name_obfuscated_res_0x7f150237"/>
+        <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0206" android:text="@string/0_resource_name_obfuscated_res_0x7f14026b" style="@style/0_resource_name_obfuscated_res_0x7f150231"/>
+        <com.google.android.libraries.inputmethod.widgets.PreferenceCheckBox android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0205" android:text="@string/0_resource_name_obfuscated_res_0x7f140f2f" pref_key="@string/0_resource_name_obfuscated_res_0x7f14068c" style="@style/0_resource_name_obfuscated_res_0x7f15022f"/>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.framework.firstrun.UserMetricsStepPage>

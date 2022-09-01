@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f150047" parent="@android:style/TextAppearance.Material.Widget.Button.Colored">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150074" parent="@style/0_resource_name_obfuscated_res_0x7f15010d">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15007d" parent="@style/0_resource_name_obfuscated_res_0x7f15010f">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150084" parent="@style/0_resource_name_obfuscated_res_0x7f150111">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15008b" parent="@style/0_resource_name_obfuscated_res_0x7f150113">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15008e" parent="@style/0_resource_name_obfuscated_res_0x7f150115">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1500d3" parent="@style/0_resource_name_obfuscated_res_0x7f1500d4">
+        <item name="android:colorBackground">@color/0_resource_name_obfuscated_res_0x7f0600f4</item>
+        <item name="android:buttonBarButtonStyle">?attr/0_resource_name_obfuscated_res_0x7f04029e</item>
+        <item name="android:timePickerDialogTheme">@style/0_resource_name_obfuscated_res_0x7f15079f</item>
+        <item name="android:datePickerDialogTheme">@style/0_resource_name_obfuscated_res_0x7f15079f</item>
+        <item name="android:contextPopupMenuStyle">@style/0_resource_name_obfuscated_res_0x7f150a56</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040214">@style/0_resource_name_obfuscated_res_0x7f15079c</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040215">@dimen/0_resource_name_obfuscated_res_0x7f07057c</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040217">@style/0_resource_name_obfuscated_res_0x7f150a03</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04021b">@style/0_resource_name_obfuscated_res_0x7f150793</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04022e">@style/0_resource_name_obfuscated_res_0x7f150a04</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040232">@style/0_resource_name_obfuscated_res_0x7f150a58</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04023d">@style/0_resource_name_obfuscated_res_0x7f1507a0</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040251">@style/0_resource_name_obfuscated_res_0x7f150a07</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04028a">@style/0_resource_name_obfuscated_res_0x7f150a1a</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04028e">@style/0_resource_name_obfuscated_res_0x7f150a11</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04028f">@style/0_resource_name_obfuscated_res_0x7f15079b</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04029e">@style/0_resource_name_obfuscated_res_0x7f150a1a</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0402cc">@style/0_resource_name_obfuscated_res_0x7f150a2e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040310">?attr/0_resource_name_obfuscated_res_0x7f040351</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04031a">@color/0_resource_name_obfuscated_res_0x7f0600f5</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040340">@color/0_resource_name_obfuscated_res_0x7f0600fb</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040342">@color/0_resource_name_obfuscated_res_0x7f0600fc</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04043b">@style/0_resource_name_obfuscated_res_0x7f150a33</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040531">@style/0_resource_name_obfuscated_res_0x7f150a57</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040560">@style/0_resource_name_obfuscated_res_0x7f1507a4</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040569">@style/0_resource_name_obfuscated_res_0x7f1507ac</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040573">@style/0_resource_name_obfuscated_res_0x7f150a37</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040574">@style/0_resource_name_obfuscated_res_0x7f1507ab</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040586">@style/0_resource_name_obfuscated_res_0x7f1507b2</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0405e9">@style/0_resource_name_obfuscated_res_0x7f150a54</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040622">@style/0_resource_name_obfuscated_res_0x7f150a55</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04064b">@style/0_resource_name_obfuscated_res_0x7f150a2f</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04069f">@style/0_resource_name_obfuscated_res_0x7f150a1f</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0406a0">@style/0_resource_name_obfuscated_res_0x7f150a5b</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0406a1">@style/0_resource_name_obfuscated_res_0x7f150a5d</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0406f4">@style/0_resource_name_obfuscated_res_0x7f150a30</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040710">@style/0_resource_name_obfuscated_res_0x7f150a5e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040735">?attr/0_resource_name_obfuscated_res_0x7f040741</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04073e">?attr/0_resource_name_obfuscated_res_0x7f040741</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04074f">@style/0_resource_name_obfuscated_res_0x7f150a66</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040750">@style/0_resource_name_obfuscated_res_0x7f150a68</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040751">@style/0_resource_name_obfuscated_res_0x7f150a65</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040753">@style/0_resource_name_obfuscated_res_0x7f150a6a</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040754">@style/0_resource_name_obfuscated_res_0x7f150a6c</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040755">@style/0_resource_name_obfuscated_res_0x7f150a69</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040756">@style/0_resource_name_obfuscated_res_0x7f150a65</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040792">@style/0_resource_name_obfuscated_res_0x7f150a78</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0407c1">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1500d7" parent="@style/0_resource_name_obfuscated_res_0x7f1500d8">
+        <item name="android:colorBackground">@color/0_resource_name_obfuscated_res_0x7f060101</item>
+        <item name="android:buttonBarButtonStyle">?attr/0_resource_name_obfuscated_res_0x7f04029e</item>
+        <item name="android:timePickerDialogTheme">@style/0_resource_name_obfuscated_res_0x7f15079f</item>
+        <item name="android:datePickerDialogTheme">@style/0_resource_name_obfuscated_res_0x7f15079f</item>
+        <item name="android:contextPopupMenuStyle">@style/0_resource_name_obfuscated_res_0x7f150a56</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040214">@style/0_resource_name_obfuscated_res_0x7f1507a2</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040215">@dimen/0_resource_name_obfuscated_res_0x7f07057c</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040217">@style/0_resource_name_obfuscated_res_0x7f150a34</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04022e">@style/0_resource_name_obfuscated_res_0x7f150a04</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040232">@style/0_resource_name_obfuscated_res_0x7f150a58</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04023d">@style/0_resource_name_obfuscated_res_0x7f1507a0</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040251">@style/0_resource_name_obfuscated_res_0x7f150a05</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04028a">@style/0_resource_name_obfuscated_res_0x7f150a1a</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04028e">@style/0_resource_name_obfuscated_res_0x7f150a11</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04028f">@style/0_resource_name_obfuscated_res_0x7f15079b</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04029e">@style/0_resource_name_obfuscated_res_0x7f150a1a</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0402cc">@style/0_resource_name_obfuscated_res_0x7f150a2e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040310">?attr/0_resource_name_obfuscated_res_0x7f040351</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04031a">@color/0_resource_name_obfuscated_res_0x7f060102</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040340">@color/0_resource_name_obfuscated_res_0x7f060108</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040342">@color/0_resource_name_obfuscated_res_0x7f060109</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04043b">@style/0_resource_name_obfuscated_res_0x7f150a33</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040531">@style/0_resource_name_obfuscated_res_0x7f150a57</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040560">@style/0_resource_name_obfuscated_res_0x7f1507a4</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040569">@style/0_resource_name_obfuscated_res_0x7f1507ac</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040573">@style/0_resource_name_obfuscated_res_0x7f150a37</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040574">@style/0_resource_name_obfuscated_res_0x7f1507ab</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040586">@style/0_resource_name_obfuscated_res_0x7f1507b2</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0405e9">@style/0_resource_name_obfuscated_res_0x7f150a54</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040622">@style/0_resource_name_obfuscated_res_0x7f150a55</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04064b">@style/0_resource_name_obfuscated_res_0x7f150a2f</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04069f">@style/0_resource_name_obfuscated_res_0x7f150a1f</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0406a0">@style/0_resource_name_obfuscated_res_0x7f150a5b</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0406a1">@style/0_resource_name_obfuscated_res_0x7f150a5d</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0406f4">@style/0_resource_name_obfuscated_res_0x7f150a30</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040710">@style/0_resource_name_obfuscated_res_0x7f150a5e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040735">?attr/0_resource_name_obfuscated_res_0x7f040741</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04073e">?attr/0_resource_name_obfuscated_res_0x7f040741</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04074f">@style/0_resource_name_obfuscated_res_0x7f150a66</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040750">@style/0_resource_name_obfuscated_res_0x7f150a68</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040751">@style/0_resource_name_obfuscated_res_0x7f150a65</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040753">@style/0_resource_name_obfuscated_res_0x7f150a6a</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040754">@style/0_resource_name_obfuscated_res_0x7f150a6c</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040755">@style/0_resource_name_obfuscated_res_0x7f150a69</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040756">@style/0_resource_name_obfuscated_res_0x7f150a65</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040792">@style/0_resource_name_obfuscated_res_0x7f150a78</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0407c1">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15010d" parent="@style/0_resource_name_obfuscated_res_0x7f150108">
+        <item name="android:contextPopupMenuStyle">@style/0_resource_name_obfuscated_res_0x7f1508c1</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15010f" parent="@style/0_resource_name_obfuscated_res_0x7f1500f1">
+        <item name="android:contextPopupMenuStyle">@style/0_resource_name_obfuscated_res_0x7f150952</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150111" parent="@style/0_resource_name_obfuscated_res_0x7f150109">
+        <item name="android:contextPopupMenuStyle">@style/0_resource_name_obfuscated_res_0x7f150952</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150113" parent="@style/0_resource_name_obfuscated_res_0x7f1500cd">
+        <item name="android:contextPopupMenuStyle">@style/0_resource_name_obfuscated_res_0x7f1509e6</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150115" parent="@style/0_resource_name_obfuscated_res_0x7f1500d0">
+        <item name="android:contextPopupMenuStyle">@style/0_resource_name_obfuscated_res_0x7f1509e6</item>
+    </style>
+</resources>

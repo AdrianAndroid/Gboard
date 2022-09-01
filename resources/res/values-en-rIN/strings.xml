@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="0_resource_name_obfuscated_res_0x7f14000a">Navigate up</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14000c">Done</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14000f">OFF</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140010">ON</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140012">Alt+</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140013">Ctrl+</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140014">delete</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140015">enter</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140016">Function+</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140017">Meta+</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140018">Shift+</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140019">space</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14001a">Sym+</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14001b">Menu+</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14001c">Search…</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14001d">Clear query</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14001f">Search</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140020">Submit query</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140021">Voice search</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140025">Collapse</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140061">Added to favourites</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140062">Removed from favourites</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c4">Customise the %1$s pack</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c5">Delete the %1$s pack.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c6">Mark the %1$s pack as favourite</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c7">Unmark the %1$s pack as favourite</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c8">Navigate back</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140145">Copy</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140239">Advanced</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140501">Artist: %1$s</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140502">Create</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140503">Minis based on you</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140504">Customise</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140505">Cancel</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140506">Delete</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140507">You will erase all the content in the %1$s pack.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140508">Delete this pack?</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140509">Share sticker using</string>
+    <string name="megamode_title_label">Your minis</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14059d">Not set</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140739">\'%1$s\' copied to clipboard.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140c19">%1$s, %2$s</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140f31">OFF</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140f32">ON</string>
+</resources>

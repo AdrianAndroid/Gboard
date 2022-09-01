@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="no">
+    <com.android.settingslib.widget.MainSwitchBar android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08e9" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</FrameLayout>

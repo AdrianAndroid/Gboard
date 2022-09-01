@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.hmmhandwriting.HmmHandwritingIme" display_app_completions="true" language="zh-HK" language_specific_settings="@xml/0_resource_name_obfuscated_res_0x7f170f2f" string_id="ime_zh_hk_handwriting" use_ascii_password_keyboard="true">
+        <keyboard_group supports_one_handed_mode="false" variant="handwriting" variant_label="@string/0_resource_name_obfuscated_res_0x7f140ff6">
+            <layout_specific_settings resource_id="@xml/0_resource_name_obfuscated_res_0x7f170f31"/>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170770" type="prime"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+        </keyboard_group>
+        <extra_values>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d2" value="true"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01e3" value="@string/0_resource_name_obfuscated_res_0x7f140427"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01de" value="。"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01cb" value="@string/0_resource_name_obfuscated_res_0x7f140669"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01dd" value="hmm"/>
+        </extra_values>
+    </ime>
+</framework>

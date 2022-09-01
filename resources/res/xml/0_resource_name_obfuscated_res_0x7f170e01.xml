@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170f24"/>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f11">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d10" param_data="," param_keycode="COMMA"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c12" long_press_data="…" param_data="." param_keycode="PERIOD"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f12">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1892" long_press_data="≤ ‹ « ⟨" param_data="&lt;"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1998" long_press_data="≥ › » ⟩" param_data="&gt;"/>
+        </softkey_list>
+    </softkeys>
+</framework>

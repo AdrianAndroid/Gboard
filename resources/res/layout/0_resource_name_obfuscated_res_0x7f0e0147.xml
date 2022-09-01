@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f1501a5">
+    <FrameLayout style="@style/0_resource_name_obfuscated_res_0x7f1501af">
+        <com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MonolithicCandidatesRecyclerView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b141b" android:visibility="gone" candidate_background="@android:color/transparent" candidate_layout="@layout/0_resource_name_obfuscated_res_0x7f0e056e" last_column_candidate_background="@android:color/transparent" style="@style/0_resource_name_obfuscated_res_0x7f150293"/>
+        <com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MonolithicCandidatesHolderView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b141a" candidate_background="@android:color/transparent" candidate_layout="@layout/0_resource_name_obfuscated_res_0x7f0e056e" last_column_candidate_background="@android:color/transparent" style="@style/0_resource_name_obfuscated_res_0x7f150293"/>
+        <FrameLayout android:layout_gravity="top|right" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07a7" style="@style/0_resource_name_obfuscated_res_0x7f15038d">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_more_candidates_background" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_more_candidates_foreground" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f17071e"/>
+    <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b04c5">
+        <if device="tablet" device_size="large">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0191" type="linear"/>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01d6" type="linear"/>
+        </else>
+        <view type="linear">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170cb4"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a30"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a52"/>
+        </view>
+    </keyboard>
+</framework>

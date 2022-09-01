@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:layout_gravity="center" style="@style/0_resource_name_obfuscated_res_0x7f15054a">
+    <RelativeLayout style="@style/0_resource_name_obfuscated_res_0x7f15052e">
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b01f7" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="2dp">
+            <android.support.v7.widget.AppCompatImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2132" style="@style/0_resource_name_obfuscated_res_0x7f15052f"/>
+        </FrameLayout>
+        <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b01f6" android:tag=".sticker-featured-badge" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08039d" android:paddingLeft="3.5dp" android:paddingTop="3.5dp" android:paddingRight="3.5dp" android:paddingBottom="3.5dp" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0706a8" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0706a8" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080299" android:scaleType="fitCenter" android:layout_alignParentBottom="true" android:importantForAccessibility="no" android:layout_alignParentStart="true" android:paddingHorizontal="3.5dp" android:paddingVertical="3.5dp"/>
+    </RelativeLayout>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2133" android:layout_width="match_parent" android:layout_height="match_parent" style="@style/0_resource_name_obfuscated_res_0x7f150549"/>
+</LinearLayout>

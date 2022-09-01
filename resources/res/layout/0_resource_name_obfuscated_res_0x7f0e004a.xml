@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:tag=".background-icon.clipboard-item-suggestion" style="@style/0_resource_name_obfuscated_res_0x7f1501be"/>
+    <ImageView android:tag=".background-icon.clipboard-item-suggestion-border" style="@style/0_resource_name_obfuscated_res_0x7f1501bf"/>
+    <View android:tag=".background-icon.clipboard-item-suggestion-ripple" style="@style/0_resource_name_obfuscated_res_0x7f1501c0"/>
+</merge>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b006d" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0069" android:layout_width="match_parent" android:layout_height="?attr/0_resource_name_obfuscated_res_0x7f04011f" android:layout_alignParentBottom="true" android:layoutDirection="ltr">
+        <View android:id="@+id/0_resource_name_obfuscated_res_0x7f0b006c" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/0_resource_name_obfuscated_res_0x7f0b006a" android:layout_alignParentStart="true"/>
+        <View android:id="@+id/0_resource_name_obfuscated_res_0x7f0b006b" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/0_resource_name_obfuscated_res_0x7f0b006a" android:layout_alignParentEnd="true"/>
+        <View android:id="@+id/0_resource_name_obfuscated_res_0x7f0b006a" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0027"/>
+</RelativeLayout>

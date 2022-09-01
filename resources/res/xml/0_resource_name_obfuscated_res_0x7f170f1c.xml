@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@+id/0_resource_name_obfuscated_res_0x7f0b1f10" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="$param_data$" keycode="KEYCODE_9" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$param_data$"/>
+        </softkey_template>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f10">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0fda" param_data="="/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0975" param_data="am"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c32" param_data="pm"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c0f" param_data="%"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1845" param_data="("/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c65" param_data=")"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f140769" id="@+id/0_resource_name_obfuscated_res_0x7f0b1c76" param_data="￥"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0f86" param_data="$"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1892" param_data="&lt;"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1998" param_data="&gt;"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1d12" param_data="*"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c33" param_data="#"/>
+        </softkey_list>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0d10" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="," keycode="KEYCODE_6" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value=","/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c12" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="." keycode="KEYCODE_8" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="."/>
+        </softkey>
+    </softkeys>
+</framework>

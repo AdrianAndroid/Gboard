@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if device="tablet" keyboard_mode="normal">
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f17071e"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b058b">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0239" type="linear">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170d69"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a1f"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            </view>
+        </keyboard>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170822"/>
+    </if>
+    <else>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170553"/>
+        <keyboard id="@+id/0_resource_name_obfuscated_res_0x7f0b058c">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0243" type="linear">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170d69"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a1f"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a4d"/>
+            </view>
+        </keyboard>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170822"/>
+    </else>
+</framework>

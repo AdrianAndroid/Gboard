@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:theme="@style/0_resource_name_obfuscated_res_0x7f1507c7" android:layout_height="wrap_content" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f1507c2">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="?attr/0_resource_name_obfuscated_res_0x7f040120" android:paddingEnd="?attr/0_resource_name_obfuscated_res_0x7f040120">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:layout_gravity="start|center_vertical" android:id="@+id/key_pos_translate_back" android:visibility="gone" android:layout_marginTop="3dp" style="@style/0_resource_name_obfuscated_res_0x7f1504ab"/>
+            <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21bc" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="?attr/0_resource_name_obfuscated_res_0x7f040207" android:layout_marginEnd="?attr/0_resource_name_obfuscated_res_0x7f040207">
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e05f0"/>
+                <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e05f1"/>
+            </FrameLayout>
+        </LinearLayout>
+        <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21bf" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f070730" android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f070730" android:layout_marginStart="?attr/0_resource_name_obfuscated_res_0x7f040207" android:layout_marginEnd="?attr/0_resource_name_obfuscated_res_0x7f040207"/>
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170554"/>
+    <if device="tablet" keyboard_mode="normal">
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f17071e"/>
+    </if>
+    <keyboard>
+        <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03eb" type="header"/>
+        <view type="linear">
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a80"/>
+        </view>
+    </keyboard>
+</framework>

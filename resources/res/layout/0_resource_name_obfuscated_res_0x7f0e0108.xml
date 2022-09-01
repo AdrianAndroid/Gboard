@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0107" style="@style/0_resource_name_obfuscated_res_0x7f1501d7">
+    <LinearLayout android:baselineAligned="false" style="@style/0_resource_name_obfuscated_res_0x7f1501db">
+        <LinearLayout android:gravity="start" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_clipboard_back_to_prime" style="@style/0_resource_name_obfuscated_res_0x7f1501d9"/>
+            <com.google.android.libraries.inputmethod.widgets.AutoSizeTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0108" android:text="@string/0_resource_name_obfuscated_res_0x7f1400fa" style="@style/0_resource_name_obfuscated_res_0x7f1501dc"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="end" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_clipboard_batch_delete" style="@style/0_resource_name_obfuscated_res_0x7f1501da"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_clipboard_batch_pin" style="@style/0_resource_name_obfuscated_res_0x7f1501da"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_clipboard_edit_and_add" style="@style/0_resource_name_obfuscated_res_0x7f1501da"/>
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

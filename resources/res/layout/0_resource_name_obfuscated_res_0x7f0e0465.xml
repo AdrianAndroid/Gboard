@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f150389">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0464"/>
+</LinearLayout>

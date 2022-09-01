@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170a83"/>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b19a1" view_id="@+id/key_pos_move_cursor"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0e06" view_id="@+id/key_pos_del"/>
+    </key_mapping>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0ce8" view_id="@+id/key_pos_move_cursor"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0e07" view_id="@+id/key_pos_del"/>
+    </key_mapping>
+</framework>

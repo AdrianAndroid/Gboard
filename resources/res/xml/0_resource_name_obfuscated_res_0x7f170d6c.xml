@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf0"/>
+    <softkeys>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eff">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15f8" long_press_data="៱" press_data="១"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15fc" long_press_data="៲" press_data="២"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15fb" long_press_data="៳" press_data="៣"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15f6" long_press_data="៴" press_data="៤"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15f5" long_press_data="៵" press_data="៥"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15fa" long_press_data="៶" press_data="៦"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15f9" long_press_data="៷" press_data="៧"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15f4" long_press_data="៸" press_data="៨"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15f7" long_press_data="៹" press_data="៩"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b15fd" long_press_data="៰" press_data="០"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1eeb">
+            <softkey hint_label="ឦ" id="@+id/0_resource_name_obfuscated_res_0x7f0b1602" long_press_data="ឦ" press_data="ឥ"/>
+            <softkey hint_label="ឱ" id="@+id/0_resource_name_obfuscated_res_0x7f0b1604" long_press_data="ឱ" press_data="ឲ"/>
+            <softkey hint_label="ឧ" id="@+id/0_resource_name_obfuscated_res_0x7f0b1606" long_press_data="ឧ,ឱ,ឳ,ឩ,ឨ" press_data="ឪ"/>
+            <softkey hint_label="ឭ" id="@+id/0_resource_name_obfuscated_res_0x7f0b15ff" long_press_data="ឭ,ឰ" press_data="ឮ"/>
+            <softkey hint_label="៘" id="@+id/0_resource_name_obfuscated_res_0x7f0b1637" long_press_data="៘" press_data="៊"/>
+            <softkey hint_label="៑" id="@+id/0_resource_name_obfuscated_res_0x7f0b1c3a" long_press_data="៑" press_data="&quot;"/>
+            <softkey hint_label="$" id="@+id/0_resource_name_obfuscated_res_0x7f0b15f3" long_press_data="$,€" press_data="៛"/>
+            <softkey hint_label="៖" id="@+id/0_resource_name_obfuscated_res_0x7f0b1c10" long_press_data="៖" press_data="%"/>
+            <softkey hint_label="៙" id="@+id/0_resource_name_obfuscated_res_0x7f0b1636" long_press_data="៙" press_data="៍"/>
+            <softkey hint_label="៚" id="@+id/0_resource_name_obfuscated_res_0x7f0b1635" long_press_data="៚" press_data="័"/>
+            <softkey hint_label="ៗ" id="@+id/0_resource_name_obfuscated_res_0x7f0b162a" long_press_data="ៗ" press_data="៏"/>
+            <softkey hint_label="{" id="@+id/0_resource_name_obfuscated_res_0x7f0b1851" long_press_data="{,«" press_data="("/>
+            <softkey hint_label="}" id="@+id/0_resource_name_obfuscated_res_0x7f0b1c71" long_press_data="},»" press_data=")"/>
+            <softkey hint_label="×" id="@+id/0_resource_name_obfuscated_res_0x7f0b1633" long_press_data="×" press_data="៌"/>
+            <softkey hint_label="ៜ" id="@+id/0_resource_name_obfuscated_res_0x7f0b160c" long_press_data="ៜ" press_data="ឈ"/>
+            <softkey hint_label="៝" id="@+id/0_resource_name_obfuscated_res_0x7f0b1656" long_press_data="៝" press_data="ឺ"/>
+            <softkey hint_label="ឫ" id="@+id/0_resource_name_obfuscated_res_0x7f0b1608" long_press_data="ឫ" press_data="ឬ"/>
+            <softkey hint_label="ៈ" id="@+id/0_resource_name_obfuscated_res_0x7f0b1632" long_press_data="ៈ" press_data="ះ"/>
+            <softkey hint_label="ឝ" id="@+id/0_resource_name_obfuscated_res_0x7f0b1614" long_press_data="ឝ" press_data="គ"/>
+            <softkey hint_label="ឞ" id="@+id/0_resource_name_obfuscated_res_0x7f0b161e" long_press_data="ឞ" press_data="ព"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f03">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b160b" press_data="ឆ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1653" press_data="ឹ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b163f" press_data="េ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1620" press_data="រ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1622" press_data="ត"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1629" press_data="យ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b164c" press_data="ុ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1642" press_data="ិ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1648" press_data="ោ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b161c" press_data="ផ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1644" press_data="ៀ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1639" press_data="ា"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1621" press_data="ស"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b160e" press_data="ដ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1623" press_data="ថ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1618" press_data="ង"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1610" press_data="ហ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b162d" press_data="្"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1611" press_data="ក"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1616" press_data="ល"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1647" press_data="ើ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b162b" press_data="់"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1626" press_data="ឋ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1612" press_data="ខ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b160a" press_data="ច"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1628" press_data="វ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1609" press_data="ប"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b161a" press_data="ន"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1617" press_data="ម"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b164d" press_data="ុំ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b162f" press_data="។"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b162e" press_data="៎"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b163c" press_data="ែ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1625" press_data="ទ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1651" press_data="ួ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1652" press_data="ូ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1645" press_data="ី"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b163e" press_data="ៅ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b161d" press_data="ភ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1655" press_data="ឿ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1600" press_data="ឰ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b163a" press_data="ាំ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b163d" press_data="ៃ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b160f" press_data="ឌ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1624" press_data="ធ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b161f" press_data="អ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b161b" press_data="ញ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1615" press_data="ឡ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1649" press_data="ោះ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1630" press_data="៉"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1601" press_data="ឯ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1627" press_data="ឍ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1613" press_data="ឃ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b160d" press_data="ជ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1640" press_data="េះ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1619" press_data="ណ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1631" press_data="ំ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b164e" press_data="ុះ"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b162c" press_data="៕"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b1c37" press_data="?"/>
+        </softkey_list>
+    </softkeys>
+</framework>

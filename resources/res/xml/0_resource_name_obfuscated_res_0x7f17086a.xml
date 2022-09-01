@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.impl.Keyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b05c1" popup="@attr/0_resource_name_obfuscated_res_0x7f040185"/>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170910"/>
+    <if device="tablet" keyboard_mode="normal">
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170873"/>
+    </if>
+    <else>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170872"/>
+    </else>
+</framework>

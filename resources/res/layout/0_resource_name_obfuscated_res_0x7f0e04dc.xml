@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:tag=".popup-item.for-keytop-popup" android:background="?attr/0_resource_name_obfuscated_res_0x7f040041" android:layout_width="wrap_content" android:layout_height="?attr/0_resource_name_obfuscated_res_0x7f040194" android:minWidth="?attr/0_resource_name_obfuscated_res_0x7f040195">
+    <com.google.android.libraries.inputmethod.widgets.AutoCenteredLabelView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0850" app:alignToBaseline="false" style="@style/0_resource_name_obfuscated_res_0x7f150195"/>
+</FrameLayout>

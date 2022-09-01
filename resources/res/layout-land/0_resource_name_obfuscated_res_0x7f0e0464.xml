@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07a0" android:background="@drawable/0_resource_name_obfuscated_res_0x7f080099" android:layout_width="450dp" android:layout_height="wrap_content" android:paddingStart="10dp" android:paddingEnd="10dp">
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="5">
+            <ImageView android:layout_gravity="top|center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07a2" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080291" android:adjustViewBounds="true" android:layout_marginStart="8dp" android:layout_marginEnd="8dp"/>
+            <android.support.v7.widget.AppCompatTextView android:gravity="center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07a1" android:text="@string/0_resource_name_obfuscated_res_0x7f14050d" style="@style/0_resource_name_obfuscated_res_0x7f150388"/>
+            <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:gravity="center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b079f" android:layout_marginTop="14dp" android:text="@string/0_resource_name_obfuscated_res_0x7f1401ad" style="@style/0_resource_name_obfuscated_res_0x7f150388"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b079d" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_marginTop="14dp" style="@style/0_resource_name_obfuscated_res_0x7f15038c"/>
+                <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:layout_gravity="start" android:layout_marginTop="14dp" android:text="@string/0_resource_name_obfuscated_res_0x7f14036e" style="@style/0_resource_name_obfuscated_res_0x7f150388"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="5">
+            <ImageView android:layout_marginTop="14dp" style="@style/0_resource_name_obfuscated_res_0x7f15038c"/>
+            <android.support.v7.widget.RecyclerView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b079e" style="@style/0_resource_name_obfuscated_res_0x7f15038b"/>
+            <ImageView style="@style/0_resource_name_obfuscated_res_0x7f15038c"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="bottom" android:layout_gravity="end" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="50dp">
+        <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07a3" android:text="@string/0_resource_name_obfuscated_res_0x7f14050e" style="@style/0_resource_name_obfuscated_res_0x7f150387"/>
+    </LinearLayout>
+</LinearLayout>

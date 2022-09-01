@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyView xmlns:android="http://schemas.android.com/apk/res/android" android:visibility="gone" android:layout_width="?attr/0_resource_name_obfuscated_res_0x7f040001" android:layout_height="match_parent">
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0011" android:src="@drawable/0_resource_name_obfuscated_res_0x7f0801b4" style="@style/0_resource_name_obfuscated_res_0x7f150263"/>
+    <FrameLayout android:id="@+id/host" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyView>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinPasswordKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b05c1" popup="@attr/0_resource_name_obfuscated_res_0x7f040185">
+        <if show_suggestions="true">
+            <view direction="right_to_left" layout="@layout/0_resource_name_obfuscated_res_0x7f0e03e5" override="all" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f04"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170af7"/>
+            </view>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e03e4" override="all" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f04"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170af7"/>
+            </view>
+        </else>
+        <view override="motion_event_handler" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140683" reverse_preference="false"/>
+            <motion_event_handler class=".motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+        </view>
+    </keyboard>
+</framework>

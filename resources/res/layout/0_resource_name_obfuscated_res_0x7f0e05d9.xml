@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@color/0_resource_name_obfuscated_res_0x7f060918" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140cbd">
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2185" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="matrix"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2188" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:layout_width="match_parent" style="@style/0_resource_name_obfuscated_res_0x7f1506fd">
+            <android.support.v7.widget.AppCompatTextView android:layout_marginBottom="48dp" android:text="@string/0_resource_name_obfuscated_res_0x7f140cbd" style="@style/0_resource_name_obfuscated_res_0x7f1506fe"/>
+        </FrameLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <View android:layout_height="match_parent" style="@style/0_resource_name_obfuscated_res_0x7f1506fd"/>
+            <View android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2187" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08012a" android:layout_width="0dp" android:layout_height="0dp"/>
+            <View android:layout_height="match_parent" style="@style/0_resource_name_obfuscated_res_0x7f1506fd"/>
+        </LinearLayout>
+        <FrameLayout android:layout_width="match_parent" style="@style/0_resource_name_obfuscated_res_0x7f1506fd">
+            <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b2186" android:text="@string/0_resource_name_obfuscated_res_0x7f140cbe" style="@style/0_resource_name_obfuscated_res_0x7f1506fc"/>
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

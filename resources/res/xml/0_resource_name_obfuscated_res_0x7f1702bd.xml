@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime class="com.google.android.apps.inputmethod.libs.mozc.ime.SimpleJapaneseIme" display_app_completions="false" inline_composing="true" language="@string/0_resource_name_obfuscated_res_0x7f14036f" language_specific_settings="@xml/setting_japanese_language_specific" secondary_ime_def="@xml/0_resource_name_obfuscated_res_0x7f1702c0" string_id="@string/0_resource_name_obfuscated_res_0x7f140939" unacceptable_meta_keys="" use_ascii_password_keyboard="true">
+        <keyboard_group supports_split_mode="false" variant="50keys" variant_label="@string/0_resource_name_obfuscated_res_0x7f14101b">
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170789" type="prime"/>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170788" type="alphabet_qwerty"/>
+            <if device="tablet" keyboard_mode="normal">
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170856" type="digit"/>
+            </if>
+            <else>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170855" type="digit"/>
+            </else>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1708fe" type="symbol"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+        <extra_values>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01df" value="FIFTY_KEYS_HIRAGANA"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d1" value="HARDWARE_QWERTY_KANA"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d6" value="true"/>
+        </extra_values>
+    </ime>
+</framework>

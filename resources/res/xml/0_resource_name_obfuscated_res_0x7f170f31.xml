@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f14080a">
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.SeekBarListPreference android:persistent="true" android:entries="@array/0_resource_name_obfuscated_res_0x7f03001a" android:title="@string/0_resource_name_obfuscated_res_0x7f140809" android:key="@string/0_resource_name_obfuscated_res_0x7f1406ae" android:entryValues="@array/0_resource_name_obfuscated_res_0x7f030023" seek_bar_text_left="@string/0_resource_name_obfuscated_res_0x7f140807" seek_bar_text_right="@string/0_resource_name_obfuscated_res_0x7f140808"/>
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.SeekBarListPreference android:persistent="true" android:entries="@array/0_resource_name_obfuscated_res_0x7f030019" android:title="@string/0_resource_name_obfuscated_res_0x7f140806" android:key="@string/0_resource_name_obfuscated_res_0x7f1406ad" android:entryValues="@array/0_resource_name_obfuscated_res_0x7f030022" seek_bar_text_left="@string/0_resource_name_obfuscated_res_0x7f140804" seek_bar_text_right="@string/0_resource_name_obfuscated_res_0x7f140805"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

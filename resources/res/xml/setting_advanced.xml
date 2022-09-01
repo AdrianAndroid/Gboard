@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/0_resource_name_obfuscated_res_0x7f140796">
+    <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140886" android:key="@string/0_resource_name_obfuscated_res_0x7f14071e" android:summary="@string/0_resource_name_obfuscated_res_0x7f140885">
+        <extra android:name="OEM_CONFIG" android:value="DEFAULT_VALUE"/>
+    </SwitchPreference>
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f140810" android:key="@string/0_resource_name_obfuscated_res_0x7f14080f">
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407e1" android:key="@string/0_resource_name_obfuscated_res_0x7f14068c" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407d8">
+            <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140861" android:key="@string/0_resource_name_obfuscated_res_0x7f140705" android:summary="@string/0_resource_name_obfuscated_res_0x7f140860">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/0_resource_name_obfuscated_res_0x7f14020f"/>
+            <extra android:name="OEM_CONFIG" android:value="VISIBILITY"/>
+        </SwitchPreference>
+        <com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407ec" android:key="@string/0_resource_name_obfuscated_res_0x7f140730" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407eb">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/0_resource_name_obfuscated_res_0x7f14020f"/>
+        </com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference>
+        <Preference android:persistent="false" android:title="@string/0_resource_name_obfuscated_res_0x7f1407b3" android:key="@string/0_resource_name_obfuscated_res_0x7f14089c" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407b2">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/0_resource_name_obfuscated_res_0x7f14020f"/>
+        </Preference>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407a9" android:key="@string/0_resource_name_obfuscated_res_0x7f140647" android:summaryOn="@string/0_resource_name_obfuscated_res_0x7f1407a8" android:summaryOff="@string/0_resource_name_obfuscated_res_0x7f1407a7">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/0_resource_name_obfuscated_res_0x7f140208"/>
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="Enable Soft Key Debug" android:key="@string/0_resource_name_obfuscated_res_0x7f140687"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

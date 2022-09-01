@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170555"/>
+    <keyboard>
+        <view override="motion_event_handler" type="sweep">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140689" reverse_preference="true"/>
+            <motion_event_handler class=".motioneventhandler.SpatialModelMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140689" reverse_preference="false"/>
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.zhuyin.ZhuyinGestureHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140674" reverse_preference="false"/>
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.zhuyin.ZhuyinKeyboardLayoutHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140674" reverse_preference="false"/>
+            <motion_event_handler class="com.google.android.libraries.inputmethod.motioneventhandler.ScrubMoveMotionEventHandler" preference_key="@string/0_resource_name_obfuscated_res_0x7f140684" reverse_preference="false"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bcc"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709fc"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a73"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a88"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f1709f6"/>
+            <if device="tablet" keyboard_mode="normal"/>
+            <else>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a49"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170a48"/>
+            </else>
+        </view>
+        <if device="tablet" keyboard_mode="normal">
+            <if device_size="large">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e02fe" type="sweep"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01f3" type="sweep"/>
+            </else>
+        </if>
+        <else_if device="foldable|tablet" keyboard_mode="split">
+            <if split_with_duplicate_keys="true">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0168" type="sweep"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0169" type="sweep"/>
+            </else>
+        </else_if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0167" type="sweep"/>
+        </else>
+    </keyboard>
+</framework>

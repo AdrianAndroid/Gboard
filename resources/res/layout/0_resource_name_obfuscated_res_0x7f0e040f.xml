@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" style="@style/0_resource_name_obfuscated_res_0x7f15063a">
+    <FrameLayout android:layout_weight="700" style="@style/0_resource_name_obfuscated_res_0x7f150631">
+        <ImageView android:layout_gravity="top" style="@style/0_resource_name_obfuscated_res_0x7f15042c"/>
+        <LinearLayout android:orientation="vertical" style="@style/0_resource_name_obfuscated_res_0x7f150644">
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0404"/>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0402"/>
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:layout_weight="300" style="@style/0_resource_name_obfuscated_res_0x7f150632">
+        <ImageView android:layout_gravity="top" style="@style/0_resource_name_obfuscated_res_0x7f15042c"/>
+        <ImageView android:layout_gravity="left" style="@style/0_resource_name_obfuscated_res_0x7f15042d"/>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e040b"/>
+    </FrameLayout>
+</LinearLayout>

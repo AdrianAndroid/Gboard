@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.textediting.TextEditingKeyboard" id="@+id/0_resource_name_obfuscated_res_0x7f0b06e5">
+        <if enable_nav_redesign="true">
+            <view direction="" layout="@layout/0_resource_name_obfuscated_res_0x7f0e040e" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f27"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ba2"/>
+            </view>
+        </if>
+        <else>
+            <view direction="" layout="@layout/0_resource_name_obfuscated_res_0x7f0e040d" scalable="false" type="header">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f27"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ba2"/>
+            </view>
+        </else>
+        <if enable_adaptive_text_editing="true">
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e040a" type="radial">
+                <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f26"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ba1"/>
+            </view>
+        </if>
+        <else>
+            <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0409" type="radial">
+                <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler"/>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f25"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170ba1"/>
+            </view>
+        </else>
+    </keyboard>
+</framework>

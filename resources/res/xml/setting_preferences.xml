@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto" android:title="@string/0_resource_name_obfuscated_res_0x7f140865">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f140830" android:key="@string/0_resource_name_obfuscated_res_0x7f14082f">
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407d9" android:key="@string/0_resource_name_obfuscated_res_0x7f14067c" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407da">
+            <extra android:name="OEM_CONFIG" android:value="DEFAULT_VALUE"/>
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140882" android:key="@string/0_resource_name_obfuscated_res_0x7f14071c" android:summary="@string/0_resource_name_obfuscated_res_0x7f140880" android:disableDependentsState="true">
+            <extra android:name="OEM_CONFIG" android:value="DEFAULT_VALUE_AND_VISIBILITY"/>
+        </SwitchPreference>
+        <com.google.android.libraries.inputmethod.preferencewidgets.UncheckDisabledSwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140884" android:key="@string/0_resource_name_obfuscated_res_0x7f14071d"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f140841" android:key="@string/0_resource_name_obfuscated_res_0x7f14083f">
+        <com.google.android.libraries.inputmethod.preferencewidgets.list.ListPreference android:entries="@array/0_resource_name_obfuscated_res_0x7f03001d" android:title="@string/0_resource_name_obfuscated_res_0x7f14085c" android:key="@string/0_resource_name_obfuscated_res_0x7f1406fe" android:summary="%s" android:dialogTitle="@string/0_resource_name_obfuscated_res_0x7f14085c" android:entryValues="@array/0_resource_name_obfuscated_res_0x7f030026"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140898" android:key="@string/0_resource_name_obfuscated_res_0x7f140723" android:summary="@string/0_resource_name_obfuscated_res_0x7f140897">
+            <extra android:name="hide_if_flag_is_false" android:value="enable_split_mode=false"/>
+        </SwitchPreference>
+        <com.google.android.libraries.inputmethod.preferencewidgets.list.ListPreference android:entries="@array/0_resource_name_obfuscated_res_0x7f03001b" android:title="@string/0_resource_name_obfuscated_res_0x7f14082a" android:key="@string/0_resource_name_obfuscated_res_0x7f1406bc" android:summary="%s" android:dialogTitle="@string/0_resource_name_obfuscated_res_0x7f14082a" android:entryValues="@array/0_resource_name_obfuscated_res_0x7f030024"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407a2" android:key="@string/0_resource_name_obfuscated_res_0x7f140667" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407a1">
+            <extra android:name="OEM_CONFIG" android:value="DEFAULT_VALUE"/>
+        </SwitchPreference>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f140829" android:key="@string/0_resource_name_obfuscated_res_0x7f140828">
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140892" android:key="@string/0_resource_name_obfuscated_res_0x7f140688"/>
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.VolumePreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140893" android:key="@string/0_resource_name_obfuscated_res_0x7f140721" android:dependency="@string/0_resource_name_obfuscated_res_0x7f140688"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1408aa" android:key="@string/0_resource_name_obfuscated_res_0x7f14068d">
+            <extra android:name="OEM_CONFIG" android:value="DEFAULT_VALUE_AND_VISIBILITY"/>
+        </SwitchPreference>
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.VibrationDurationPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1408ab" android:key="@string/0_resource_name_obfuscated_res_0x7f140731" android:dependency="@string/0_resource_name_obfuscated_res_0x7f14068d"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140864" android:key="@string/0_resource_name_obfuscated_res_0x7f14067e">
+            <extra android:name="OEM_CONFIG" android:value="DEFAULT_VALUE_AND_VISIBILITY"/>
+        </SwitchPreference>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f140846" android:key="@string/0_resource_name_obfuscated_res_0x7f140685" android:summary="@string/0_resource_name_obfuscated_res_0x7f140845">
+            <extra android:name="OEM_CONFIG" android:value="DEFAULT_VALUE"/>
+        </SwitchPreference>
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.LongPressDelayPreference android:persistent="true" android:max="@integer/0_resource_name_obfuscated_res_0x7f0c00f4" android:title="@string/0_resource_name_obfuscated_res_0x7f140823" android:key="@string/0_resource_name_obfuscated_res_0x7f1406ba"/>
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.LongPressDelayPreference android:persistent="true" android:max="@integer/0_resource_name_obfuscated_res_0x7f0c00f5" android:title="@string/0_resource_name_obfuscated_res_0x7f140824" android:key="@string/0_resource_name_obfuscated_res_0x7f1406bb" custom:minValue="@integer/0_resource_name_obfuscated_res_0x7f0c00f6" custom:valueInterval="@integer/0_resource_name_obfuscated_res_0x7f0c00f7"/>
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.SeekBarListPreference android:persistent="true" android:entries="@array/0_resource_name_obfuscated_res_0x7f03001c" android:title="@string/0_resource_name_obfuscated_res_0x7f14082e" android:key="@string/0_resource_name_obfuscated_res_0x7f1406bd" android:summary="@string/0_resource_name_obfuscated_res_0x7f14082b" android:entryValues="@array/0_resource_name_obfuscated_res_0x7f030025" seek_bar_text_left="@string/0_resource_name_obfuscated_res_0x7f14082c" seek_bar_text_right="@string/0_resource_name_obfuscated_res_0x7f14082d">
+            <extra android:name="hide_if_flag_is_false" android:value="show_slide_sensitivity_setting=false"/>
+        </com.google.android.apps.inputmethod.libs.preferencewidgets.SeekBarListPreference>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

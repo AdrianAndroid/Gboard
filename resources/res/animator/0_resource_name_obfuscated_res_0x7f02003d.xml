@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <selector>
+        <item android:state_enabled="true" android:state_pressed="true">
+            <set>
+                <objectAnimator android:duration="@integer/0_resource_name_obfuscated_res_0x7f0c00c5" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f070517" android:valueType="floatType" android:propertyName="translationZ"/>
+                <objectAnimator android:duration="0" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f07050b" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item android:state_enabled="true" android:state_hovered="true">
+            <set>
+                <objectAnimator android:duration="@integer/0_resource_name_obfuscated_res_0x7f0c00c5" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f070516" android:valueType="floatType" android:propertyName="translationZ"/>
+                <objectAnimator android:duration="0" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f07050b" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item android:state_focused="true" android:state_enabled="true">
+            <set>
+                <objectAnimator android:duration="@integer/0_resource_name_obfuscated_res_0x7f0c00c5" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f070516" android:valueType="floatType" android:propertyName="translationZ"/>
+                <objectAnimator android:duration="0" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f07050b" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item android:state_enabled="true">
+            <set>
+                <objectAnimator android:duration="@integer/0_resource_name_obfuscated_res_0x7f0c00c5" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f070515" android:valueType="floatType" android:propertyName="translationZ" android:startDelay="@integer/0_resource_name_obfuscated_res_0x7f0c00c4"/>
+                <objectAnimator android:duration="0" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f07050b" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+        <item>
+            <set>
+                <objectAnimator android:duration="0" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f07050a" android:valueType="floatType" android:propertyName="translationZ"/>
+                <objectAnimator android:duration="0" android:valueTo="@dimen/0_resource_name_obfuscated_res_0x7f070509" android:valueType="floatType" android:propertyName="elevation"/>
+            </set>
+        </item>
+    </selector>
+</set>

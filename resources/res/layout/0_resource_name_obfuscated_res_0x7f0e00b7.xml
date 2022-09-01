@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.framework.firstrun.SelectInputMethodStepPage xmlns:android="http://schemas.android.com/apk/res/android" pageId="@+id/0_resource_name_obfuscated_res_0x7f0b082b" style="@style/0_resource_name_obfuscated_res_0x7f15022d">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e00b3"/>
+    <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f150230">
+        <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0209" style="@style/0_resource_name_obfuscated_res_0x7f150237"/>
+        <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0206" android:text="@string/0_resource_name_obfuscated_res_0x7f14026c" style="@style/0_resource_name_obfuscated_res_0x7f150231"/>
+        <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <Button android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0205" android:visibility="gone" android:text="@string/0_resource_name_obfuscated_res_0x7f14026d" style="@style/0_resource_name_obfuscated_res_0x7f15022e"/>
+            <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0207" android:visibility="gone" style="@style/0_resource_name_obfuscated_res_0x7f150234">
+                <ImageView style="@style/0_resource_name_obfuscated_res_0x7f150235"/>
+                <android.support.v7.widget.AppCompatTextView style="@style/0_resource_name_obfuscated_res_0x7f150236"/>
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.framework.firstrun.SelectInputMethodStepPage>

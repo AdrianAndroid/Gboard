@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0014" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0012" android:tag=".access-point-panel-item-v2-bg-icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/0_resource_name_obfuscated_res_0x7f08008d" android:scaleType="centerInside" android:importantForAccessibility="no" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0"/>
+        <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0265" android:importantForAccessibility="no" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0" style="@style/0_resource_name_obfuscated_res_0x7f15027a"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <android.support.v7.widget.AppCompatTextView android:layout_gravity="bottom|center_horizontal" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0745" style="@style/0_resource_name_obfuscated_res_0x7f150314"/>
+</merge>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170bf5"/>
+    <softkeys>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec5">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b64" param_data="," param_keycode="COMMA" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b8e" param_data="." param_keycode="PERIOD" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b91" long_press_data=":P,:D,:(,:),^_^" param_data="." param_keycode="PERIOD" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b8f" long_press_data="@string/0_resource_name_obfuscated_res_0x7f14041a" param_data="." param_keycode="PERIOD" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec6">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b90" long_press_data="? ! … : ; _ % $ ^ &amp; :P :D :( :) ^_^" param_data="." param_keycode="PERIOD" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587"/>
+        </softkey_list>
+        <softkey_list splitter="," template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1ec4">
+            <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b62" long_press_data="@string/0_resource_name_obfuscated_res_0x7f140406" param_data=".com" param_keycode="PLAIN_TEXT" param_layout="@layout/0_resource_name_obfuscated_res_0x7f0e0590"/>
+        </softkey_list>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b71" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0587" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="," intention="COMMIT" keycode="KEYCODE_4" popup_label="," type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0746" value=","/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b94" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="/" intention="COMMIT" keycode="KEYCODE_POUND" popup_label="/" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="/"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b95" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="/" intention="COMMIT" keycode="KEYCODE_POUND" popup_label="/" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="/"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b9a" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="_" intention="COMMIT" keycode="KEYCODE_1" popup_label="_" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="_"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b5f" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0584" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="@" intention="COMMIT" keycode="KEYCODE_2" popup_label="@" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="@"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b0b60" layout="@layout/0_resource_name_obfuscated_res_0x7f0e058b" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="@" intention="COMMIT" keycode="KEYCODE_2" popup_label="@" type="PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="@"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b20fc" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0550" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="‌" intention="D" keycode="KEYCODE_1" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080278" popup_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04e8" type="PRESS"/>
+            <action data="‍" intention="D" keycode="KEYCODE_1" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080277" popup_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04e8" type="LONG_PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080278"/>
+        </softkey>
+        <softkey id="@+id/0_resource_name_obfuscated_res_0x7f0b20fd" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0550" multi_touch="false" popup_timing="@string/0_resource_name_obfuscated_res_0x7f140749">
+            <action data="‌" intention="C" keycode="KEYCODE_1" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080278" popup_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04e8" type="PRESS"/>
+            <action data="‍" intention="C" keycode="KEYCODE_1" popup_icon="@drawable/0_resource_name_obfuscated_res_0x7f080277" popup_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04e8" type="LONG_PRESS"/>
+            <icon location="@+id/0_resource_name_obfuscated_res_0x7f0b0265" value="@drawable/0_resource_name_obfuscated_res_0x7f080278"/>
+        </softkey>
+    </softkeys>
+</framework>

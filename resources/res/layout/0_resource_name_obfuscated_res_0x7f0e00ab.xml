@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:layout_width="wrap_content" android:layout_height="match_parent">
+    <ImageView android:layout_gravity="center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b08e8" android:tag=".divider.vertical.for-fast-access-bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/0_resource_name_obfuscated_res_0x7f0801b5" android:scaleType="center" android:contentDescription="@null" android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f07018b"/>
+</FrameLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" class="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" display_app_completions="true" inline_composing="false" keyevent_interpreter="com.google.android.apps.inputmethod.libs.chinese.PositionBasedKeyEventInterpreter" language="zh-XE" language_specific_settings="@xml/0_resource_name_obfuscated_res_0x7f170f2f" language_tag="zh-Hant-HK-t-i0-cangjie" secondary_ime_def="@xml/0_resource_name_obfuscated_res_0x7f170510" string_id="ime_zh_hk_cangjie" use_ascii_password_keyboard="true">
+        <keyboard_group supports_split_mode="true" variant="cangjie" variant_label="@string/0_resource_name_obfuscated_res_0x7f140f8e">
+            <if enable_number_row="true">
+                <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+            </if>
+            <layout_specific_settings resource_id="@xml/0_resource_name_obfuscated_res_0x7f170f2e"/>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170753" type="prime">
+                <merge def="@xml/0_resource_name_obfuscated_res_0x7f170587"/>
+                <if enable_number_row="true">
+                    <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707f7"/>
+                </if>
+            </keyboard>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+        <extra_values>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d2" value="true"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01e3" value="@string/0_resource_name_obfuscated_res_0x7f140423"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01de" value="。"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01cb" value="@string/0_resource_name_obfuscated_res_0x7f140669"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01c7" value="cangjie_standard_standard"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01dd" value="hmm"/>
+        </extra_values>
+        <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd6"/>
+    </ime>
+</framework>

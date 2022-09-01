@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:layout_width="wrap_content" android:layout_height="match_parent">
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07f6" android:layout_marginEnd="12dp" style="@style/0_resource_name_obfuscated_res_0x7f1503b7"/>
+    <FrameLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07f3" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+    <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b07f5" android:layout_marginStart="12dp" style="@style/0_resource_name_obfuscated_res_0x7f1503b7"/>
+</LinearLayout>

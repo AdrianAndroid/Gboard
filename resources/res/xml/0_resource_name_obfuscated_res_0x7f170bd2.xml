@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if device="tablet" device_size="large">
+        <override_keyboard_xml_conditions>
+            <string name="device_size" value="default"/>
+        </override_keyboard_xml_conditions>
+    </if>
+</framework>

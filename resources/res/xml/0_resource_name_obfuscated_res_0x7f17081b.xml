@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <if device="tablet" keyboard_mode="normal">
+            <if device_size="large">
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e0342" type="linear"/>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01d0" type="linear"/>
+            </else>
+        </if>
+        <else>
+            <if device="foldable" keyboard_mode="split">
+                <if split_with_duplicate_keys="true">
+                    <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01bb" type="linear"/>
+                </if>
+                <else>
+                    <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01bc" type="linear"/>
+                </else>
+            </if>
+            <else>
+                <view layout="@layout/0_resource_name_obfuscated_res_0x7f0e01ba" type="linear"/>
+            </else>
+        </else>
+        <view type="linear">
+            <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170f0b"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170b33"/>
+            <if device="tablet" keyboard_mode="normal">
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170af5"/>
+            </if>
+            <else>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170af2"/>
+            </else>
+        </view>
+    </keyboard>
+</framework>

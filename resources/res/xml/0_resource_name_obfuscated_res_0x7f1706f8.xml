@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view type="linear">
+            <if burmese_zawgyi="true" language="my" variant="burmese">
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170c02"/>
+            </if>
+            <else>
+                <softkeys href="@xml/0_resource_name_obfuscated_res_0x7f170bff"/>
+            </else>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170a56"/>
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0106"/>
+    <LinearLayout android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0106" style="@style/0_resource_name_obfuscated_res_0x7f1501d0">
+        <View android:id="@+id/0_resource_name_obfuscated_res_0x7f0b011c" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b011b" style="@style/0_resource_name_obfuscated_res_0x7f1501df"/>
+        <android.support.v7.widget.RecyclerView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0102" style="@style/0_resource_name_obfuscated_res_0x7f1501de"/>
+    </LinearLayout>
+</FrameLayout>

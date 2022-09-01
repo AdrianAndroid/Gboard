@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0117" android:layout_marginTop="2dp" android:layout_marginBottom="4dp" style="@style/0_resource_name_obfuscated_res_0x7f1501ec">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f0700de">
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="0dp" android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0700f5">
+                <ImageView android:tag=".icon.clipboard-item-check-filled" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0700eb" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0700eb" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080333" android:tint="@color/0_resource_name_obfuscated_res_0x7f0603b8" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14010b"/>
+                <ImageView android:layout_gravity="center_vertical" android:tag=".icon.clipboard-item-check-inner" android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0700ea" android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0700ea" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080362" android:tint="@android:color/white" android:importantForAccessibility="no" android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f0700e9" android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f0700e9"/>
+            </FrameLayout>
+            <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0118" android:tag=".keyboard-clipboard-linkable-text" android:text="@string/0_resource_name_obfuscated_res_0x7f14010c" style="@style/0_resource_name_obfuscated_res_0x7f1501e6"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="end" android:layout_gravity="bottom" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.google.android.material.button.MaterialButton android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f0700f2" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0119" android:tag=".label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0700ee" android:text="@string/0_resource_name_obfuscated_res_0x7f14010d" android:fontFamily="@font/0_resource_name_obfuscated_res_0x7f09000c" style="?attr/0_resource_name_obfuscated_res_0x7f04028a"/>
+            <com.google.android.material.button.MaterialButton android:id="@+id/0_resource_name_obfuscated_res_0x7f0b011a" android:layout_marginTop="0dp" android:text="@string/0_resource_name_obfuscated_res_0x7f14010e" style="@style/0_resource_name_obfuscated_res_0x7f1501e3"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

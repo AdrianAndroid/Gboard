@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <FrameLayout android:background="@drawable/0_resource_name_obfuscated_res_0x7f080304" android:paddingTop="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2dp" android:layout_marginRight="2dp" android:layout_marginHorizontal="2dp" style="@style/0_resource_name_obfuscated_res_0x7f1503ba">
+        <include android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/0_resource_name_obfuscated_res_0x7f0e049b"/>
+    </FrameLayout>
+</FrameLayout>

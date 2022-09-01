@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:fadeScrollbars="false">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="?attr/0_resource_name_obfuscated_res_0x7f0403b5" android:paddingTop="?attr/0_resource_name_obfuscated_res_0x7f0403b5" android:paddingRight="?attr/0_resource_name_obfuscated_res_0x7f0403b5" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/0_resource_name_obfuscated_res_0x7f080316" android:importantForAccessibility="no"/>
+        <com.google.android.material.textview.MaterialTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21f6" android:text="@string/0_resource_name_obfuscated_res_0x7f141187" style="@style/0_resource_name_obfuscated_res_0x7f1507ea"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/0_resource_name_obfuscated_res_0x7f080320" android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f1507e0"/>
+            <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1507e4">
+                <com.google.android.material.textview.MaterialTextView android:text="@string/0_resource_name_obfuscated_res_0x7f141183" style="@style/0_resource_name_obfuscated_res_0x7f1507e6"/>
+                <com.google.android.material.textview.MaterialTextView android:text="@string/0_resource_name_obfuscated_res_0x7f141182" style="@style/0_resource_name_obfuscated_res_0x7f1507e2"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/0_resource_name_obfuscated_res_0x7f08035c" android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f1507e0"/>
+            <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1507e4">
+                <com.google.android.material.textview.MaterialTextView android:text="@string/0_resource_name_obfuscated_res_0x7f14117f" style="@style/0_resource_name_obfuscated_res_0x7f1507e6"/>
+                <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21f2" android:text="@string/0_resource_name_obfuscated_res_0x7f14117e" style="@style/0_resource_name_obfuscated_res_0x7f1507e2"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/0_resource_name_obfuscated_res_0x7f080366" android:importantForAccessibility="no" style="@style/0_resource_name_obfuscated_res_0x7f1507e0"/>
+            <LinearLayout style="@style/0_resource_name_obfuscated_res_0x7f1507e4">
+                <com.google.android.material.textview.MaterialTextView android:text="@string/0_resource_name_obfuscated_res_0x7f141181" style="@style/0_resource_name_obfuscated_res_0x7f1507e6"/>
+                <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b21f3" android:text="@string/0_resource_name_obfuscated_res_0x7f141180" style="@style/0_resource_name_obfuscated_res_0x7f1507e2"/>
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="4dp" android:src="?attr/0_resource_name_obfuscated_res_0x7f040358" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f141186"/>
+        <com.google.android.material.textview.MaterialTextView android:textSize="12sp" android:textColor="?android:attr/textColorPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:text="@string/0_resource_name_obfuscated_res_0x7f14117d" android:fontFamily="@font/0_resource_name_obfuscated_res_0x7f09000a"/>
+    </LinearLayout>
+</ScrollView>

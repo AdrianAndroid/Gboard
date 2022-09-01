@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader android:title="@string/0_resource_name_obfuscated_res_0x7f140875">
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407b1" android:key="@string/0_resource_name_obfuscated_res_0x7f14064e" android:summary="@string/0_resource_name_obfuscated_res_0x7f1407af"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f1407fb" android:key="@string/0_resource_name_obfuscated_res_0x7f1406aa"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f14087e" android:key="@string/0_resource_name_obfuscated_res_0x7f14071b" android:summary="@string/0_resource_name_obfuscated_res_0x7f14087d"/>
+        <SwitchPreference android:persistent="true" android:title="@string/0_resource_name_obfuscated_res_0x7f14079e" android:key="@string/0_resource_name_obfuscated_res_0x7f140664" android:summary="@string/0_resource_name_obfuscated_res_0x7f14079d"/>
+        <ListPreference android:persistent="true" android:entries="@array/0_resource_name_obfuscated_res_0x7f030069" android:title="@string/0_resource_name_obfuscated_res_0x7f1407ac" android:key="@string/0_resource_name_obfuscated_res_0x7f14064b" android:summary="%s" android:entryValues="@array/0_resource_name_obfuscated_res_0x7f030021"/>
+    </com.google.android.libraries.inputmethod.preferencewidgets.PreferenceCategoryHeader>
+</PreferenceScreen>

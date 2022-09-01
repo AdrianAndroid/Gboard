@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@+id/0_resource_name_obfuscated_res_0x7f0b1eec" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0580" popup_timing="ON_GESTURE" span="$span$">
+            <action data="$param_data$" intention="COMMIT" keycode="KEYCODE_0" popup_label="$param_data$" type="PRESS"/>
+            <action data="$param_longpress_data$" intention="COMMIT" keycode="KEYCODE_0" popup_label="$param_longpress_data$" popup_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04c7" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$param_data$"/>
+        </softkey_template>
+        <softkey_template id="@+id/0_resource_name_obfuscated_res_0x7f0b1eed" layout="@layout/0_resource_name_obfuscated_res_0x7f0e0581" popup_timing="ON_GESTURE" span="$span$">
+            <action data="$param_data$" intention="COMMIT" keycode="KEYCODE_0" popup_label="$param_data$" type="PRESS"/>
+            <action data="$param_longpress_data$" intention="COMMIT" keycode="KEYCODE_0" popup_label="$param_longpress_data$" popup_layout="@layout/0_resource_name_obfuscated_res_0x7f0e04c7" type="LONG_PRESS"/>
+            <label location="@+id/0_resource_name_obfuscated_res_0x7f0b0745" value="$param_data$"/>
+        </softkey_template>
+    </softkeys>
+</framework>

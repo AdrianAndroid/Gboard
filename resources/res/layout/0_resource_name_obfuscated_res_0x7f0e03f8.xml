@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.keyboardmode.KeyboardSideFrame xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_gravity="bottom|right" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b067a" app:MaxHeight="?attr/0_resource_name_obfuscated_res_0x7f040133" style="@style/0_resource_name_obfuscated_res_0x7f1502d7">
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b01ad" android:src="@drawable/0_resource_name_obfuscated_res_0x7f0801e2" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14023e" style="@style/0_resource_name_obfuscated_res_0x7f1502d5"/>
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b214b" android:src="@drawable/0_resource_name_obfuscated_res_0x7f08028e" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14075e" style="@style/0_resource_name_obfuscated_res_0x7f1502d6"/>
+    <ImageView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b017f" android:src="@drawable/0_resource_name_obfuscated_res_0x7f08029b" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f1401ac" style="@style/0_resource_name_obfuscated_res_0x7f1502d4"/>
+</com.google.android.libraries.inputmethod.keyboardmode.KeyboardSideFrame>

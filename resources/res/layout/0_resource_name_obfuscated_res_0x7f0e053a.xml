@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0013" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0265" android:tag=".for-google-icon-foreground.for-google-icon-background" android:background="@drawable/0_resource_name_obfuscated_res_0x7f08008e" android:visibility="visible" android:layout_width="34dp" android:layout_height="34dp" android:scaleType="centerInside" android:tint="#686868" android:elevation="1.2dp"/>
+    </FrameLayout>
+</merge>

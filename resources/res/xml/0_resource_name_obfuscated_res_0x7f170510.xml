@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if device="tablet" keyboard_mode="normal">
+        <ime announce_auto_selected_candidate="true" candidate_selection_keys="1,2,3,4,5,6,7,8,9" class="com.google.android.libraries.inputmethod.ime.processor.ProcessorBasedIme" indicator_icon="@drawable/0_resource_name_obfuscated_res_0x7f0801c0" inline_composing="true" label="@string/0_resource_name_obfuscated_res_0x7f1400b0" language="zh-HK" prime_keyboard_type="HARD_QWERTY" status_icon="@drawable/0_resource_name_obfuscated_res_0x7f0801c1" string_id="zh_hk_cangjie_hard" supports_access_points="false">
+            <keyboard_group>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170588" type="prime"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <extra_values>
+                <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01cd" value="false"/>
+                <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01de" value="。"/>
+                <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01cb" value="@string/0_resource_name_obfuscated_res_0x7f140669"/>
+            </extra_values>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd6"/>
+        </ime>
+    </if>
+    <else>
+        <ime announce_auto_selected_candidate="true" class="com.google.android.libraries.inputmethod.ime.processor.ProcessorBasedIme" inline_composing="false" keyevent_interpreter="com.google.android.apps.inputmethod.libs.chinese.PositionBasedKeyEventInterpreter" label="@string/0_resource_name_obfuscated_res_0x7f1400b0" language="zh-HK" prime_keyboard_type="HARD_QWERTY" status_icon="@drawable/0_resource_name_obfuscated_res_0x7f0801c1" string_id="zh_hk_cangjie_hard" supports_access_points="false">
+            <keyboard_group>
+                <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170589" type="prime"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+                <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+            </keyboard_group>
+            <extra_values>
+                <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01cd" value="false"/>
+                <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01de" value="。"/>
+                <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01cb" value="@string/0_resource_name_obfuscated_res_0x7f140669"/>
+            </extra_values>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd6"/>
+        </ime>
+    </else>
+</framework>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f15005c" parent="@style/0_resource_name_obfuscated_res_0x7f15011e">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150063" parent="@style/0_resource_name_obfuscated_res_0x7f15011f">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1500e0" parent="@style/0_resource_name_obfuscated_res_0x7f1507a4">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:checkedTextViewStyle">@style/0_resource_name_obfuscated_res_0x7f150875</item>
+        <item name="android:dialogCornerRadius">@dimen/0_resource_name_obfuscated_res_0x7f07028d</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04023c">@style/0_resource_name_obfuscated_res_0x7f150356</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04029e">@style/0_resource_name_obfuscated_res_0x7f15086e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04029f">@style/0_resource_name_obfuscated_res_0x7f15086e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0402a0">@style/0_resource_name_obfuscated_res_0x7f15086f</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0402a1">@style/0_resource_name_obfuscated_res_0x7f15086e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04055e">@style/0_resource_name_obfuscated_res_0x7f150357</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040563">@style/0_resource_name_obfuscated_res_0x7f15035a</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1500e5" parent="@style/0_resource_name_obfuscated_res_0x7f150712">
+        <item name="android:backgroundDimAmount">0.32</item>
+        <item name="android:checkedTextViewStyle">@style/0_resource_name_obfuscated_res_0x7f150a23</item>
+        <item name="android:dialogCornerRadius">@null</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04023c">@style/0_resource_name_obfuscated_res_0x7f150369</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04029e">@style/0_resource_name_obfuscated_res_0x7f150a1b</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04029f">@style/0_resource_name_obfuscated_res_0x7f150a1b</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0402a0">@style/0_resource_name_obfuscated_res_0x7f150a1c</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0402a1">@style/0_resource_name_obfuscated_res_0x7f150a1b</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04055e">@style/0_resource_name_obfuscated_res_0x7f15036a</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04055f">@integer/0_resource_name_obfuscated_res_0x7f0c00d6</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15011e" parent="@style/0_resource_name_obfuscated_res_0x7f150117">
+        <item name="0_resource_name_obfuscated_res_0x7f0403b0">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15011f" parent="@style/0_resource_name_obfuscated_res_0x7f150118">
+        <item name="0_resource_name_obfuscated_res_0x7f0403b0">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1501ca">
+        <item name="android:textSize">@dimen/0_resource_name_obfuscated_res_0x7f0700c1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:tag">.label</item>
+        <item name="android:paddingTop">@dimen/0_resource_name_obfuscated_res_0x7f0700c0</item>
+        <item name="android:paddingBottom">@dimen/0_resource_name_obfuscated_res_0x7f0700bd</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">@integer/0_resource_name_obfuscated_res_0x7f0c0013</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f09000a</item>
+        <item name="android:paddingStart">@dimen/0_resource_name_obfuscated_res_0x7f0700bf</item>
+        <item name="android:paddingEnd">@dimen/0_resource_name_obfuscated_res_0x7f0700be</item>
+        <item name="android:lineHeight">@dimen/0_resource_name_obfuscated_res_0x7f0700ed</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1501cf">
+        <item name="android:textSize">@dimen/0_resource_name_obfuscated_res_0x7f0700c8</item>
+        <item name="android:textColor">@color/0_resource_name_obfuscated_res_0x7f060492</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/0_resource_name_obfuscated_res_0x7f0700c6</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f09000c</item>
+        <item name="android:paddingStart">@dimen/0_resource_name_obfuscated_res_0x7f0700c7</item>
+        <item name="android:paddingEnd">@dimen/0_resource_name_obfuscated_res_0x7f0700c7</item>
+        <item name="android:letterSpacing">0.033</item>
+        <item name="android:lineHeight">@dimen/0_resource_name_obfuscated_res_0x7f0700c5</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1501e1">
+        <item name="android:textSize">@dimen/0_resource_name_obfuscated_res_0x7f0700f2</item>
+        <item name="android:tag">.tooltip.positive_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/0_resource_name_obfuscated_res_0x7f0700ee</item>
+        <item name="android:text">@string/0_resource_name_obfuscated_res_0x7f140101</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f09000c</item>
+        <item name="android:layout_marginEnd">@dimen/0_resource_name_obfuscated_res_0x7f0700dc</item>
+        <item name="android:lineHeight">@dimen/0_resource_name_obfuscated_res_0x7f0700ef</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1501e6">
+        <item name="android:textSize">@dimen/0_resource_name_obfuscated_res_0x7f0700e1</item>
+        <item name="android:tag">.label</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f09000a</item>
+        <item name="android:paddingEnd">@dimen/0_resource_name_obfuscated_res_0x7f0700dc</item>
+        <item name="android:lineHeight">@dimen/0_resource_name_obfuscated_res_0x7f0700ed</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1501e9">
+        <item name="android:textSize">@dimen/0_resource_name_obfuscated_res_0x7f0700e2</item>
+        <item name="android:gravity">0x800003</item>
+        <item name="android:layout_gravity">0x10</item>
+        <item name="android:tag">.label</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f09000c</item>
+        <item name="android:paddingEnd">@dimen/0_resource_name_obfuscated_res_0x7f0700dc</item>
+        <item name="android:lineHeight">@dimen/0_resource_name_obfuscated_res_0x7f0700ed</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150592" parent="@style/0_resource_name_obfuscated_res_0x7f15054e">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040765</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040765</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">24sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150593" parent="@style/0_resource_name_obfuscated_res_0x7f15054d">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040765</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040765</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">20sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150594" parent="@style/0_resource_name_obfuscated_res_0x7f150550">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040765</item>
+        <item name="android:letterSpacing">0.0083</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040765</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">16sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150595" parent="@style/0_resource_name_obfuscated_res_0x7f150553">
+        <item name="android:textSize">57sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">64sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">64sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150596" parent="@style/0_resource_name_obfuscated_res_0x7f150552">
+        <item name="android:textSize">45sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">52sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">52sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150597" parent="@style/0_resource_name_obfuscated_res_0x7f150551">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">44sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">44sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150598" parent="@style/0_resource_name_obfuscated_res_0x7f150551">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">40sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">40sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150599" parent="@style/0_resource_name_obfuscated_res_0x7f150555">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">36sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">36sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15059a" parent="@style/0_resource_name_obfuscated_res_0x7f150566">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">32sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">32sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15059b" parent="@style/0_resource_name_obfuscated_res_0x7f15054d">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">20sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15059c" parent="@style/0_resource_name_obfuscated_res_0x7f150550">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="android:letterSpacing">0.0083</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">16sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15059d" parent="@style/0_resource_name_obfuscated_res_0x7f150550">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="android:letterSpacing">0.0091</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">16sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15059e" parent="@style/0_resource_name_obfuscated_res_0x7f150566">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">28sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040764</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">28sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15059f" parent="@style/0_resource_name_obfuscated_res_0x7f150564">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">24sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1505a0" parent="@style/0_resource_name_obfuscated_res_0x7f150564">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">?attr/0_resource_name_obfuscated_res_0x7f040767</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">20sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1505f8" parent="@style/0_resource_name_obfuscated_res_0x7f15054e">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.0312</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">24sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1505f9" parent="@style/0_resource_name_obfuscated_res_0x7f15054d">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.0179</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">20sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1505fa" parent="@style/0_resource_name_obfuscated_res_0x7f150550">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.0333</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">16sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1505fb" parent="@style/0_resource_name_obfuscated_res_0x7f150553">
+        <item name="android:textSize">57sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">-0.0044</item>
+        <item name="android:lineHeight">64sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">64sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1505fc" parent="@style/0_resource_name_obfuscated_res_0x7f150552">
+        <item name="android:textSize">45sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">52sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">52sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1505fd" parent="@style/0_resource_name_obfuscated_res_0x7f150551">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">44sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">44sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1505fe" parent="@style/0_resource_name_obfuscated_res_0x7f150551">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">40sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">40sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1505ff" parent="@style/0_resource_name_obfuscated_res_0x7f150555">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">36sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">36sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150600" parent="@style/0_resource_name_obfuscated_res_0x7f150566">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">32sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">32sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150601" parent="@style/0_resource_name_obfuscated_res_0x7f15054d">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0071</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif-medium</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">20sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150602" parent="@style/0_resource_name_obfuscated_res_0x7f150550">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0417</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif-medium</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">16sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150603" parent="@style/0_resource_name_obfuscated_res_0x7f150550">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0455</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif-medium</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">16sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150604" parent="@style/0_resource_name_obfuscated_res_0x7f150566">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">@null</item>
+        <item name="android:lineHeight">28sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">28sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150605" parent="@style/0_resource_name_obfuscated_res_0x7f150564">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0094</item>
+        <item name="android:lineHeight">24sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif-medium</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">24sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150606" parent="@style/0_resource_name_obfuscated_res_0x7f150564">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">0x0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0071</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040456">sans-serif-medium</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040526">20sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1507bd">
+        <item name="android:textSize">?attr/0_resource_name_obfuscated_res_0x7f0401fe</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:layout_gravity">0x10</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">?attr/0_resource_name_obfuscated_res_0x7f040200</item>
+        <item name="android:layout_marginBottom">?attr/0_resource_name_obfuscated_res_0x7f040200</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f09000a</item>
+        <item name="android:layout_marginStart">?attr/0_resource_name_obfuscated_res_0x7f0401ff</item>
+        <item name="android:lineHeight">@dimen/0_resource_name_obfuscated_res_0x7f070715</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1507d5">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:gravity">0x11</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/0_resource_name_obfuscated_res_0x7f070735</item>
+        <item name="android:layout_marginBottom">@dimen/0_resource_name_obfuscated_res_0x7f070735</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f09000c</item>
+        <item name="android:lineHeight">24sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1507d7">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:gravity">0x11</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/0_resource_name_obfuscated_res_0x7f070734</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f090002</item>
+        <item name="android:lineHeight">32sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1507e8">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f09000c</item>
+        <item name="android:lineHeight">24sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1507ea">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:gravity">0x11</item>
+        <item name="android:layout_gravity">0x11</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/0_resource_name_obfuscated_res_0x7f07074b</item>
+        <item name="android:layout_marginTop">@dimen/0_resource_name_obfuscated_res_0x7f07074c</item>
+        <item name="android:layout_marginRight">@dimen/0_resource_name_obfuscated_res_0x7f07074b</item>
+        <item name="android:layout_marginBottom">@dimen/0_resource_name_obfuscated_res_0x7f07074c</item>
+        <item name="android:fontFamily">@font/0_resource_name_obfuscated_res_0x7f090002</item>
+        <item name="android:lineHeight">32sp</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15094d" parent="@android:style/Widget">
+        <item name="android:textAppearance">@style/0_resource_name_obfuscated_res_0x7f1505e8</item>
+        <item name="android:minHeight">@dimen/0_resource_name_obfuscated_res_0x7f07020f</item>
+        <item name="android:paddingStart">@dimen/0_resource_name_obfuscated_res_0x7f070211</item>
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0403a6">true</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0403a8">true</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0403dd">@dimen/0_resource_name_obfuscated_res_0x7f07020e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0403f6">true</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04047b">false</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040584">@style/0_resource_name_obfuscated_res_0x7f150755</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04058a">@dimen/0_resource_name_obfuscated_res_0x7f07020f</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04067d">?attr/0_resource_name_obfuscated_res_0x7f040684</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040685">@style/0_resource_name_obfuscated_res_0x7f15047b</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150970" parent="@style/0_resource_name_obfuscated_res_0x7f150a07">
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040521">true</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1509fc" parent="@style/0_resource_name_obfuscated_res_0x7f150836">
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+        <item name="0_resource_name_obfuscated_res_0x7f040372">0dp</item>
+        <item name="0_resource_name_obfuscated_res_0x7f0406e0">?attr/0_resource_name_obfuscated_res_0x7f040744</item>
+        <item name="0_resource_name_obfuscated_res_0x7f04078b">?attr/0_resource_name_obfuscated_res_0x7f040743</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f1503c6" parent="@style/0_resource_name_obfuscated_res_0x7f1503d5">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1503c7" parent="@style/0_resource_name_obfuscated_res_0x7f1503d6">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1503d5" parent="@android:style/Theme.Material.NoActionBar">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1503d6" parent="@android:style/Theme.Material.Light.NoActionBar">
+    </style>
+</resources>

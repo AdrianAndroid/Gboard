@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="0_resource_name_obfuscated_res_0x7f140061">Ditambahkan ke favorit</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140062">Dihapus dari favorit</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140073">Perlu izin kamera untuk membuat mini.</string>
+    <string name="avatar_customizer_label">Sesuaikan mini Anda</string>
+    <string name="0_resource_name_obfuscated_res_0x7f14008c">Tidak ada koneksi internet</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c4">Sesuaikan paket %1$s</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c5">Hapus paket %1$s.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c6">Tandai paket %1$s sebagai favorit</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c7">Hapus tanda favorit dari paket %1$s</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1400c8">Kembali</string>
+    <string name="0_resource_name_obfuscated_res_0x7f1401a9">-id</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140501">Kreator: %1$s</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140502">Buat</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140503">Mini sesuai keinginan Anda</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140504">Sesuaikan</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140505">Batal</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140506">Hapus</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140507">Anda akan menghapus semua konten dalam paket %1$s.</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140508">Hapus paket ini?</string>
+    <string name="0_resource_name_obfuscated_res_0x7f140509">Bagikan stiker melalui</string>
+    <string name="megamode_title_label">Mini Anda</string>
+    <string name="preferences_license_title">Pemberitahuan Pihak Ketiga</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.accesspoint.impl.AccessPointDragPopupView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content" android:layout_height="wrap_content" focus_animate_view="@layout/0_resource_name_obfuscated_res_0x7f0e001c">
+    <ImageView android:layout_gravity="top|left" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0265" android:tag=".icon.access-points-panel-item.for-access-point-icon" android:background="?attr/0_resource_name_obfuscated_res_0x7f040018" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside"/>
+</com.google.android.libraries.inputmethod.accesspoint.impl.AccessPointDragPopupView>

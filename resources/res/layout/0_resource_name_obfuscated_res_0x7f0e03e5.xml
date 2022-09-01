@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" app:allowMockActionDown="false" style="@style/0_resource_name_obfuscated_res_0x7f150251">
+    <com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout style="@style/0_resource_name_obfuscated_res_0x7f150254">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0137"/>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/key_pos_password_header_numbers" android:paddingLeft="?attr/0_resource_name_obfuscated_res_0x7f040120" android:paddingRight="?attr/0_resource_name_obfuscated_res_0x7f040120" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="ltr" app:managed="true">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_1" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_2" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_3" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_4" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_5" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_6" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_7" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_8" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_9" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@+id/key_pos_password_header_number_0" android:layout_weight="100" style="@style/0_resource_name_obfuscated_res_0x7f1504aa"/>
+        </LinearLayout>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0502"/>
+    </com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

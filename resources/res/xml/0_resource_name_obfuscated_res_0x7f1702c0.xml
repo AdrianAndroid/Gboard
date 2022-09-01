@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" candidate_selection_keys="1,2,3,4,5,6,7,8,9" class="com.google.android.apps.inputmethod.libs.mozc.ime.SimpleJapaneseIme" inline_composing="true" language="@string/0_resource_name_obfuscated_res_0x7f14036f" prime_keyboard_type="HARD_QWERTY" status_icon="@drawable/0_resource_name_obfuscated_res_0x7f0801f6" string_id="@string/0_resource_name_obfuscated_res_0x7f14093a" supports_access_points="false" unacceptable_meta_keys="">
+        <keyboard_group>
+            <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17078a" type="prime"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170985"/>
+            <include href="@xml/0_resource_name_obfuscated_res_0x7f170bd2"/>
+        </keyboard_group>
+        <extra_values>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01df" value="HARDWARE_QWERTY_KANA"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d1" value="HARDWARE_QWERTY_KANA"/>
+            <item id="@+id/0_resource_name_obfuscated_res_0x7f0b01d5" value="true"/>
+        </extra_values>
+    </ime>
+</framework>

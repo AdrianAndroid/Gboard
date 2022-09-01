@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0254" android:paddingBottom="48dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <android.support.v7.widget.AppCompatTextView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0255" style="@style/0_resource_name_obfuscated_res_0x7f15024e"/>
+    </LinearLayout>
+    <com.google.android.apps.inputmethod.libs.handwriting.keyboard.HandwritingOverlayView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0253" android:tag=".track.for-handwriting" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f1402f0" animation_mode="FADE_OUT" animation_time="@integer/0_resource_name_obfuscated_res_0x7f0c0058" max_stroke_width="@dimen/0_resource_name_obfuscated_res_0x7f0702c9" min_stroke_width="@dimen/0_resource_name_obfuscated_res_0x7f0702ca" stroke_color="@color/0_resource_name_obfuscated_res_0x7f060004" style="@style/0_resource_name_obfuscated_res_0x7f15024f"/>
+</FrameLayout>

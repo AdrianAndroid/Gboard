@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework xmlns:android="http://schemas.android.com/apk/res/android">
+    <if enable_number_row="true">
+        <attrs layout_theme="@style/0_resource_name_obfuscated_res_0x7f1502c0"/>
+    </if>
+    <layout_specific_settings resource_id="@xml/setting_japanese_softwarekeyboard"/>
+    <if device="tablet" keyboard_mode="normal">
+        <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17078d" type="prime">
+            <if enable_number_row="true">
+                <merge def="@xml/0_resource_name_obfuscated_res_0x7f17080f"/>
+            </if>
+        </keyboard>
+    </if>
+    <else>
+        <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17078d" type="prime">
+            <if enable_number_row="true">
+                <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707f1"/>
+            </if>
+        </keyboard>
+    </else>
+    <if device="tablet" keyboard_mode="normal">
+        <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170856" type="digit">
+            <merge def="@xml/0_resource_name_obfuscated_res_0x7f1705ca"/>
+        </keyboard>
+    </if>
+    <else>
+        <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170855" type="digit">
+            <merge def="@xml/0_resource_name_obfuscated_res_0x7f1705ca"/>
+        </keyboard>
+    </else>
+    <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f1708fe" type="symbol">
+        <merge def="@xml/0_resource_name_obfuscated_res_0x7f1705ca"/>
+    </keyboard>
+    <if device="tablet" keyboard_mode="normal">
+        <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17078c" type="linear">
+            <if enable_number_row="true">
+                <merge def="@xml/0_resource_name_obfuscated_res_0x7f17080e"/>
+            </if>
+        </keyboard>
+    </if>
+    <else>
+        <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17078c" type="linear">
+            <if enable_number_row="true">
+                <merge def="@xml/0_resource_name_obfuscated_res_0x7f1707f4"/>
+            </if>
+        </keyboard>
+    </else>
+    <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f17078e" type="tri_state_digit"/>
+    <keyboard def="@xml/0_resource_name_obfuscated_res_0x7f170906" type="tri_state_symbol"/>
+</framework>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0f9b" view_id="@+id/key_pos_zwnj_with_zwj"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d06" view_id="@+id/key_pos_space"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b0e06" view_id="@+id/key_pos_del"/>
+        <mapping key_id="@+id/0_resource_name_obfuscated_res_0x7f0b1d5e" view_id="@+id/key_pos_switch_to_symbol"/>
+    </key_mapping>
+</framework>

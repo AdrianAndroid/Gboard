@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f1502a0">
+    <com.google.android.libraries.inputmethod.widgets.AutoCenteredLabelView android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0745" style="@style/0_resource_name_obfuscated_res_0x7f1502de"/>
+</FrameLayout>

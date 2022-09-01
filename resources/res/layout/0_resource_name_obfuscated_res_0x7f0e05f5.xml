@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.AppCompatTextView xmlns:android="http://schemas.android.com/apk/res/android" android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f07072e" android:textColor="@color/0_resource_name_obfuscated_res_0x7f0600dd" android:gravity="center_vertical" android:id="@+id/0_resource_name_obfuscated_res_0x7f0b0745" android:tag=".label.for-extension" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="match_parent" android:maxLines="1"/>

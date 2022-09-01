@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/0_resource_name_obfuscated_res_0x7f170f12"/>
+    <softkeys>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f0c">
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f14059c" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ad9" param_icon="@attr/0_resource_name_obfuscated_res_0x7f0400da"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e9" id="@+id/0_resource_name_obfuscated_res_0x7f0b1adb" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f08026a"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e5" id="@+id/0_resource_name_obfuscated_res_0x7f0b1add" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080269"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e7" id="@+id/0_resource_name_obfuscated_res_0x7f0b1adf" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080266"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408eb" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae1" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080267"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e4" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae3" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080264"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e8" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae5" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080265"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408ea" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae7" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f08026b"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e6" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae9" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080268"/>
+        </softkey_list>
+        <softkey_list template_id="@+id/0_resource_name_obfuscated_res_0x7f0b1f0d">
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f14059c" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ada" param_data="SUB_CATEGORY_1" param_icon="@attr/0_resource_name_obfuscated_res_0x7f0400da"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e9" id="@+id/0_resource_name_obfuscated_res_0x7f0b1adc" param_data="SUB_CATEGORY_2" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f08026a"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e5" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ade" param_data="SUB_CATEGORY_3" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080269"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e7" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae0" param_data="SUB_CATEGORY_4" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080266"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408eb" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae2" param_data="SUB_CATEGORY_5" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080267"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e4" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae4" param_data="SUB_CATEGORY_6" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080264"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e8" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae6" param_data="SUB_CATEGORY_7" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080265"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408ea" id="@+id/0_resource_name_obfuscated_res_0x7f0b1ae8" param_data="SUB_CATEGORY_8" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f08026b"/>
+            <softkey desc="@string/0_resource_name_obfuscated_res_0x7f1408e6" id="@+id/0_resource_name_obfuscated_res_0x7f0b1aea" param_data="SUB_CATEGORY_9" param_icon="@drawable/0_resource_name_obfuscated_res_0x7f080268"/>
+        </softkey_list>
+    </softkeys>
+</framework>
